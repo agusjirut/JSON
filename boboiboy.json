@@ -1,0 +1,65 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":0,
+      "name_skin":"boboiboy halilintar",
+      "skin_url":"https://lh3.googleusercontent.com/jn4ZP2qllg9evsRMKjG4VvKlY6z5Q2wsfEWjYtZxEeyrifl5MbbAETSeBIYK02Y_2slwS-r8qI35dHG8K2L2NAQ",
+      "view_skin":"https://lh3.googleusercontent.com/-TgnbaO6SPFCG0-LwGVNxReF4uRlQcJkeRdE-T42qWGy0mHn7Fy2zgZU1CL-xZvt1OWJa_gseiVe7cbvBRccOQ"
+    },
+    {
+      "id":0,
+      "name_skin":"boboiboy frost fire",
+      "skin_url":"https://lh3.googleusercontent.com/JkgkVr3gEslh4q4tDHzyo1IP702xic0ZZmuRDzJMLtAdUccrJe60Wsy1qU0pkZ04MSWXebROL8_Wk1QHCDJGMw",
+      "view_skin":"https://lh3.googleusercontent.com/AxdY4ZgM8emhVHtgJOa_auCVx2PfJI1MCLJhrjTIUDvD5BX-1yQszOB-G3q2_A0dxPaEW0HZnogKERQrGSOTtA"
+    },
+	{
+      "id":0,
+      "name_skin":"boboiboy voltra",
+      "skin_url":"https://lh3.googleusercontent.com/eLqUn1K_7q2VHMWtRj5CGy8FjIBxTTA1SqrIfCPNpGzcb51T33OVRHW7ed0Cb3Fk_gUoc6A5370Fo0yzq7G2K4bQum9ENO9Gx8ER",
+      "view_skin":"https://lh3.googleusercontent.com/hlctoZ1q9Yz0k8kUIfwxPykXQfarOQ8BYTpRXzlDLe82ytv3YVLGJykQRWMYoAZEmir-10wHNObV-QYjoHqFFI4ZkhNEv3D6miU"
+    },
+    {
+      "id":0,
+      "name_skin":"boboiboy air",
+      "skin_url":"https://lh3.googleusercontent.com/Ap09Dr4RIfD9etLX8ZYcrbkISiiIztw1ZaFOD3ZFJn1OLYoeCNAziFFaY-dN0NZFQUQelg-LzMCn_1eYgYrWPKAsXhdKxi5_Lg",
+      "view_skin":"https://lh3.googleusercontent.com/h12NNp5OK5ivb7wQI6rJyJV9GyZ58IRPZTYxFmz6wDqA7-blOGNTNSf0qyzeVbXemj3f3iUwIGyqV6FYLnfiyc9aT5fORcfkuA"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
+
