@@ -187,7 +187,7 @@
 		{
 			"id": 28,
 			"name_skin": "ninja golem",
-			"skin_url": "https://lh3.googleusercontent.com/EtHH4DEZ4vk_4K-EfbMWuMYNVvMxeWNBYxE9GAF3dfVSJJbT6j2u48mXgJpJFKsqROeESZdvhpsR40108T8FyA",
+			"skin_url": "https://lh3.googleusercontent.com/7r5sSHzwItP-h5Cq1l6Kb34yy7Wae5Wej7YGN_nrjJmyepdzjmjKWG8eh6vLxsyrtjiIZ4UQWAfe22JvgN90EQ",
 			"view_skin": "https://lh3.googleusercontent.com/-D_UaGgDKVPk6zXw_KhfTfeCms0lEufg-8z3yuOxRHdXiXzzyB2rldUAmo0Tv1H65yJPVyX2Q6ZmtlkcuXfXnw"
 		},
 		{
@@ -323,10 +323,20 @@
 			"view_skin": "https://lh3.googleusercontent.com/NsU2o8aMzWVdziuMkJ_CxsCd_NKCfLSWMfRxB_vtA3CuTeVYDwPCbcFCrlgSC_mbmj05ZHw4LdkI32bVOJBdDA"
 		}
 	],
-	"Addons": [
-
-	],
-	"Maps": [
-
-	]
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
 }
