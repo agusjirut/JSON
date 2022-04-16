@@ -1,7 +1,7 @@
 {
 	"Ads": [{
-		"select_main_ads": "",
-		"select_backup_ads": "",
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "APPLOVIN-D",
 		"main_ads_banner": "",
 		"main_ads_intertitial": "",
 		"native_for_admob": "",
@@ -329,10 +329,20 @@
 			"view_skin": "https://lh3.googleusercontent.com/XjzK6sNwV2AcTI-Cgc0zCLNhLwMiawrW-CowAUeL7BwvOqO2Aa6xcici-EBMupC-Y29VvYIafzxKYMSO-CFL7os"
 		}
 	],
-	"Addons": [
-
-	],
-	"Maps": [
-
-	]
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
 }
