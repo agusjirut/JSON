@@ -1,0 +1,420 @@
+{
+	"Ads": [{
+		"select_main_ads": "",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"native_for_admob": "",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 5,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"name_skin": "sft46 Godzilla Block",
+			"skin_url": "https://lh3.googleusercontent.com/BIvQAiJ-uKgL912fVVFyrbNvB96d9_ABn3c82nSVpc_MIs5eDhe5YX7E8Tc_Y-7DniZCSEoAOoxjxqWo5Vc4dB1L2SN3hdTHb0Y",
+			"view_skin": "https://lh3.googleusercontent.com/GDk2sdwzcI8VbymyiTqo8QRYD6fjBUY_oKN-L4lwWTPgxkszewLh0Afg97KMtZ1ePlp62zLCBaCqHEKHmNoZFyAeH7ou-hS6XA"
+		},
+		{
+			"id": 2,
+			"name_skin": "Diamond Ore Block",
+			"skin_url": "https://lh3.googleusercontent.com/rIbuaRDZOS01-j48jBKl7q79z1CoFO5_DzTX1fxtc_ONoLb4ZzNNBOo3JOPm-74xyf86bYHaFYFQhsBFZ2OKpe0",
+			"view_skin": "https://lh3.googleusercontent.com/ZQi1DZyTzmuFgZsuOFIpDHup3u5nwh1XyDqdN8YpC9egsmJyws2Oi5w3oyA4oJqhup40D7YrgOZvz3l16TMK0A"
+		},
+		{
+			"id": 3,
+			"name_skin": "Spectrite block by creepes god",
+			"skin_url": "https://lh3.googleusercontent.com/tYUyFvAbtmKZH4SZq42DVd3vRnBbknTpm6iYe-nl1VQIYIU9JJSBFJe_zW2HQhnLbJrpyvsscsU-0uJiOM6RHQ",
+			"view_skin": "https://lh3.googleusercontent.com/On8ha7-x8EtoqsyYwusuu37PTSGXzENoZ2ypM1OhRKBtg0t41c0LoDZjg1vpyp-2KhgLaciu80yZT9KoMCBkaDc"
+		},
+		{
+			"id": 4,
+			"name_skin": "hd Purple girl hoodie block",
+			"skin_url": "https://lh3.googleusercontent.com/HbBIFXMW_yRKsAjETya3S_D_bqQCiF5eHNhLUOnEW2Y1MRkjTHxkFVPukXsKSE3Wom_wx1JryTdgp7iZ6JD-kkFhgUDupDDTVXc",
+			"view_skin": "https://lh3.googleusercontent.com/efkZCqsWMxXzYFT6mhuNwCdMwh15q4q-LdgfC4rLw7OZJwDkgyIa2KFptgFvA-Ucdzu0W99JSn-yk3UxG5pl2INzpriG5FtaWA"
+		},
+		{
+			"id": 5,
+			"name_skin": "Lucky Block",
+			"skin_url": "https://lh3.googleusercontent.com/74VDC8Jw1Ewby1MpI0cfoi69I2GuStIbxUyyyepXS3Z8GDHyhDNp3iFNFBHt-Oe7xibRUfZOjg0n2-OUs8KIShI",
+			"view_skin": "https://lh3.googleusercontent.com/VCLrMrZaVqu73vIDOLm3DxX8ml_oFU6Q2Jp28YOlV0CfxDWFA5y_Qx2nE8xK5vgXiJPq41UOLd-g6eN9_0czTg"
+		},
+		{
+			"id": 6,
+			"name_skin": "Diamond block",
+			"skin_url": "https://lh3.googleusercontent.com/tPGkrzjOk1WZ5gacH0hUIiBYvn2WrQO-X-lPF5ZfoCsHXYwwrAbzhdgF4czE91DEkilxZMiBFrljHluUwanzGzc",
+			"view_skin": "https://lh3.googleusercontent.com/11B951tKcTZ7n90Sr5Pf4pZ6WR4dr4_9kKBEVwoTD94bYauqcoaMZA2nnO8MT-6iBnsCZAN_I0IeAG-cYFsSj5ntoSQ_XQq4xuc"
+		},
+		{
+			"id": 7,
+			"name_skin": "among us block",
+			"skin_url": "https://lh3.googleusercontent.com/ITBiwt7p-_XzsVnSp53tUs-CRpSEQW6zfUQzxGQ37QdSq-AnFK2uR9qfiD8X6jmnprx6kWL1FWYFGBzPYV-_GZObdhxrrsWdQA",
+			"view_skin": "https://lh3.googleusercontent.com/cdErE2mMHewC5H24FzV7DtNM5WSL3QBnmhK3bje2ax0dc9jqSf0JdKmWybyNPigwYFrnY7smQTm_WR56q_6qbd2E3l5i9L4VH6w"
+		},
+		{
+			"id": 8,
+			"name_skin": "Command Block Sword (Minecraft Story Mode)",
+			"skin_url": "https://lh3.googleusercontent.com/q3xHrJjAvQE6cS-Ppwe-pBVIdLtfNEpAzzZdDl71vY1O7sxAyrNiE3nXkLzx90zCA7BiBlmmnWHnZk6fu54Csw",
+			"view_skin": "https://lh3.googleusercontent.com/duvd6W2kKcIynstD2PX1Ok_-YsQwFdftzPoMFODdQfRBZhY44VejnjCnPn_ZSsfXR3q2s48jLU95Qfu0JZEm"
+		},
+		{
+			"id": 9,
+			"name_skin": "Grass Block",
+			"skin_url": "https://lh3.googleusercontent.com/I0Ati-G06KEyAjfz6GA-tsdFUcefYoNNFJq39yrkAuwAGWZWap2fHtVxU71P_T4zuQBO6W3l898r7mBK1_d5",
+			"view_skin": "https://lh3.googleusercontent.com/2ZdPa8KBDybnUudpc9yRmaCU3DYHH4SL7gxRTPwyk1oCn_1xCzntDLkb02MChMipFu-N3BzNAtXP2BCiwOl9WgM"
+		},
+		{
+			"id": 10,
+			"name_skin": "diamond block - item",
+			"skin_url": "https://lh3.googleusercontent.com/yyNwJXhm1jRcEKE9yfsWOdX_vwFynGuQOFINFoKkiJFT4tuizTTNbqdHoX1PYYV-kmNoNRKRBcnI0YowOjbew9A",
+			"view_skin": "https://lh3.googleusercontent.com/-gxlEqaASnLyr7ASf_8Hk2TY6Pms1xzyKHdi4ZBIQEQZPQLzwWgUPlhJDZOaK3u58MOfNW6nlvQI5wbx0oOGXA"
+		},
+		{
+			"id": 11,
+			"name_skin": "ruby block earth",
+			"skin_url": "https://lh3.googleusercontent.com/H3aYoETW8OLL7RhYezKQ0UX6Y7KoROQ_NgDNt6X8jVke71n4dUroi7x_0jOHV_XIi9eK9N0ESKkBhrOOfINXu4PYn9KvMreohXY",
+			"view_skin": "https://lh3.googleusercontent.com/wkhcUgAkdFgTMwWaDol992uSV6uBIECAa2NHoEVJ4jpddDLHLJc11FnJzhXj77ZvvhQ9rXWcuepb3pFHaCxVGfOLR1cQFTWjG5o"
+		},
+		{
+			"id": 12,
+			"name_skin": "super avaritia lucky block by creepes god",
+			"skin_url": "https://lh3.googleusercontent.com/x7vTlcSWXSuLCFW5vPL2tr2tDy6jBFrkub6hpkUCdmslFVfFJkI_jXnxDiVRNGVgzbwrMSVnQ6w_pJALCCNS",
+			"view_skin": "https://lh3.googleusercontent.com/YaI5jznFSTFPBh-w0MIuJS0N7j8LSxvZWZrNdjAvr_ZH8tio7SF7iRMo6dbMxGEI1YdnpD6PVdOcH0KJevWDkOg"
+		},
+		{
+			"id": 13,
+			"name_skin": "noob holding dirt block",
+			"skin_url": "https://lh3.googleusercontent.com/ac_jQ7eKELzgV25nRutRmpzsoNsIfXjPZTqoMnBEAkkwBzrTdJvnHrAzR5VxYzaINmlAjAPjSE9R818ebsX3",
+			"view_skin": "https://lh3.googleusercontent.com/2Ige--pTi-XVzISlMOA_FO826OZj1dPP_GhydYdv_aTO13Owvq326dCvRx6IXvZBTv7OeRSioStHLsm54J3kn-E"
+		},
+		{
+			"id": 14,
+			"name_skin": "Command Block Netherite Sword",
+			"skin_url": "https://lh3.googleusercontent.com/SiVBF7sAjkGIpdpS4EjxmMlK3Gv6P2o-agX0nKhfY1f2_B7zQaS0VcYoS7kC_l24Z2LfUZRMf1k5l4hZwZt-gkF7K_D1x8-_ODf4",
+			"view_skin": "https://lh3.googleusercontent.com/wMu8A7hAdLEs5ZnoLMN4DY8yWlk2fZITc6m87C6OZXaowHV2gUsay03YedbUtNji8d8nNGQDQxhzn1i8U7FnfSOIkeJjqRsgtMQ"
+		},
+		{
+			"id": 15,
+			"name_skin": "grass block",
+			"skin_url": "https://lh3.googleusercontent.com/5EHFnp5zGRMEW4UUiARGrXcH4uxk5dA-QYf7SwTXjvhJxUGzHb9OVkFRNQyGZkt8K27Eu_EN-WSeD6zyoKVYuA",
+			"view_skin": "https://lh3.googleusercontent.com/J2NRVx0rC1EfAcG3qNVWNMUuMMu12yLnwuZiuP-ZuaKCND7hDNND0B7o-ZydeTZvQ_pZYS8UDfYHWR-o7b09"
+		},
+		{
+			"id": 16,
+			"name_skin": "The Real HD Grass Block",
+			"skin_url": "https://lh3.googleusercontent.com/vxZbBzuIDiMNrSUXTT3pmJbc7oDoYAksyEy4MGnVz8jWsMQiypt1LsNo8VVU13WUQK64RvwqKQNJ-PtZtoe14EI",
+			"view_skin": "https://lh3.googleusercontent.com/WUJ7PqG6gfmdmbGcXWkEWy0TB-zCeU1q9ZuX5HTp_CpSfU1-LGp5Mkj0KmH6JPaPGkTXk6nHqUrYdWLl1MtDeGs"
+		},
+		{
+			"id": 17,
+			"name_skin": "Dirt Block",
+			"skin_url": "https://lh3.googleusercontent.com/6yabhNNx4vB1u44iQ2Jx3DyLOGT-lQhjQfmxpPQGmgLZPanNPgrk_BHWaog5PpPlT4hDGQ1pK5n607Vgj6vjRrc",
+			"view_skin": "https://lh3.googleusercontent.com/9L9Hquc9xZWudXepOCx0fEs9O8ofHHYzpp3Sc2RomNEc4KkQhLR-BpOw3slRXck99tZQBDmbioxTo_W2HdwKHQ"
+		},
+		{
+			"id": 18,
+			"name_skin": "noob diamond block",
+			"skin_url": "https://lh3.googleusercontent.com/wqIewzH8PHjXDggDVVcydl9OM1lKrqDDL_pa7NeLZX69rp7syDqWjB-7UnC11_aEFkn1Z66HL--8kAWszAE7",
+			"view_skin": "https://lh3.googleusercontent.com/ja--0KqpCB_yIL08nNxrskv0i_nnKquiVdok8ClwSJ3SGSoPYs-S4iSQCysMffuksBT_Cx2U15DAbI7krYhHWn4"
+		},
+		{
+			"id": 19,
+			"name_skin": "Skeppy block",
+			"skin_url": "https://lh3.googleusercontent.com/kUO27ZNHGNhqTcP9qBXysU571uQV1uhUvRp2Zypp73kQMmdgttisW3v4hKmUPDX0O_exzwueUj3_DxWtOVUHBElonl6y-Rf779Rf",
+			"view_skin": "https://lh3.googleusercontent.com/ae9_HMLxf3uU9eUQv8AZf8SIMZYKSolJ_dsTtG9sVlhDyNnS-x6RQSN5Ba_H3pACVS8frdNb58VIQafrSS0IIrNkYC0NuRYSEW8"
+		},
+		{
+			"id": 20,
+			"name_skin": "Command Block Diamond Sword (Story Mode)",
+			"skin_url": "https://lh3.googleusercontent.com/hf5-gRA83sfk_X3OIhanNV28H3J7Mj2XYz71F87uhqpv9d_j9fVe8epk7iYrHJRr0IswAUvgIl6ra3I2DTHqQqmqytSTHz3HLg",
+			"view_skin": "https://lh3.googleusercontent.com/tL_gnHMj24GLdVWbUhRnQzkTchLz7uaLI5K-QAEogDF2GikD5-SGcuvLXchY4Q3W97UgEZHXyQpXoy6vlYwRqPk-zwFdLUaJnHc"
+		},
+		{
+			"id": 21,
+			"name_skin": "Unlucky Block",
+			"skin_url": "https://lh3.googleusercontent.com/EY-QcVeHspN2GmHjti8DrzpSwvVoCNt4Hbe0bQIcYHU41zXLlitOlNxJYF-iQtDgrcRK0FDDzRScq4YDNCuDfQ",
+			"view_skin": "https://lh3.googleusercontent.com/zK5tyP-3aEY5igRm0wZiuV_Ws6nSPpA5EE_X38beeGn1XIbNoFugzbm0l7pI5RY9IFgmuEEYFyEL96jRCq65"
+		},
+		{
+			"id": 22,
+			"name_skin": "Grass Block",
+			"skin_url": "https://lh3.googleusercontent.com/l0hfpqoJnoU32TVRNNurCz0UafCuHvnE_5ENrh-EPaF1BcR5A6pB1zaf129RcPdpDjiic8R1uoPOP2seBdjLWw",
+			"view_skin": "https://lh3.googleusercontent.com/guF8_9HoEk8o0mLfOdmD9_3VvGsOIQENSqqe2NTyDLFTa4GP3Mdz7zrFCrDiol-ZqOjHln3A7TVOu591hEl1wA"
+		},
+		{
+			"id": 23,
+			"name_skin": "iron block",
+			"skin_url": "https://lh3.googleusercontent.com/BcrEEQwpw7cFNt3JQ6yJ7UL2yajKgda7lO5ZOib2OeCUYKw26rDYt4owV0jc6nEq53YMnkU4tbNamXmicvr1_w",
+			"view_skin": "https://lh3.googleusercontent.com/ZeuFh1tTZtS4YeJrNHPB8cnw0I__uOsua_0NLZ747MPAzCH2RQTYOREmxb4Eok_OpDeDm23j5FboYoR3c40FIEt4xQIhL92iWrRF"
+		},
+		{
+			"id": 24,
+			"name_skin": "licke block",
+			"skin_url": "https://lh3.googleusercontent.com/RV4SrW3sa1PoyexMqH5kkhF_4g9tugEHlBloWfP19v8i9dSWOkT7vQ8CFUkXisdG2o8P3PcVCeY6Yu2_yzYauhvHJXWBEPpVwmo",
+			"view_skin": "https://lh3.googleusercontent.com/M_YIPUExpgGf5J3hsn54JGo32S_QZT5mUk0uPli2n5HpLdcqezovPAAA5X2MX-_LofvrsKSNybrvcMnjAX8yXJGX8opmcH1F1sE"
+		},
+		{
+			"id": 25,
+			"name_skin": "scp 096 sl block v2",
+			"skin_url": "https://lh3.googleusercontent.com/wB0sSxHR94eKRK1ZkMfBeZEv3P-n9ilwgXSdm_fwU7_PKDXrVPaB06xmNGQQKb4MR2_Ah5pPgA1fNF8f_UDlA-a2k1K9JeR_q00",
+			"view_skin": "https://lh3.googleusercontent.com/0CZ2ss1fLXjc_UDBYNWDRrHrbz04X5x45noBc_wqm30IuARKm19_dt7CjifyVSX63AxiUrOav9y4jd46IQz2ajOE0bE3W-KNvtQ"
+		},
+		{
+			"id": 26,
+			"name_skin": "Structure-Command Block Season 3 (Story Mode)",
+			"skin_url": "https://lh3.googleusercontent.com/qhkI3KDUUxIpvU4FOFvxUsFdPZMomgGAuKKkuh7XuG8TFYX9ve1PS8X_zCTxtwJc4aHaiY-hYy0L3UiuTo8SEkc",
+			"view_skin": "https://lh3.googleusercontent.com/kHs_gUO5WBo3txSUtpbkw1h6zLhwLA4l5D6-Apw66RpAWASHyLaFTEqLKFWeSTsUX2cRZH5EW4L2X7SEv9lzTg"
+		},
+		{
+			"id": 27,
+			"name_skin": "Felix Stray Kids block",
+			"skin_url": "https://lh3.googleusercontent.com/9nfCRkaEPHo7WG14czcU-yWmB7rswSNMlVF1zlqpdg7bORxUw41Dczhl1aCCzgxNt2ekaS0E5g5u2EzZbkK9BnLqSfjTr5yucnU",
+			"view_skin": "https://lh3.googleusercontent.com/8kPut9c35nnR_-lnyUFjLiNk9iFPHQoTvMOM8hw8bZ9QwPJOrFGotjqPpxTlCkk2ctPscgxl5CPY-ek8eggmBPNxodZBZv0hyA"
+		},
+		{
+			"id": 28,
+			"name_skin": "tnt.block",
+			"skin_url": "https://lh3.googleusercontent.com/krtfLoS0-MSxiZnrpOPkDTDnLmf8VWfhy925qc47olgyD1HFP1n1PdKqAenKxQbgytXYCtDYimSrnkboGAJw2a1uh-_6DjV1U7g",
+			"view_skin": "https://lh3.googleusercontent.com/fsutLNQiGyW75ZF1SprA2y2tqWb20Alp6D5Awj8E_ZULFhFIQRE8YT_3wl6mK4MNocJd3zZ9H7a51LqCMgASleF_F4BlUTH5Sw"
+		},
+		{
+			"id": 29,
+			"name_skin": "Lucky Block",
+			"skin_url": "https://lh6.ggpht.com/6--aiXTRjibpoWO0jGXyYmQ4wvOOxvcYSQ5PZF1SYip29QCJY0ma6RaVqEFPhmUqT9A7limd8BjDDoDRHA8kNi4",
+			"view_skin": "https://lh3.googleusercontent.com/i-YwEtS3albguUYu4sgigQGSuUdIyxPsJXRFOQFIe9Cjo0R9n5KXne-Wc0Z89xkslz2WmkcrSOZPLnOT4T-R5A"
+		},
+		{
+			"id": 30,
+			"name_skin": "Block Gỗ",
+			"skin_url": "https://lh3.googleusercontent.com/tdUpFmDpfNk7i53JOigk88HhkP6979S5Ta3b7YuO_xMbT-nf8bSQgI54AdNWEvVxzEbDa-qTMCqJJVkqx1Yh16E",
+			"view_skin": "https://lh3.googleusercontent.com/rzelnzVDjr58lzodf_E8gQZVbzpstrwwcTJWwyaKoVoBuuI542yMuM1S3Qe_UXKeJvpgQ74Bzxq1-gySOSn82w"
+		},
+		{
+			"id": 31,
+			"name_skin": "lucky block tutorial videó resource pack",
+			"skin_url": "https://lh3.googleusercontent.com/gwQtCVXk6OZfFL2iy-tJT_DxE4lZXC4b74COvSDlB_VrIFzgvMHrpT9p-DW13cCjIEE3BxY7wiRcwzs662lmkA",
+			"view_skin": "https://lh3.googleusercontent.com/EULesRQBU7F_AExvOacvEQnKL14IMnpN7Q3TEERHoUlq2JoheXUwn8gDy_HQwj-MUs-AJT9FijYxUAIUMhn_"
+		},
+		{
+			"id": 32,
+			"name_skin": "gold block",
+			"skin_url": "https://lh3.googleusercontent.com/Lzn6bVFwF69uqwBafzzkvx2pmLLSCuFX9jRvEjgoyqK94-sCFt8lPxPD3omuDDNK_Y8lUQTtsgRKAWg2C1SrQ14",
+			"view_skin": "https://lh3.googleusercontent.com/ey496ulwpmxQ4AMYsK52eVtbv7caIYq9q81KykEyoRoBagt5G7ZnmieTzwolO6iLj-UC70cfD7cR-_UFKsNPduxkK8SZFaRF-s4"
+		},
+		{
+			"id": 33,
+			"name_skin": "Rainbow lucky block by creepes god",
+			"skin_url": "https://lh3.googleusercontent.com/nAnWe8lP5fNP9VuwJnCmlIycdMoaJteQ5aiK53dcx50zwLpR3CMpf6VkT4qLlW9YOrxIwpo8UI4pJsprN6R_wy4",
+			"view_skin": "https://lh3.googleusercontent.com/EPwaWrEC-VPKKCsmb7BkwWKm8PnWMoCrZ1P0H0VUtmtzmX7rf5L0UZQPPAK4sjeRswViHmlNUBcPB10oHkpHeg"
+		},
+		{
+			"id": 34,
+			"name_skin": "Ultra Realistic Brick block",
+			"skin_url": "https://lh3.googleusercontent.com/55x1Mpf8IsOy54V2d5xS2TnNrDPvbFiK9EBKcvKJzzZ0NRW_dpqNZzcO9dGsKQgTz8yn8OboiKX2A8YfXrTnQA",
+			"view_skin": "https://lh3.googleusercontent.com/SCOQPPg5J86g6PlvA7kGGgRmMyo0ABGlg5tIqgsOUPCW3ZWlqnEmihRuCOmnut81xZo8CnOglpF-7G6KrEHb7A"
+		},
+		{
+			"id": 35,
+			"name_skin": "Earth block",
+			"skin_url": "https://lh3.googleusercontent.com/mz12b6BTD_SvO-uGuJ2_h-nd6V2QzWHMJ1dAu3_U04alSLEuVJEId9EQUXEPZo7bYSyLSmFMAL6x2XqvHG2BR9hRjqeWT7ERlAvk",
+			"view_skin": "https://lh3.googleusercontent.com/ZsD_E8GPth1YdfiNEQYUguhhhRGxNfkp1JbB6W4KCmy3Sc8b3fz9VUXc2Scls42KEAwPeomO00vkVGnZC30yDHpySCrtd4IAEog"
+		},
+		{
+			"id": 36,
+			"name_skin": "lucky block mario smb1 nes",
+			"skin_url": "https://lh3.googleusercontent.com/vBEz2KLiKpj5mUUd8QWUuf02cKO_GwMqTjeArIDc9EQ3Gn224B6-0zoCLLez0T8gclmAXYBqc3zEP2ci2zfmdw",
+			"view_skin": "https://lh3.googleusercontent.com/1djkkX8oKbEBQzrpszBr9W70IehsgHKCF6YvmLiovA9607RDe9kVjCRjRG4nEfLWGwb06FjD5P1sHex1Y3Jd6Q"
+		},
+		{
+			"id": 37,
+			"name_skin": "iron block",
+			"skin_url": "https://lh3.googleusercontent.com/DFzHDbOZ_4gOSNcIM3H97VfYl0UPrcjLu_azhLexR17dpOLLs8oZTqNp5CxKbC39s-qpUVlaHsJSoY99bE-NpW4",
+			"view_skin": "https://lh3.googleusercontent.com/3vth0uvYPgH1NQtfleFzb6eKW0fB5MZwL3N5fLJQ6PPL5-1V4yMsy_a5eWXenwYmfLNa_0lfqttRxjE3vhEZNO0Id2vaIRq4gO4"
+		},
+		{
+			"id": 38,
+			"name_skin": "cute dirt block",
+			"skin_url": "https://lh3.googleusercontent.com/OpNL1E6JfhATW2tMYR3N43mBevSjfPqjOLhJinHqtZTxtIsv8COAKwSsgPS5bfI2WufNeFRiRPFy8E0t5Xxb",
+			"view_skin": "https://lh3.googleusercontent.com/Maa7Gfc2STovwwXLYdX6yuf01dBxmApsA7fbCQEY4CC9hfEOy0dP5jdmIfjW3U8TjCnn373z2xLGzG5uy1Og4A"
+		},
+		{
+			"id": 39,
+			"name_skin": "Lava Block",
+			"skin_url": "https://lh3.googleusercontent.com/LPgJGKnDLWxWqqhm5OY4MkW3X5q9qHdvghk7JF0JML0SDaA3kOH_S5424LzDNBKDe_7kYbeYZbyiK92EYEnIHlU",
+			"view_skin": "https://lh3.googleusercontent.com/-mWMjjRS49jWf_gclpeeqewTy-LZRPqJvxcchWa67x2V3rm5RdSn13hgrdV3shRWWnYeKFXJeA2qk55TWloJ"
+		},
+		{
+			"id": 40,
+			"name_skin": "diamond block skin",
+			"skin_url": "https://lh3.googleusercontent.com/tPGkrzjOk1WZ5gacH0hUIiBYvn2WrQO-X-lPF5ZfoCsHXYwwrAbzhdgF4czE91DEkilxZMiBFrljHluUwanzGzc",
+			"view_skin": "https://lh3.googleusercontent.com/JsjDP23hlD1qiytj7gaSZ-whqbUucsVwvfGVhUDMeGdw9ZoF0w1H_EGjG681nbx4Zht4jlxjkWRnCMXGHEtkQ0jX6OHNA_ipJ4c"
+		},
+		{
+			"id": 41,
+			"name_skin": "Realistic Grass Block",
+			"skin_url": "https://lh3.googleusercontent.com/OtPQU7lJNYf5QocoO-Fk4f2u3Skj4-nlWbGJiRjKdgfhsXo07CpNUf2McXmurxhLuUNWns8bS44XRxg96O3Ryk564yekMDK_v98",
+			"view_skin": "https://lh3.googleusercontent.com/eVmWzzA_vpgJ8d_jmz8JKTtkC1nvUJZJYBu_j2OnNvk5DqvlN9PUAA9k5Rx14mPSyF8r7uaedk4ycvD0o5zz8zJgPdzT5XAqz_s"
+		},
+		{
+			"id": 42,
+			"name_skin": "diamond block",
+			"skin_url": "https://lh3.googleusercontent.com/1MBTYILJwVHEoS_vWQxTCRoy26_dN0R10x-jDgQo4ZQUsdc7Qct-jsGjEl6T26vR5L475uFCInOKcszA3qEWiw",
+			"view_skin": "https://lh3.googleusercontent.com/jSvvmdHQWyygdfrY6uTIJoAkUfE_hdWBLMiAm39UMssgXFHhGaRMugQxoIF53VL9iaIVaDuvjg8qWE1cfWB3hQ"
+		},
+		{
+			"id": 43,
+			"name_skin": "vemir block - redstone",
+			"skin_url": "https://lh3.googleusercontent.com/ZOx484ib2Fwu101ytxUnSjFCSXLKaJKTGs99BnbNDIC8Le-Gf251MhW2YJhprDXTUKQDrEmBjavAQ_xmwtR8HfdL4lGU-I6uTWc",
+			"view_skin": "https://lh3.googleusercontent.com/JoGuBgc-tdjrcCBpSRoeCTSCrmOQjzA5Ikj7_kNZf0IW5_pEx5inbyXyrrhYfoH36z7XfyGk13b-mvj9yPvNQtyWGB8Sgxett4E"
+		},
+		{
+			"id": 44,
+			"name_skin": "Fnaf Block",
+			"skin_url": "https://lh3.googleusercontent.com/4t9XHvzHeMX51ZINu2KBjx80rG_LCHD7pIt0s_bmItdNjMU0QdNdyRD1RvNWyyh-O1NN78ZrPtV9C1ja2ywnrg",
+			"view_skin": "https://lh3.googleusercontent.com/oQuztaOrp-DWtuInazfdMxk4q6_CrGpG1wDUBm0jditAmw5nlS2F_3qbCdbPj0gAQUzUbYdiK9-ow0QulU4T"
+		},
+		{
+			"id": 45,
+			"name_skin": "Titanium Block",
+			"skin_url": "https://lh3.googleusercontent.com/jSr0HAssVnIXJ1fQwkCUIpkA51TSNPADInqcfUfuT8FeLA7RpRYGoAuinjdyXrx8qMrpHTkiJ6zmL0kSBTBZfaMBLC0kl0yEzOI",
+			"view_skin": "https://lh3.googleusercontent.com/BkCWp7pQZaJ8X4NTYV_91ysUf0JqyLbl2dE6VULpG3CED5ZGoMMaO_OiuDjK6DbsxJAK5wclac30hlnQr9Bz0CwudVOrzSBEog"
+		},
+		{
+			"id": 46,
+			"name_skin": "grass block",
+			"skin_url": "https://lh3.googleusercontent.com/lL-lQ9OTeNtgvFh2KRXrDZz9ptbLeYOrP6fJUIh51IaCSx2lYpSz6jCix8MSuAVdl3q0XPNvWxnvlxAj7KF7Rg",
+			"view_skin": "https://lh3.googleusercontent.com/XnYhM7TGe3uTvT7Mc6l98fWcK_SskorKGq_5D9PhKRC7JI0LM8oRV7MfGQ_nvNNmpgJ_JhCyKIpE_pIrR2nHcNpHKenxmOZLNqwK"
+		},
+		{
+			"id": 47,
+			"name_skin": "пират поко блок (piret poco block) (brawl stars)",
+			"skin_url": "https://lh3.googleusercontent.com/JxyCYBaIuAKZaq8SQDkh_9Z0fevvQvLLYibWAdtmx01M3t9vidCSNEG0UQEe_CCTVb3FMvn5ZEXYguWb7YKJ0g",
+			"view_skin": "https://lh3.googleusercontent.com/IVRXgu8MT1YUz6thmyddp7Y7TlOJeIKbxycYCGRrB-ZMPSjgsAR2d7v5w1FBYLVWZfa8LY2vQvvRXsRBm9B7hA"
+		},
+		{
+			"id": 48,
+			"name_skin": "Minecon 2010 Classic Alpha Grass Block Cape Elytra",
+			"skin_url": "https://lh3.googleusercontent.com/OZW9r5RhsQiUbhwz2Hp5S9R-_43PoaJZwGx0NUbeUc2lTzWNR0WFN8YExVXlykN7lMpRIlRdTo50L7JJJkgmNtYN80wlS5f5Sw",
+			"view_skin": "https://lh3.googleusercontent.com/Mv5BFWWvdGYCboHPJxrHVjI2siLVEbrLK9amJoRlrrnRvhC9NuveYFe4_slv6mHHCMMLst6v0Zb2Y4W15PKCc5nhewN3vs820eA"
+		},
+		{
+			"id": 49,
+			"name_skin": "the portal block!!!!!",
+			"skin_url": "https://lh3.googleusercontent.com/qsO0Yd8DWk8hvBh-chpfW5xaebLHa05UKnCtfvNRw_cr4G3tVBzm1CUkEPipqhskworAMUGOOVwuE8pDMebI",
+			"view_skin": "https://lh3.googleusercontent.com/44A9A8E8clWKk078DknSBxjVNf7tyFRVIloItNmJQhfUjOcWcFHXR-ZzNeFwIxqR7X18v9GO4EcW9GLWVbC8QAo"
+		},
+		{
+			"id": 50,
+			"name_skin": "wood block skin",
+			"skin_url": "https://lh3.googleusercontent.com/pyg8DmVhpFZxpVRn3bFDeY6GH6vgJCXT6-Y7-elhYCckhEK59_n3BHvfyjiQcKo6n-y9LeuZsSWjYb4Jn3xFRA",
+			"view_skin": "https://lh3.googleusercontent.com/CXIn0cELpBS37NkEhO-iHn88HEujYdniQ4-bjgUpZ60a1VgIUTuz1wIYhUY13ehU2B6dKqDTXozU1EUVv2cM"
+		},
+		{
+			"id": 51,
+			"name_skin": "redstone.block",
+			"skin_url": "https://lh3.googleusercontent.com/SxSIA7pEs62SVnBBqbmO4jUEIAR2cIvUOHhNrM-x9a9gKf687QO9jxevAdf7vgUe3KEi9DvGK3mCwtBmQ-rTN9HuA4EJtbauLEE",
+			"view_skin": "https://lh3.googleusercontent.com/WVuzpcSnGvSFKCEJGD7ApyfuAiE6BPiVwlakEbk_u_WkTHA8vQ6IGUiLdyE3BlNI3uDo9IVuRn2UIF6w9cHggVnRoAKVX55LiGba"
+		},
+		{
+			"id": 52,
+			"name_skin": "diamond block",
+			"skin_url": "https://lh3.googleusercontent.com/KLMVK8gWxvkFyJB9bOHvSPylMI_-OnaLOL4nWBo4HxzMYRRF6SHv64mDdpPzJ6lWHPsDueYywwmpUpCvaWNGmg",
+			"view_skin": "https://lh3.googleusercontent.com/5kqcTDVuyTxBfpJjkNE2N6bjeWS73iub9Aypade-J-cb10DPlNPuwZkJz3gFLc2fDMvC1AFWs9QceAulqBFzIij0E_rafR_xKQ"
+		},
+		{
+			"id": 53,
+			"name_skin": "Lucky block",
+			"skin_url": "https://lh3.googleusercontent.com/UmRtpASywz_hd2Oqppsp-hFhJpSnSSyqwlt3ey4JKCDe2oh2-NIrmkL2qaFsS2SW9ZPFExHMe4aEYlWravJxXurw2GWgttDbQw",
+			"view_skin": "https://lh3.googleusercontent.com/us5ACVOR6HSBt3yJgXev-CdrRO_KWnRA3XMoHZeVMu6KEjJl5OFKobAOKuYiYWHE59YMXIsL4wqK9WsBjG78wX0q9gfsma-NZrQ"
+		},
+		{
+			"id": 54,
+			"name_skin": "Super Lucky Block",
+			"skin_url": "https://lh3.googleusercontent.com/5pttBoalvbAlh7djJpqYHK9S5b4tM2pdR2wpC3iPAL-KNKTMRq3vNdEgqevxhSKr3FUzIgNeUEVQQJgVnni2Twk",
+			"view_skin": "https://lh3.googleusercontent.com/mscxGj4pxGHLszM5hr9Jn9o9oxvLgPlSH1D2BlIi3dGYts4FKiwHQU_nmcvUL9YvLcBYJ4-ktrsvDGaNAhdGu0M"
+		},
+		{
+			"id": 55,
+			"name_skin": "Block sans error",
+			"skin_url": "https://lh3.googleusercontent.com/9gW6Ja06QTSE5S3OaedvekLS2ggG2EpCvmtFzu-esvrBQIYOBsv14kW266o9xxFMlabZ66_2_tTGDXiWnRn8Emk",
+			"view_skin": "https://lh3.googleusercontent.com/UxSPtlb_6gW-rXmGDYKQPwwhbBZO3q64wQbOIPR9oRb2r-k-8RL8TwfJzuqWG7t5pEjnOF48FYyRm_VjERrY"
+		},
+		{
+			"id": 56,
+			"name_skin": "lucky block 2",
+			"skin_url": "https://lh3.googleusercontent.com/ZKgjgyh38Xlu6HqlBL4ign2GiTjyvl5ZIDgH6ygelUqFJXW2k1bGa2z2dCEd3Sj00GA6SbvGb2YJZGNzjocl-Q",
+			"view_skin": "https://lh3.googleusercontent.com/fmryPZTL2T-xKA8UngcyLcqWMBNd4m40WGSLIvuu9X9OHbsjq5lfe4xdF_oJk0Vcrxw2KmooVVrY-JHbeETp"
+		},
+		{
+			"id": 57,
+			"name_skin": "rainbow lucky block man",
+			"skin_url": "https://lh3.googleusercontent.com/o2iIT6mg6w32GU8hMpWTXtrAqeEey7KhVaHE3fTy3FsGPK2aq-f5fCH2deKDnt88g_ULimk4aOShRtFviOsAUrc",
+			"view_skin": "https://lh3.googleusercontent.com/VUBjaxkrkkdgvWhk2VKA-loqDenHMkwQ3T1xxo5amsW3IBbFgEHHKPIbBBbIJAt8iTDUFTpdb-U-WPrF-W2irw"
+		},
+		{
+			"id": 58,
+			"name_skin": "lucky block craftee",
+			"skin_url": "https://lh3.googleusercontent.com/sqV5joLCAvOlDNjf6kmQD9SHcORNm-oo0dBLQPzOFhGM-MC4z3tvQCIqym6z8TiR5bHGG8-RGTFmd9ZMzLbxLuqks4ApHKYIluw",
+			"view_skin": "https://lh3.googleusercontent.com/A1mqslodgkG2FtBUrC4-fZeR_waWXUbEAO0U5pIJsUO8uKhna2lx5TMVa2KDtf7BJk2PbjMWTnUxxeNm78514wZcFzHdacEkahg"
+		},
+		{
+			"id": 59,
+			"name_skin": "Redstone block",
+			"skin_url": "https://lh3.googleusercontent.com/rZJ9mYqRBCfdp38JEJkSrpWS4A3hY38LqUVH5XGF8tDbS05V19xtk1u3DhpauyXc3qQxV30ncnZHRwL8ksEn3ZA",
+			"view_skin": "https://lh3.googleusercontent.com/VYm8DgrNZCPRiJjBJ4keDtpnhzJbTadPIsVw6MvguZAg33X4R55bhKWfkhUIK6Fa2prOttleB_Vgyhq4XL3nsA"
+		},
+		{
+			"id": 60,
+			"name_skin": "emerald block",
+			"skin_url": "https://lh3.googleusercontent.com/64wg5aKxQGzyjyIp2UxkDg0TaEVeDPBY-VZGxueKiecfhy1w0_8nfUQls-Rk2hd6CMHtpxNzKIDLdGFswEcA",
+			"view_skin": "https://lh3.googleusercontent.com/YgldbDl0fWVGbZ2bQdlckPPr2ic4v4QMQM2hzykxTF9zPgfsm4V0p2K13L3IguSiYvY2FNWegJR3msObSznpdDrAEUAr1zMUdw"
+		},
+		{
+			"id": 61,
+			"name_skin": "Block Đá",
+			"skin_url": "https://lh3.googleusercontent.com/V8KTOOiTp6hx4mPnMnQoL7io96MLm5esCSvXpz-DMa4gk-u37B2Wblue8uwmuIt6zfhswG8rN80lwZABccWN",
+			"view_skin": "https://lh3.googleusercontent.com/f1oyFFlnOriG0C3gOO2R4HLYO5jcZVWlfNi8vXqE67fC8UX_rVOYtNe83wGftsHNTXZ1lbyyASP9V3_aDXGQmw"
+		},
+		{
+			"id": 62,
+			"name_skin": "Ruby Block",
+			"skin_url": "https://lh3.googleusercontent.com/_5PX_9Ul3dLXxEsJrSOzUM1O8Q-uESbGbQiuQeh3r2G-px8aUq_vI19aD6_y1J6u79VCEbstio-QsHyhGuixLw",
+			"view_skin": "https://lh3.googleusercontent.com/z0rLQm1Rw01ZQxlckwm__nBrn2oj5KEZM35sMCG_B90qlorGKFKQimvz9NW3C1VaqYweHjSV__viLPpzbZ2_28A"
+		},
+		{
+			"id": 63,
+			"name_skin": "block of creeper",
+			"skin_url": "https://lh3.googleusercontent.com/YCWmxxzEhj4hLlUGnArDl8K6irgWRNOzVrZkaO4uDBTwzmG6dLsvl5L7_Mqk26dy0944kvhbCeTQLuyg9vWV7-_Mx1XF0gTLVeV5",
+			"view_skin": "https://lh3.googleusercontent.com/R9Zui5wMLapT5DHTDK0KIkRx65mvz2WhBWS4xz1LZVBYHht_BuDQ39eQUz4I4X7GJmgpLXVTipRhWNmc76aIZ8Ln-ieLVu37L_zF"
+		}
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
+}
