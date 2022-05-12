@@ -1,0 +1,438 @@
+{
+	"Ads": [{
+		"select_main_ads": "",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"native_for_admob": "",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 5,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"name_skin": "Itachi Akatsuki",
+			"skin_url": "https://lh3.googleusercontent.com/3wJIkjQnMROeNEhBVgqOlXDG0idsFx4IUbmqum0aIwq-618KDQ2uq8JuhNo_9Ok-GZ0TtaOOgUJqHn2dbetrFBc",
+			"view_skin": "https://lh3.googleusercontent.com/LxoJ94nSsEIfyxC_yxNYke3B85SNt3iGSqbGkdmbWdt5CftQcKkStnFkB5AZVsXlYat4yQqK37ZoTPFjJgHJ"
+		},
+		{
+			"id": 2,
+			"name_skin": "skin do itachi do minecraft",
+			"skin_url": "https://lh3.googleusercontent.com/KmK1gm9m-2m4-Ptk-nK2NcYy_QpIMrC0U3i2yjPFpe_yozGGFugMVLUnHsYFIdeKdTNiTCYIcUw7f-Ig25-VAcENe0rwLhCCRtc",
+			"view_skin": "https://lh3.googleusercontent.com/irmtfcdq9Oyba-SryZoRONQjiGOI901hUG7VTHWoP1GtYrmUiSUBcWjeY0cThXc1zCSJtAUH6o2xeNnEuyGvgiV1vJsY1tVIJA"
+		},
+		{
+			"id": 3,
+			"name_skin": "sharingan itachi",
+			"skin_url": "https://lh3.googleusercontent.com/_cLPGYNQhaySIUQeolwn5kN9-7L6zUBmMmwn6hhUYqzMnEss_dYvHJm2s20LCLDVF5wYT2F7ZU7WEPOvCYCK",
+			"view_skin": "https://lh3.googleusercontent.com/lw31EobhZdVY1fdB671FNicGGC2EBJjRtWrD8wAozmx-LFQxMVHRFbzbG_JTirTcV3IQCYv8KbEtuFyMzDPE"
+		},
+		{
+			"id": 4,
+			"name_skin": "Itachi",
+			"skin_url": "https://lh3.googleusercontent.com/fKT1hckBkiiBPs3nljTGaXWbUcWkegHR4QClRxTs3T1p3iSvoHQ15iSeDE9R1-oFmr5QfnO13WLyx58SE2A4vA",
+			"view_skin": "https://lh3.googleusercontent.com/F-DXiqwyCLbj5vYhlwscfG1aOcGpFu_e8vC0cANMMY-SMrpBQHoH7a1x7JrBQpH65526DV0Nwt5ica3eNxvPaw"
+		},
+		{
+			"id": 5,
+			"name_skin": "itachi anbu version definitiva :')",
+			"skin_url": "https://lh3.googleusercontent.com/qWlaJXjGDomxYT8jGo8HfjU042imBCoRqxEwT1Fdca_pIrOL-2ipMPxDXXXIp2YeAGq0aEQa_prCSJhU8tfE",
+			"view_skin": "https://lh3.googleusercontent.com/IrTYUMGGEkcd_8K5AjBX3Viv4QeJyhpu3chrUDpGC1qTYC8CFDwGLrYdxhCVvoUlZasMwyhu-dpykYWqW-TSSA"
+		},
+		{
+			"id": 6,
+			"name_skin": "skin do itachi minecraft",
+			"skin_url": "https://lh3.googleusercontent.com/3wJIkjQnMROeNEhBVgqOlXDG0idsFx4IUbmqum0aIwq-618KDQ2uq8JuhNo_9Ok-GZ0TtaOOgUJqHn2dbetrFBc",
+			"view_skin": "https://lh3.googleusercontent.com/oq97PQAsKIhaA0Mwem3puqasuaZtNlKqmXUHx4-BEQywMorGKgS0cu2WCYanOCRteMHNUIXDSyUeyWbC1SCH3qV2LHqMVnoZjAc"
+		},
+		{
+			"id": 7,
+			"name_skin": "Itachi Uchiha",
+			"skin_url": "https://lh3.googleusercontent.com/fKT1hckBkiiBPs3nljTGaXWbUcWkegHR4QClRxTs3T1p3iSvoHQ15iSeDE9R1-oFmr5QfnO13WLyx58SE2A4vA",
+			"view_skin": "https://lh3.googleusercontent.com/OA5WmfRSFCnoTRXm-MFBwpy9WawhtVCIWwl1rdyNgs0G6udIHYROnW34WCMAtir2rwfSrHoElDsS4e5dx04t5g"
+		},
+		{
+			"id": 8,
+			"name_skin": "Itachi",
+			"skin_url": "https://lh3.googleusercontent.com/a0ykRD_kQcfZa4TNC-ti2a3iiF0vb0x-zFOMSqjGZ30c_v4hpVL_NMTh_DhGFDznlwulPwurJyqfATG4GtnGPKWNNAg7RD56QPl8",
+			"view_skin": "https://lh3.googleusercontent.com/CJK1wgge5ctP65wz_G770ueJjON0vPYzYw4a2yXmLj29gl4xy1XKjMIkDXPfUVb0XGhWGZBR_-OgnsCCqrbqlnSypsovi8Dwu4s"
+		},
+		{
+			"id": 9,
+			"name_skin": "naruto itachi",
+			"skin_url": "https://lh3.googleusercontent.com/flhQt7gJi-Oq8VA13LFdq3_eh7YQ9pmkWYIkgd_1dGUdXdHaQT9hw8E7yE3VQsM1i0Es70M8N25CzMXZu9jkgFs",
+			"view_skin": "https://lh3.googleusercontent.com/WnU-HwIEK99HWWKTPCRGP9H4j0s_7gS4QLVXX-kMBio_xSGs2q5Pr8b2wGwYkd6cnIUajn-ab7_ACTIeanS4aA"
+		},
+		{
+			"id": 10,
+			"name_skin": "itachi edo tensei",
+			"skin_url": "https://lh3.googleusercontent.com/PkIP94FPG6B0TqGLgj9yRG-BElUEJnbZqmY7f2wUI3R-AIuw82TkJgf_fZaNT4Suewa6ITCVcV104NebsoiLIw",
+			"view_skin": "https://lh3.googleusercontent.com/cfSEKbc0dyiPyALTSzRDVcOuLXZKZ6h-DhEEm2Es2-QUNA8NE2yOaWAvC8pmQkkqw_DzhYcznXdzpXWWubnCxQ"
+		},
+		{
+			"id": 11,
+			"name_skin": "Skin do itachi",
+			"skin_url": "https://lh3.googleusercontent.com/3wJIkjQnMROeNEhBVgqOlXDG0idsFx4IUbmqum0aIwq-618KDQ2uq8JuhNo_9Ok-GZ0TtaOOgUJqHn2dbetrFBc",
+			"view_skin": "https://lh3.googleusercontent.com/LxoJ94nSsEIfyxC_yxNYke3B85SNt3iGSqbGkdmbWdt5CftQcKkStnFkB5AZVsXlYat4yQqK37ZoTPFjJgHJ"
+		},
+		{
+			"id": 12,
+			"name_skin": "itachi attack on titan ~ roupa do eren",
+			"skin_url": "https://lh3.googleusercontent.com/a8xTeNJhLosDMiSbCE5eHtQQWwIIwoWuVis7Gw3aWr8Z-6_gqooB_jCujgkAntcnRAhJLD84PiiOh_a3ChJ1agfCZwLp_DY9_oM",
+			"view_skin": "https://lh3.googleusercontent.com/SyVSSdVNLyrHOnglzxSo2C7bkP0TlKRn3CkxZsAzyxqDJH9yFyAQr7KqbaM1ImZ5-2LRCR8bCtxdneNOQ6b7X1WssAg1Q5oFND8R"
+		},
+		{
+			"id": 13,
+			"name_skin": "asuke kurenai cosplay itachi",
+			"skin_url": "https://lh3.googleusercontent.com/IzA6Sr8mDtWqAMidyylG0YvozHdUJzdv4U3NNJPoBpmZQnBGATow8wc4IP1SFpIkVI0rH6plJ6oLPqn12oPvQgy7oOtk9VekaA",
+			"view_skin": "https://lh3.googleusercontent.com/vHpx_MLAdZHLk6Lavh7-mgHWUYlPri4cYQmtw5CX-C_8-f4XNuboWoNyjD_hSDstDoyGvbKbR8I8n9nC7wHEmGtdIbgzsifr6g"
+		},
+		{
+			"id": 14,
+			"name_skin": "Itachi com roupa",
+			"skin_url": "https://lh3.googleusercontent.com/3wJIkjQnMROeNEhBVgqOlXDG0idsFx4IUbmqum0aIwq-618KDQ2uq8JuhNo_9Ok-GZ0TtaOOgUJqHn2dbetrFBc",
+			"view_skin": "https://lh3.googleusercontent.com/HsIYuC_f1YNrnoFwbJne3zsSdheBjT4ZnGH01JPhMy3dg4E4ssAC-TseUxvwGjGBirv0Sis3MgrQF8OpJl-Y"
+		},
+		{
+			"id": 15,
+			"name_skin": "Itachi Anbu with mask",
+			"skin_url": "https://lh3.googleusercontent.com/x8k7eavPcFzUuVFnGFmL4q0-exm7M5iiE-zsFqL6SdhJhLEgIWgf6AVnktdXBvGdfYNpa7r3UeBfZ88gCE1mm34",
+			"view_skin": "https://lh3.googleusercontent.com/4mhXY6fm1UpEa3LaobjVAwED99ks2c0fEkoJKkJz2zh2MfJV_v8oePxoNWBPHNAG6M471zbvVR-wuHGtRDKC-r0"
+		},
+		{
+			"id": 16,
+			"name_skin": "itachi",
+			"skin_url": "https://lh3.googleusercontent.com/IQTYe2AI-ZP1nmUrmnO62Mk2449I3PpW-1OhJ6-fPf-Mz1UMXJ20w5vBOy4pagepCzLRncY-vY7MjX2hlL-M9Q",
+			"view_skin": "https://lh3.googleusercontent.com/iMc3mWJOfcv5PjlEDAZKWaej924ggllJrM9HRP5JJV7-A_gEThshc4o6vN6EFXpv70AhM0PVJPOWjqPtHIrLmZY"
+		},
+		{
+			"id": 17,
+			"name_skin": "itachi",
+			"skin_url": "https://lh3.googleusercontent.com/c9eC3IVPmQEmE0MchxP3vx5ClHGooqaqS4XyOTbmhR8fjY4HQ8bPnc-1q_LdncRXq3Dhi6cZv6fbo82e15c2",
+			"view_skin": "https://lh3.googleusercontent.com/CRKH4AX8aewMOQ6GMvuchoxI_RZIfGFtde-7skZ50R4ytJV5okYkCKRq7t51Ng-ZzxEMeS0fEHotiTaT6mzZGA"
+		},
+		{
+			"id": 18,
+			"name_skin": "Edo Tensei Itachi",
+			"skin_url": "https://lh3.googleusercontent.com/MAQ8v2PGQXO_7zzx2dzLZ54Nit5_LPisEfQuYEibQtZinUcoXpJp2Jj13cgR777sx1yCvk-XVJXACdEY071A0Q",
+			"view_skin": "https://lh3.googleusercontent.com/Q9cE27DI0iYfD_Y5s63MxDuvv4UJDGYulKLaTNJ7_dDW8NLFvhPIkayCZlSlFXZOZ8BfZo36ZZb-T4qLTPTf"
+		},
+		{
+			"id": 19,
+			"name_skin": "itachi menina",
+			"skin_url": "https://lh3.googleusercontent.com/W7thYPk7mdK8qj1eGxtlHRSO4RzcVomBEOHurREw1QYkpL870mNOQ_jLalIU7ElRC7zAkI6VgF_Zi8qX2oGeTqzTB189Vmlg7A",
+			"view_skin": "https://lh3.googleusercontent.com/WwDc4ay8kcZrtw1qMs4PtLw85UNpYQQsQHRwlIqJBTlMV0AH-F7TzCxROeoQ28nSFhLFskEaj3Sg3KfMgIElLkKU5M60BOXD0A"
+		},
+		{
+			"id": 20,
+			"name_skin": "Shrek Itachi",
+			"skin_url": "https://lh3.googleusercontent.com/Qa4eXE4s5-ns6ctqtUG619J9Z4RmjF0kJfpRWUobRnOtsvuZJAVYZ2Nfh4vZbBoSm86KAAqVGkvSRxhqKh2SDQ",
+			"view_skin": "https://lh3.googleusercontent.com/dnA5yHK2vE3NUEr-x5tQet5eE0YCcGtTiu2jm552lNYoYBa0NZS5TIJpgPCSzygGhxcJRH5jPdrSkM6CJcPnbw"
+		},
+		{
+			"id": 21,
+			"name_skin": "itachi falso",
+			"skin_url": "https://lh3.googleusercontent.com/RiLCVF7-10GnULICrEO8_CQP23WgMeTtnVRHEEXDscx0xOxWeYBRxssuFjK95MtDq1Ww7iC8XzPYO_fk3pEN",
+			"view_skin": "https://lh3.googleusercontent.com/Fy_4aQQWO-VOs6QGFKmsxzuJxJO2YykU-jtxvWJQZoiz0WRMKqGPO0DxVXenTS1kCD79GDIUII4z7OraEyJC"
+		},
+		{
+			"id": 22,
+			"name_skin": "itachi para minecraft",
+			"skin_url": "https://lh3.googleusercontent.com/dhkmyqGBOeQYSVfCIKwzmPruOMlynUewf6Awq86-sEMRy2EzKCLPbdrKS15VCFRDPO8vxoBkUM2D1YVrnHUDbLukJXMOT7cUJ1c",
+			"view_skin": "https://lh3.googleusercontent.com/EJdb4h97miCSeW9HDCs385_nOqPoCkwYxzqS4yW-MRHPlVTUBwdRHSvzgA_A0Z1k8vDkoS3dQeyfVdzdQ_nGYAwkyanvpYp2awE"
+		},
+		{
+			"id": 23,
+			"name_skin": "itachi uchiha",
+			"skin_url": "https://lh3.googleusercontent.com/BjWCyeErlyqHjcHRAG9RXFvazRoU4pg6QAqB7qoTVsjwtmP1-9MIbHRyIrueFScXlJyn5vrIJlGNpA2suw8JcQ",
+			"view_skin": "https://lh3.googleusercontent.com/xa8q0j13Ay1SCjDTKFw4ccvfEom05avWz6N4qGKbxLPHnXSo_DQYRFWCX0RkGagQqsYCMCSQP0el_of-4VOXyA"
+		},
+		{
+			"id": 24,
+			"name_skin": "itachi",
+			"skin_url": "https://lh3.googleusercontent.com/62nHgr9Jg0LW9oWKkuL2EX7dUc-DBtDlgXuBb7gBqqVR3L_p37M72NRmrKCTYaUl6oxa9cMwQKn8sjEqoQeI4iE",
+			"view_skin": "https://lh3.googleusercontent.com/1_tKfTtAdyELZ6W8i6cJdOXvobIV1cRYFOGIZKbdL7OwGNtEsl4beuMBwO__FSEj6UcnsFNAU5SB1U0OACoVmg"
+		},
+		{
+			"id": 25,
+			"name_skin": "Itachi Uchiha Akatsuki",
+			"skin_url": "https://lh3.googleusercontent.com/3wJIkjQnMROeNEhBVgqOlXDG0idsFx4IUbmqum0aIwq-618KDQ2uq8JuhNo_9Ok-GZ0TtaOOgUJqHn2dbetrFBc",
+			"view_skin": "https://lh3.googleusercontent.com/UDCafKpEIjmKg9-DYstHFJcNvltSBb-mCi1Y02wCftRFU_FNDnfiDh1I8xiazRoMDDrLbn1v7a5Lvwl7X3XY634_QlJsFFJNIlg"
+		},
+		{
+			"id": 26,
+			"name_skin": "SKIN RARA DO ITACHI",
+			"skin_url": "https://lh3.googleusercontent.com/bbuZmqDG1e20esTNsBjlzOz4A6IaYdA0ykq2LY9vJhIaNY-UuMtvnc9S-xE4-1OJo43Z4A0yFnoHv30f1BpD6A",
+			"view_skin": "https://lh3.googleusercontent.com/Uuc41-HQhKizymlWTn5MfGw2zJDiWJQOGUrNey4jmFGqTCLBpL2pT_5LV6QQ8pKHI3SQvESFcf878OmehlA72Q"
+		},
+		{
+			"id": 27,
+			"name_skin": "susanoo do itachi",
+			"skin_url": "https://lh3.googleusercontent.com/FLtCnhKNR_eb5mF3lQfqFpFrvMEWn9KJB1KEHkx_pny0qnm5yijy4UJvPhidYZ042FRcrVLqAUWvPtvq3XGLD4U",
+			"view_skin": "https://lh3.googleusercontent.com/JVL7UPD_3xJWanEIh-fsaEj4hcG6buMBCjL_Q6w1YXKAf3n9-x8RoH1Jz7WpITCeuHlIBnIteIxJj2saGQNIGQ"
+		},
+		{
+			"id": 28,
+			"name_skin": "Itachi Anbu",
+			"skin_url": "https://lh3.googleusercontent.com/qWlaJXjGDomxYT8jGo8HfjU042imBCoRqxEwT1Fdca_pIrOL-2ipMPxDXXXIp2YeAGq0aEQa_prCSJhU8tfE",
+			"view_skin": "https://lh3.googleusercontent.com/wgnjGVoyXyePPAlG_M3J0DqkgG1MvwKflJN9ycDhTzRni9XoqfJYG1aH1LKQpGOBPm6KJxDFKPMkZWVkcwLC-cL6PHq1pWnOUw"
+		},
+		{
+			"id": 29,
+			"name_skin": "Itachi of Akatsuki",
+			"skin_url": "https://lh3.googleusercontent.com/3wJIkjQnMROeNEhBVgqOlXDG0idsFx4IUbmqum0aIwq-618KDQ2uq8JuhNo_9Ok-GZ0TtaOOgUJqHn2dbetrFBc",
+			"view_skin": "https://lh3.googleusercontent.com/2q8BUBWg6W4f_wRQ6s9ChyPMtWhBwguiM1QSJTYpdnET2dfnpAHUiSDrQMxGv4bBGlLQxz1Z8Oq45_hcUsPC"
+		},
+		{
+			"id": 30,
+			"name_skin": "Skins itachi minecraft",
+			"skin_url": "https://lh3.googleusercontent.com/3wJIkjQnMROeNEhBVgqOlXDG0idsFx4IUbmqum0aIwq-618KDQ2uq8JuhNo_9Ok-GZ0TtaOOgUJqHn2dbetrFBc",
+			"view_skin": "https://lh3.googleusercontent.com/GSYIEOh1YzzIGigqy_cJ6MlTk375sCHFTplP8WNQLe0ubgfGEsmrkWrPEVM5CUmEiIXqnSTjZ-asD2Al3-kKj87NtnpA9dOd2Ew"
+		},
+		{
+			"id": 31,
+			"name_skin": "itachi anbu + mascara quebrada",
+			"skin_url": "https://lh3.googleusercontent.com/Hlsa62V2rZvu4wUd139f9kBjE8ADrYzq0U_Fi-WPj3ZNd835LtkjxTeTJvuJENHUdQIm_KQsVrZZKPD1T7qVXJ6_DJiL9SIdnZQ",
+			"view_skin": "https://lh3.googleusercontent.com/bUz7VZf-aoBG1hhfYIWnNAE9RWxeZac4XJA9hKrjp6zIoN5vYJCzE7mhHFib652i-2q7TALFh_dcGecF0I3BVKugbRiEhcsUsec"
+		},
+		{
+			"id": 32,
+			"name_skin": "itachi exercito",
+			"skin_url": "https://lh3.googleusercontent.com/C1V2SKwS2N6AylzHIfXfI8pzXXztJ0z54ryL5dVXYGA_aT--MhCNRZH7JdYCVt6gxKhkIk_i6Sic1hdS7gbT",
+			"view_skin": "https://lh3.googleusercontent.com/sNNG_p-jcf0gqRt2hiKWPA0iEik2ZU2mz-oWT_ELkZR_al9Ib2H1JthOrIviqa1TRH7xJ0lrW4piaSL5uugVlA"
+		},
+		{
+			"id": 33,
+			"name_skin": "Itachi anbu sin chaleco",
+			"skin_url": "https://lh3.googleusercontent.com/kVz6ig2uIz9MX4ihunHhuIoHvSOfO409jwrOMwdZr-idtAIxFj5SVnSS99myivqDmWm2qdQ1tBodj29H9Atye5o",
+			"view_skin": "https://lh3.googleusercontent.com/6ah3c7lCMr1qotum5V5f-6Ks1eNOiglnLs9OqHn1SaLOGF2-TGG4lD9Qtk0Pjxg1nqWsaOZLex0obBerNvDPvA"
+		},
+		{
+			"id": 34,
+			"name_skin": "itachi",
+			"skin_url": "https://lh3.googleusercontent.com/fKT1hckBkiiBPs3nljTGaXWbUcWkegHR4QClRxTs3T1p3iSvoHQ15iSeDE9R1-oFmr5QfnO13WLyx58SE2A4vA",
+			"view_skin": "https://lh3.googleusercontent.com/WRLB0DP8R6MUBLLtgkXbPmftXzTDaCDTg9PLio60M_osTIex2aQuM-k62nVB6pSL1uXNhZGqEyteCTbJ_TovnyM"
+		},
+		{
+			"id": 35,
+			"name_skin": "itachi uchiha",
+			"skin_url": "https://lh3.googleusercontent.com/YABiHKHVVj1ajIgCqfTWA_q-sJbwi8DYmI6n2trxUOmjkpXT6aYjlVzpz6b-l1da6LvjrVrsxHu1yozhWrGCtA",
+			"view_skin": "https://lh3.googleusercontent.com/eJWZDPkCvpHWPCg6BQsTruQy9yxNwTKpmBqVgXvBzJUyluJP1kOU3O4qa1tmem65jEpoSlgYwIAVZ7N3OV3XTw"
+		},
+		{
+			"id": 36,
+			"name_skin": "Itachi Parker Espetacular Homem-Aranha",
+			"skin_url": "https://lh3.googleusercontent.com/nkfl9fb2Ey1IelbUvS693lSwyAdJdXoU-n-JlJSWZHo8dlr2poHGXUjtvuVzwcxFvO24SUXMkAE-BxofAuJt3M_YSRXb4NMNfnqk",
+			"view_skin": "https://lh3.googleusercontent.com/6raC-XndUsbGGGbEmq2K_Oxfe8pauMV9P37pFIlKz826w3kot-5UBkiwAwtCS1RLimb1yHVSk85hOyl0GvUI2EWZJX-YMoGG8w"
+		},
+		{
+			"id": 37,
+			"name_skin": "Magekyou Sharingan do Itachi (Diohane Fer)",
+			"skin_url": "https://lh3.googleusercontent.com/xqk-s9ehSvyB9-gpaNwX9iuq4jZWKjc-XY3vCL8A3n0IFiI09sJTw7A5J7mbhFKoCrhIx-ZkAV7Tv45mAMZmBA",
+			"view_skin": "https://lh3.googleusercontent.com/Mg3c6mF5CCunpB6xlbKhyUJ5t5D06TJDD8toKqQ6lnAyw3uW9Aly2Y7lwIpQbXB0HKArEgnfeoc9RoP2oj_ung"
+		},
+		{
+			"id": 38,
+			"name_skin": "Skin do Itachi uchiha",
+			"skin_url": "https://lh3.googleusercontent.com/4YPnyv25lI7xRB3CEPkkp2KgnJKptyGk3PthwknZd-LvL7cM7go8nMIjEXoigB6oELDYHv97zOgvjxvlzqP4Way824Yu1cWs7Vab",
+			"view_skin": "https://lh3.googleusercontent.com/abP3U5JlmmUz9TdfB97MwlUGejDZRexDckdj947CWLVJgGGSN280pRFZBD4DEAvRwJMFelki8ISmqv2anHfiZlqfTNgwKPMxWNg"
+		},
+		{
+			"id": 39,
+			"name_skin": "Itachi",
+			"skin_url": "https://lh3.googleusercontent.com/yRzqPbGfl8Z_ToFFosxy1n2NbJTeudzNcDG8kJ8fjLOqJhMmuXKH3NDRrTzVd0940wDeF0Xkwa6Ha7t12kPybOKteHmLVA0QnAY",
+			"view_skin": "https://lh3.googleusercontent.com/VAhcoOKYhN7qwjkkEOhTvX2iOZOqfl8Y_T3ff2pCW_7T_pFJmcOMn14A2kBXSZdOheSrOU50RnIa6HnOayGpvcrIh6qDKC_A5A"
+		},
+		{
+			"id": 40,
+			"name_skin": "susanoo itachi",
+			"skin_url": "https://lh3.googleusercontent.com/pjJBPasfR-IlcQpWTT379h_OO90oBdQWpNAQ6YmpVpop6l5BtJRKnmp_QNWvpjXRxYNeSdraLCnZei5ucDYJOepnHhhHph5BUOg",
+			"view_skin": "https://lh3.googleusercontent.com/vyQHq224-NfVbtMMTZwCQFUM9wKTV5we755uMRREbiU2jq7dM6n4cnTJrJQIPxxbSoZBmgwa52xSGHTbqKUco9IKD9kUMzMVYw"
+		},
+		{
+			"id": 41,
+			"name_skin": "itachi no sharingan",
+			"skin_url": "https://lh3.googleusercontent.com/LTNKABAR6KYcFCAYHdG1LkoHkg47RtylqZTkm31Az8JYUaivr3JG76RbPN-r2PsvYJUnm7sQwvZs6_YouImG2RfwrhSmokt0xVBh",
+			"view_skin": "https://lh3.googleusercontent.com/PO_RXJQKeTs9gZoqLrTwD04Je2gopGToHo6yVR_qoiBTwyeK_O1Hzq7y2Ks_EtWqFHSWyp5KNzkFrs-fB2f2Ek0sbR-DTdgAwZg"
+		},
+		{
+			"id": 42,
+			"name_skin": "traje de itachi",
+			"skin_url": "https://lh3.googleusercontent.com/IzTDEnUbkela2JYsXYGWrGKAoUJAN8IHBp_62o1KUm-FD_2UeycixqyT6zxfg_fWmMSZxSEPqZl3UTilpPwGeKjkrznMGk8wTkm3",
+			"view_skin": "https://lh3.googleusercontent.com/zm7pTMM6F0A_VcfXesxQ1guGw4wuNh01Bd44oN-snzUruOhUdF-70GI6-bdtGzeSiGtLHAzPYC58YFKMlInUc5RnQZ0uUQAOxeA"
+		},
+		{
+			"id": 43,
+			"name_skin": "sasuke itachi",
+			"skin_url": "https://lh3.googleusercontent.com/Pd5cihW2WHwdvToaCQfBjxoCpF7nEUP_ft4Flv8oB5pC5AO4BWnNuZvNo80Ka8D5gnNsZpuEQmxcrhyrCvUp",
+			"view_skin": "https://lh3.googleusercontent.com/YPMcZa8RwpmnCkzDUTCk9ALGmWdinYqtt0beLzLJPoe_THYCo8d6Bout-c-NI-kw-KOA5aZ2xow3FcRsaEJuHA"
+		},
+		{
+			"id": 44,
+			"name_skin": "itachi",
+			"skin_url": "https://lh3.googleusercontent.com/8cOLT2LjtfmkVaj38irgfm2Tx-5PlI4T9L-cM9sRYeh8fRJBrr-K-wGNIPIl4ZtwK8LX0MKSgPMX2IV0uYmRI6JAafYkvlodlQ",
+			"view_skin": "https://lh3.googleusercontent.com/AQk5l-k3FBzLYtVH_L2onE5WhkrvLZ0wDyjXglWpGMfnqmq_xFnDo1L-qRC65Wnoil6_Jo-H5sKgF7DV7Cnn_8Ht-PIOrGH8Df0"
+		},
+		{
+			"id": 45,
+			"name_skin": "Itachi Uchiha",
+			"skin_url": "https://lh3.googleusercontent.com/rasaRDXAtjWERNuP1ZzjL2mwr_GBD0VD77ed0iIroGNyQ7lrHVHcwA5uceIO9YTpSm2e2oo_LzhvyYlNmLvFFw",
+			"view_skin": "https://lh3.googleusercontent.com/h8KNTcow-THs4UO6kknlehx83ClieGy75-M4aeKfWBo-l6qQP0OtgM-mBLjcAhnEAoLzwQXWTp0JYsHlWprYBA"
+		},
+		{
+			"id": 46,
+			"name_skin": "Itachi",
+			"skin_url": "https://lh3.googleusercontent.com/LhjdUv7d0jDcI0PkLhkEjv80ksEAaMVMSKlW8vE6pSTYtmx_PS-wj6sCyMQbDUz1kE8sid4duq8yXuL8hOuHe6j3T4UF1j_mxGBA",
+			"view_skin": "https://lh3.googleusercontent.com/y2QSGX7IXyMDHS8zwB3MQL1yp5HuQhpiKPbgQbN0OxTVG2_Z-LkLc8v4utZL8EaJf0n2ykXpI2l3vjop_uWNIU0hD6TnfLQKPGU"
+		},
+		{
+			"id": 47,
+			"name_skin": "asuke kurenai cosplay itachi in anbu",
+			"skin_url": "https://lh3.googleusercontent.com/kBVPNlpnjsKaQsKISGJl2_Q2U0tw0B0s7QjKMt2VfYpjO6REBgzytH9Cx2pRqUPSMa1pTuweIKeZU3qCM1XQvWosCZqBLncmuBo",
+			"view_skin": "https://lh3.googleusercontent.com/xO_G7VxKmTJm2-IhNnAMf6NBE5vlA68KZmVpSl0x_mvAKmhVqIHtvY7BufAMhegbz61sxQTbiuEXK5P6YzDt4psp5wIX5cFxGw"
+		},
+		{
+			"id": 48,
+			"name_skin": "Itachi Uchiha",
+			"skin_url": "https://lh3.googleusercontent.com/BQTWHjuI4loFr90DhEvasLTc0nQEcbEjYn4UYT1S_6IL7NAafoyARgT7CupDWKkhne6priSIAtC6sNoI77JlD9pR3MEfSP3PM0hm",
+			"view_skin": "https://lh3.googleusercontent.com/1I4_gdhHxlc4waXS0l-X9wShQyNn08jNwp5D73CQh4iVdChmlikHFJJCrulXf9zQv7ntHWMqj14uML1J53V0zy9titxkQG08Rw"
+		},
+		{
+			"id": 49,
+			"name_skin": "SKIN RARA DO ITACHI",
+			"skin_url": "https://lh3.googleusercontent.com/ABq21dQq87iuMV5SOu5Ntcv2Sgx-kHY8Ciz997Dieib-GR8gs90iDEfY_TzGCtdBq3PTNQu6N9GlqANfnrjW",
+			"view_skin": "https://lh3.googleusercontent.com/-jRehEYbsPGUjn3cnRr61wMBZPhdDXkJBS-CPMzKLO23Yj01QH_May4yJMLmLccim4UVmfAhVVz-SJPDWy0yQg"
+		},
+		{
+			"id": 50,
+			"name_skin": "itachi",
+			"skin_url": "https://lh3.googleusercontent.com/Za3zEfbMZ2vAk0qRTE4scCSbX9JS3pbEj828Xs3OwZCENbA_QUhYDncMkSnqig1Pwyv782zG0YWmRrT1XJq5MLfNjsIAp1iqo4k",
+			"view_skin": "https://lh3.googleusercontent.com/BfN4BPjEDs2HOyUvu5fnEFoao4LuYb4lLy242qlL0goko0J9stDJZpw77SHOqSYOkels3H7YvJGN8yiqcv7vR-zp6_M5nrDh1cca"
+		},
+		{
+			"id": 51,
+			"name_skin": "give xXmaxiyoshiXx itachi skins",
+			"skin_url": "https://lh3.googleusercontent.com/RyNxeW6RSLqtNYmaIlFxdm3lr5STKpUuZqwyuUgrQAZptKEyyKuOLnMU-y9MSE_HzSMSMmG1cuREVrFEhX43P9I",
+			"view_skin": "https://lh3.googleusercontent.com/NuXmsKRE8tV4K4FX322LcD0uqMTUwAlMJIkwdxwd_riP7lmp3fqc8SDJep9XdyNMWlko0MPy7JzcBE2f7hZJdA"
+		},
+		{
+			"id": 52,
+			"name_skin": "itachi minicraft",
+			"skin_url": "https://lh3.googleusercontent.com/Y-U4Sb_2ebeY7OxU3oELVdTp28k3AqFrw92ZhY7i4FigNflqC4FJjz1g-96IAYaqd4RqOj6fXjmoQ9yraTkxh1WUnwRQ7zq8hSM",
+			"view_skin": "https://lh3.googleusercontent.com/XT2LLv3epd1QzMK5kRtPxUvcP9zaFs9YFb-HnzuqOqDJ2jDRvr8Fx_AWQ3zxZ11fM9l3OrKIzjSfsZuZqmAobS0Sw9qTwGGI8AZO"
+		},
+		{
+			"id": 53,
+			"name_skin": "ajolote verde itachi",
+			"skin_url": "https://lh3.googleusercontent.com/KjLDdu_s_lD-S2X5nLzhEN7SnjtPwMY5RUavc5TMQ-zm9uG8Z5WnGf-Dvh39XCxKxd82mBHlrHMTm-hYzTkhxT5FoNeo7nBibA",
+			"view_skin": "https://lh3.googleusercontent.com/_rf0MryGo74tECVP3Rush5LCvaSRNz5ugnKeLLrTG7iQ9P1JAe77dtyqhN_uYSrADnq5cDb0RqXn9DYW8OQqdTKBLKxmaRBs_Hs"
+		},
+		{
+			"id": 54,
+			"name_skin": "ITACHI",
+			"skin_url": "https://lh3.googleusercontent.com/A-sXR9CBRC8qo4-7pnHDvGQQPfatDSvTc1RX-7DgTpsidok-tutHt4zP47Xwcz7xu7yawreVeDzu2Ba51761Al_XS0FBM0WJVw",
+			"view_skin": "https://lh3.googleusercontent.com/EOR62XgnldiNGEY7gT5RmWuMcfEKe1YGT5Bc_m5HJXuO_cewTB9269_kQ-Q4Irnc1Rm63QeMnbaVxL16K7JkGFxtL-BSIEV-ddc"
+		},
+		{
+			"id": 55,
+			"name_skin": "itachi",
+			"skin_url": "https://lh3.googleusercontent.com/V6jD6JCrK9goiFj7FuUpJVa1U9mS-dYx2NpMt1Q3qGFJYsqXJeI1vPw1p2x0opAka1hUOWo5REcZ1Jv3jQ_DfvcVO9KPXosDOw",
+			"view_skin": "https://lh3.googleusercontent.com/f8q4GBi10YoqEtbHNURGfdAoPqVR8lBxp2CvZAhUDvtr1ysJzk3voR3bXOJ2Mp0DYchzi2p1xU5LXuclWPHtrmMAIxYWCqyngky2"
+		},
+		{
+			"id": 56,
+			"name_skin": "itachi ambu",
+			"skin_url": "https://lh3.googleusercontent.com/x8k7eavPcFzUuVFnGFmL4q0-exm7M5iiE-zsFqL6SdhJhLEgIWgf6AVnktdXBvGdfYNpa7r3UeBfZ88gCE1mm34",
+			"view_skin": "https://lh3.googleusercontent.com/q1Hzvu3as5TxWiOz60zWqkxr3f-kzegssGNBqhcGDVdIV1_7xdMSvR3EUSom_3bdejK-1FzTBjvrKfMsRR6CRR0eVPG2hFNrJzDO"
+		},
+		{
+			"id": 57,
+			"name_skin": "Itachi",
+			"skin_url": "https://lh3.googleusercontent.com/c0GQspL7ViparjtPQyTZL31QbQlJO6XI33sxEYxUeHGvkttFBolwVY0tSqYLkNpzQCVwjwv1JC9ALWvLRpcuy-XfLWrcM1nIbko",
+			"view_skin": "https://lh3.googleusercontent.com/95Fa4f1VgiKpzPR-QAI0HG87kepO9wx4Kvl4BkYxMKnBPRWPDsw4IXmgFvKfkH2gXQaBnw023_GCtuuSHQSjQ_vCQSIKxRSwMhI"
+		},
+		{
+			"id": 58,
+			"name_skin": "Ghost2220 Uchiha ITACHI",
+			"skin_url": "https://lh3.googleusercontent.com/45izwt6jbFbfvuu2VZKXQVtmwrdDprfbQzFDVca5WBFgEQpG0cF3wAPWdCDv6hdo2FJjbXRgjdX24DB6XyhHqnSRcysyRx1kZ_Yg",
+			"view_skin": "https://lh3.googleusercontent.com/2cHFRidC88rbe6bb1Gldz6XBrJp9CRWSBq9bkR1EzCgZSFStoN8q_6usN_skPlPC3l99ebL1annszn_jJvgDhv5QOQco81ZbfcQ"
+		},
+		{
+			"id": 59,
+			"name_skin": "Itachi Uchiha Edo Tensei",
+			"skin_url": "https://lh3.googleusercontent.com/Io1l0pu9Ak5pGZCygLL9ZdzoOWYmrLhOztSBVYfuOGK7V7OyMI3colb50Gd2PFPod1stgMtAD6ZCOwr8r4X7j5LnJC7LsUunig",
+			"view_skin": "https://lh3.googleusercontent.com/mfMO2h7orAM21S9LigdT9Ufmr0X0t6VlvE-aCp78sg1ld0OGOlnQzLYIaz5A6igknF3VWyus1hw1Q3Z9Rvn7cdqBQU0CFlsFB3Rp"
+		},
+		{
+			"id": 60,
+			"name_skin": "itachi-anbu mask",
+			"skin_url": "https://lh3.googleusercontent.com/CONu1DURJH_sQdNsyrF9fbq4DnUuZVflT7D4AMCoWxQZlx27wx-MF91fu4ZGEcIEOrzVBCHliSpSpghDocN-tg",
+			"view_skin": "https://lh3.googleusercontent.com/N5xKELcRHrnH90VubLHQfSzbObPQGakzWgtY6Fyeh3iqNn4N0aFAtEJyj6NH0E_MkbIzhDYvLQWbatd5GEOOPA"
+		},
+		{
+			"id": 61,
+			"name_skin": "itachi",
+			"skin_url": "https://lh3.googleusercontent.com/HDfcCb3Brsg3-lhWD0gBYGJgBdaVdGKAcVJz0uoVYrbTLSkfeuOTKnl2gOLWkwLr-BQoWoB3D029dPt4_SadBOQWjnuH5l-hE-A",
+			"view_skin": "https://lh3.googleusercontent.com/-sWZR826BNamg5djG_9Qc4bfPm_XOP863HGb44VeuGrJwWQrECeT107KRgfZgoPiQSgt4ZapYC7eTElUdNP0K8wXc8gyfQCliCs"
+		},
+		{
+			"id": 62,
+			"name_skin": "itachi pantalla",
+			"skin_url": "https://lh3.googleusercontent.com/iEhpZtOFz0mDs1Yf_8j4CV8FV7SNnNTbnGKdCjAJdvi9LNDesbuv6EQlsc50yffWZjA98VW1ZSPfLoYC1A1odxkxpLPUZpYiPAM",
+			"view_skin": "https://lh3.googleusercontent.com/CtNkKg42ptbGQ-81ehJ1ARYE7IXrKcEsu-t2t3t-oUB5ehoh2o-Lko32Cy7kT8W27vSHT27Tnq7nqe2k3V5zAPcPDaZEQL4TEw"
+		},
+		{
+			"id": 63,
+			"name_skin": "Itachi",
+			"skin_url": "https://lh3.googleusercontent.com/57clR1D-3sXY15iwdABLNSciobdXCK5wef1yWtCrGDoHBwpHDhOWYYEXitChZreRNmdjXonMQD-Fjo9n4sjXZQ",
+			"view_skin": "https://lh3.googleusercontent.com/rmEpJD0an1F_HbxVUJs6jqfb3beGgzD_rGnZkPCDYqXxya_WFQ_mLy2Q74yduBGdpMZ0NHz2xE9CX-_Jt4tLRA"
+		},
+		{
+			"id": 64,
+			"name_skin": "uchiha itachi",
+			"skin_url": "https://lh3.googleusercontent.com/mo5SGiIGTH7gJqutDY_G2gth4FX4OYAoZAfsUxIfSo2Q0PmmXIxOwoUjkGCkQFZBIY1wMYjAyMAP3ckFHO36q1w0oAvN9qzCtTo",
+			"view_skin": "https://lh3.googleusercontent.com/PmcqYIeb0jKu2e7dl9egrv1rbXsQz9Rt1QgxMEUpmvyCFJ2NspOdn3H3FEpPEybmc-8j-WpyIzLcIY_PG72RYDoUI6KOMmMcoYc"
+		},
+		{
+			"id": 65,
+			"name_skin": "gato itachi",
+			"skin_url": "https://lh3.googleusercontent.com/C75MGfFYrUfgQAMpY3dXX3G-sMo00PLOViNQ3647eu_iyBNNwWKhTlhWR2ntNVYAAsymIJy-aeoS5Jx0eeNV-6C66EGMeiIzU4k",
+			"view_skin": "https://lh3.googleusercontent.com/wkkGotSM3A_ZCMWYjLPDal9Fr03zVcRW23kQs1idi-z7hZVFXF7MDzXjzydh-ZS1cgC2vnbleuuhyhkAUc7AfdifYmAaFlv2J7Pb"
+		},
+		{
+			"id": 66,
+			"name_skin": "capa de itachi",
+			"skin_url": "https://lh3.googleusercontent.com/-kjb9GEMpmMcQQ_dhfcolTcNK3HaWsbeynIdYYsKiO06eV9eBKSEYHWZobBIKqeo2Gb6z8tetLUhCHWe_dva",
+			"view_skin": "https://lh3.googleusercontent.com/JihykIJkWtFkm144WRLIMsSmk89SUwPHFct3DQbz4VuMjOf43QMQxWtvg_tfHFpmlzE6TseS2noV5SdMQ33WZw"
+		}
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
+}
