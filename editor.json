@@ -1,0 +1,438 @@
+{
+	"Ads": [{
+		"select_main_ads": "",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"native_for_admob": "",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 5,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"name_skin": "https://www.minecraftskins.com/skin-editor/",
+			"skin_url": "https://lh3.googleusercontent.com/NA0SKELhXygatvfXNnzG_rnWna9VjYmeKg7VF7mRNC1Av8b0dHdXsEe-Th5qAD-Z2Mo3_htot31v-mepeKSrrw",
+			"view_skin": "https://lh3.googleusercontent.com/H9UtL30DtWnQ5O3r2ZWysg6mEAiHB1RL_Ir04K0WNbPC3quSeEVlD1N67BRI_dqesYGZFMoXbqSbwvtoQZgyhVw"
+		},
+		{
+			"id": 2,
+			"name_skin": "nerd minecraft cape Nona_Skin skin editor",
+			"skin_url": "https://lh3.googleusercontent.com/7LqNXmp-2uB13O_kpj1BjTeDFeFVOdj2lA-xOisijHWCJyX1rBfK8X22OWFE_blXa4fd07S9311XbQneqnUBgQ",
+			"view_skin": "https://lh3.googleusercontent.com/XpevGeTPgM_kumQrjFXqswZieWu-TfQ0_1PoinzA-er51CnqB-2auyrOR9kVpQWqOi7qjeubqC5wDUHn_wMp648"
+		},
+		{
+			"id": 3,
+			"name_skin": "robot editor",
+			"skin_url": "https://lh3.googleusercontent.com/5uDhyUgacZv5DwsK47MELZSBMLTzlGNDkfi5vaWSQrfIIet9wp_oiNCtnR9llV1rfTVffVSIfC2pMhg2ZcuH",
+			"view_skin": "https://lh3.googleusercontent.com/dqF1gDUFjQ4MMCvc14m2LiAunoFXwFrMgszg7eRX3ESurAayBv78kwFcbvJ-IfMzpUXu7EJCkrXUp_L6WyFt"
+		},
+		{
+			"id": 4,
+			"name_skin": "Nova Skin - Minecraft Skin Editor",
+			"skin_url": "https://lh3.googleusercontent.com/7aWyzW1hH-V44_lGmjVntMxMILy6YPXgmtPm5kbEionZYHUGgkyGpudIduFoSR2u5jEe-a3SJ_y2RwohqunFBQ",
+			"view_skin": "https://lh3.googleusercontent.com/kkgEZNOjOLumdOdnSdW6yIAaCbhLkv8dYNPSbBtIZiKJovU7w7FpS1hAyNG8PRCngjdZmtnwxRNxOTd30cMGstM"
+		},
+		{
+			"id": 5,
+			"name_skin": "skin editor for minecraft 3D",
+			"skin_url": "https://lh3.googleusercontent.com/YGPwcT5ZAjF1FgV9R805ocm-iwMmUR77d9Rxvd85CWmGUMk48p0dxZVQaL4mlhRQTplcFMzKxWCHDBdFa8Qf",
+			"view_skin": "https://lh3.googleusercontent.com/94cGVn0JJFShdaecylAtS6zwfYsjgM7XZwrXehUBLueFcTlxm55Ynjj63KR59AezOKzzrrvdPyDL5JwgZxN-a-8"
+		},
+		{
+			"id": 6,
+			"name_skin": "Editor Cute Dark Headband Girl Skin 2",
+			"skin_url": "https://lh3.googleusercontent.com/tz0l_Jj5oW9g8iZ960-CqF0OIXJLqRzTgiByPX6qAMoB7GnZVZ5FEygqiccoCqqGG6-b4KmgqyVuD-ijxgPZwA",
+			"view_skin": "https://lh3.googleusercontent.com/nGoFn7V20cF6Lx6D6RUTccMhw8rZT8WXtAHk0kXiMuOsBBXycmCLtGfDmhq_XFR-r0rXKrQmeAzuplc6DPf1gQ"
+		},
+		{
+			"id": 7,
+			"name_skin": "muhammad minecraft editor using pc i saved it",
+			"skin_url": "https://lh3.googleusercontent.com/FXN2cenHe_fe2K41-RHceXSRaISmcTbGqZU_m0N3lwMDZ_DDquK-_FvN1N6g0DtvD-7PHLDWkFnaNxMKLpBH-X5D87Apm0tk7w",
+			"view_skin": "https://lh3.googleusercontent.com/Q7OKkReaRgnqbPaThBev5pZ86DzavlQu6HH0Nd9_emgbS6cvmj0HGJ5xMAOmv2kjb2931oMhpphKImepUv6HZCgRokFkqu49YQ"
+		},
+		{
+			"id": 8,
+			"name_skin": "Legendery DJ Rainbow Sadako and Cute! ( editor by : Angelia Vina Jessia",
+			"skin_url": "https://lh3.googleusercontent.com/o9M7q0I46sdlT7URr9_AqXjV4OoQWZLPb2yxLnTRltU5cIq1ceHjyl2gjhiP3MaVncXjCGZ5HGx4t5GAhK3IMqSPH_WYkdoWew",
+			"view_skin": "https://lh3.googleusercontent.com/BfhgLpSmEaRwyRf-lGKXvJQoA0euGSeUAx_NbgxxyNpDv1i8zxEYpj9u1QPWIVXG7sjUwENfITr6SiV6tNwHKyOdRsOnvj_u_6E"
+		},
+		{
+			"id": 9,
+			"name_skin": "Raul editor skin",
+			"skin_url": "https://lh3.googleusercontent.com/6jXQZvWVfHneyIavOa3PNgsJzLDYWhas1kQsW6L3Mi9eP2bp6tYpMhOTFfHfu_2PhxpETCGAms6uHcqzRX147DOBB-Nk64kxNg",
+			"view_skin": "https://lh3.googleusercontent.com/Vn5J4WpTfE0mHTdjBnL-5VxTY6Kc3TWyYaomQa9om5W9YbvsRJQ6NhOX3WrfZEDT7XPfPLiM_PV5bogxW1huslmcoX3FAPiI23g"
+		},
+		{
+			"id": 10,
+			"name_skin": "Skin editor de skins femininas para minecraft",
+			"skin_url": "https://lh3.googleusercontent.com/8J_IcAcBpPxLUjJPLq-XDhVI4Iwz8eLsjH76_hzU8AzEWb1TN7EjFJeBJej08CBWE_Uc2Gm7jynr5eqXTDDEmg",
+			"view_skin": "https://lh3.googleusercontent.com/ukVYxS-KyoX16MSvTqKBNd252vdQEEaZrWsiamOnz9dW26Bgm1yBA1s-BWglYyV7cS_ykT8HnnacSgGuYuJCRQ"
+		},
+		{
+			"id": 11,
+			"name_skin": "editor neko boy",
+			"skin_url": "https://lh3.googleusercontent.com/izR72FEQ9gIXyZ9z-iujAQS0lQSab0xu508Ii4uBgt4Qd8aLBZfC1cMsFwpuzuhgmcoq60Es92_5K_bcpHMSpg",
+			"view_skin": "https://lh3.googleusercontent.com/A-84vEq1p0melQ9d0xoZEKrtdf5ec1HGqAmcGMuihTcPmQSlD8yD_wMpx9ACIqKFKFdo8Q6O8m7-N7Jz7R0t"
+		},
+		{
+			"id": 12,
+			"name_skin": "► EDITOR DE SKINS: https://goo.gl/uv60T1 ► GALERÍA DE SKINS: https://goo.gl/syxNyT",
+			"skin_url": "https://lh3.googleusercontent.com/tms4d4uHfJQMa5uvsQBax2SlWl1MlpuCTDFS5G36QnXsVVJ2msb2aYQIBllHaDixCPc9114RZV0jiP79ijzR",
+			"view_skin": "https://lh3.googleusercontent.com/Jy5IOJp0ZiU5zxCVazoi10srpLC_3R7NoAAqadlNZSRseBt-pKhuVEOtcIXwebJB65tKSrpUMYMGFvFNlXBy"
+		},
+		{
+			"id": 13,
+			"name_skin": "Skin Editor",
+			"skin_url": "https://lh3.googleusercontent.com/DBw8WE8knVADhmbsXHnqSdGZqThbXZoqgZMmu6b_ExxamPDco0QNyluSrXe0qZZv0zjl8RgZiJNX_eu9RI7cKg",
+			"view_skin": "https://lh3.googleusercontent.com/tp1Y4vDEthl40noqznnX9wChtxwPBj11SV8IvqhO5_cecz4HDN1-do1WzF4JKzA3p-qQV8ImpJQg7s1nP-5OvAg"
+		},
+		{
+			"id": 14,
+			"name_skin": "zombie skin editor",
+			"skin_url": "https://lh3.googleusercontent.com/5XvjgsrQ5KsaPgX6gc-_S7wj6-XYV9pDB4RseHUSCDkFyXWVJ-KDjoQGRpw4132OkYwMCVjg3UtRKYosYuH-wLsDodOqEqlyhLwH",
+			"view_skin": "https://lh3.googleusercontent.com/UNfPbRr5nQS6EBCa39AIUIsbbnqTQ-llu8hO7jM_57eD_tQWuT2XG7q5013BXtYpuTCUISCnYLR4sn05J0bZeILAJbOZEJU9BcM"
+		},
+		{
+			"id": 15,
+			"name_skin": "reygnier Editor",
+			"skin_url": "https://lh3.googleusercontent.com/ATXhANldRKuL-aCeQ1A78xCqNUnRyCU443Q8ESE_7LSe4_iltOwX8-lL-PNVBvYq7Aiak5O-vAUV1hGuNHU2vKJvOBAyoDhy5kc",
+			"view_skin": "https://lh3.googleusercontent.com/NNtIBqthIWjU5yBviTcbbktyHkbs_eMDxmE-NBld_Zq2UbZq9nMmIw54Xr-viZ48ZY6Ao4Y9gDKcBXiqCfWT6dLO5SCCH3Vy3Q"
+		},
+		{
+			"id": 16,
+			"name_skin": "editor white",
+			"skin_url": "https://lh3.googleusercontent.com/T7xfWVoKfb13Nny7QmFKHECJKKeWmG0ZfhcWO4t00lmparUOmFZePWotRPvYyqj0ilhNwJMDOnLSbMN3xRjyMkLDz4nC9xXxPaOt",
+			"view_skin": "https://lh3.googleusercontent.com/k5-eZskL3z6ucoymdZ5yI7Q6Pw8OYONtsnjQb1zPIK3Sv9BTQno9jrl94ZOsvB6Bm8lQj46Y6p2n3cPM5ToBv40x6htvya5DyqY"
+		},
+		{
+			"id": 17,
+			"name_skin": "editor",
+			"skin_url": "https://lh3.googleusercontent.com/LHa6DA8aFk2miuGa3zxAPhQ5E9jSEwACw3XjYuAeyi4HpagxJQ0iRQadKRvXQTQ7tKZb3s8MssKjFZK2IVIyXnI7eQzsfFbVug",
+			"view_skin": "https://lh3.googleusercontent.com/4QtiKw4QKzOMOloRiQ33QKwmmSLtReAMGtSZth0zqTSVnOIIEi3wNQ_WT39S28bgwh3Ty6qfq3mP6e-JNt49OWgQuSPRwT9hZPw"
+		},
+		{
+			"id": 18,
+			"name_skin": "editor",
+			"skin_url": "https://lh3.googleusercontent.com/XUYY126yZ8IZxTeqB0jV5E6ptJa9r7f63Lv0RWuAJHfBgKf1UIxbu0sOTN8bp6L9CM7EPvSxHCPBBQbc-2-ZJNt_17Lwqhdl8Ec",
+			"view_skin": "https://lh3.googleusercontent.com/DiZPhwgynF3xn9QzqowXlLkzJdf4jPdmaLXs0T8EkMAQ4tGTtDiuWDvWLVAkRnZkYjy_2a0aZ6jzDlfr0XRgLLJISvLP_gxavsE"
+		},
+		{
+			"id": 19,
+			"name_skin": "Steve Editor",
+			"skin_url": "https://lh3.googleusercontent.com/UKR1iv2ot6xjWEMhooL2Srxebq9P-UqmwudYIV_RFjL_zFQAlQeav0-4eQawSYKZ34oK_Wk6B5_MvCXcgPEe7GxAWAmjEP3QWBIT",
+			"view_skin": "https://lh3.googleusercontent.com/D6riXjm8JXCahsZzQipFYjddRDeWbe-ZXb6ZdusBm7ydT-Q5CNHlEX5xoHhG_q3eF3RfGc88GY8IZf-qcxkVl5f25XDvC3_C-Mf_"
+		},
+		{
+			"id": 20,
+			"name_skin": "Premium Cool Boy And Supreme [Spiros Games Nitro Nation Editor]",
+			"skin_url": "https://lh3.googleusercontent.com/YlYzDDB3a57x92sWEbcJ5gmhtpWIiLaMwGY4krE31GflMngqs57azC8LZjq8ru6zA-1yKbAXbfFil8TUizctja7lPeETUfv5CP6B",
+			"view_skin": "https://lh3.googleusercontent.com/8BI6UbNK2-BGdt2kJNM9jbFtgXMG-1cUjcFo6CEJlPHg6CahnzI6VItyfAbGL7Suy_Z3b9ZDLKJLsbS8oTbetVNVfabO5vb_ClSY"
+		},
+		{
+			"id": 21,
+			"name_skin": "Editor bobi uwu",
+			"skin_url": "https://lh3.googleusercontent.com/XUYY126yZ8IZxTeqB0jV5E6ptJa9r7f63Lv0RWuAJHfBgKf1UIxbu0sOTN8bp6L9CM7EPvSxHCPBBQbc-2-ZJNt_17Lwqhdl8Ec",
+			"view_skin": "https://lh3.googleusercontent.com/-wdrBcR7mdydM3TX4hxHfWqONXGjfvwl6Uy5mFDaj8fbBdcje1K9U6EE69581y9vkDRtcqVQ-2Gf2QbwOkz8FRoctDISbMYnsg"
+		},
+		{
+			"id": 22,
+			"name_skin": "diamond editor",
+			"skin_url": "https://lh3.googleusercontent.com/QJtKHeOZLdGXcDRiQyKZlJFJ5ej3JRIwKyK2L9Amkhmi5y8Tt5COkHI8Y6-oJyPCM07Z6iVMht2rHnw6iDa0a796PXuiBeWEEf8",
+			"view_skin": "https://lh3.googleusercontent.com/SJOwclNv3qB7W48PA2Q5E2vX59LaxgJP2jRlMtP0BuSO657iHu_1aox8LMGwIPdQGI0f0Wmpo-Q9eyd5uVAc7NR5pgcpiuIpdsI"
+		},
+		{
+			"id": 23,
+			"name_skin": "green hoodie moving to different editor",
+			"skin_url": "https://lh3.googleusercontent.com/jYDnkO1vMzgVEmZO0fJdAkmq7lI45VGR_kMj8ybWE1bVqZJDqA3iSEJeWcrP0ec72AOYEgBnx8GPKN0TQ_Cli2_02RMhaxBdAQ",
+			"view_skin": "https://lh3.googleusercontent.com/nyqDH09W8838axc-XnVjqpPKtLy_N0ESwN9c08S6syRvXdosJ6wUBzem6zJI84xbPmFx4VWyZbZgIzl1oUZBy_Ss1Gl4CBYjPa4"
+		},
+		{
+			"id": 24,
+			"name_skin": "CUTER SKIN EDITOR",
+			"skin_url": "https://lh3.googleusercontent.com/BLmbLTYCm7nSeMzEJiZ7pV5RGWSjqsHFYv0WVEotitYX6de5gWdE0RWDiSGEGGTIReuRFlA9-dHspCVZv_0O10Xq6QhTngWIcV8",
+			"view_skin": "https://lh3.googleusercontent.com/_gOP-iX4rnZ2joXu73bu5xrF7KqflVuadXQmfxaO0Fba9L4I_5A29pIwplOcMumCtOSixfNUyWZIP0Qfypm_5M5Ima2vSUy09ruT"
+		},
+		{
+			"id": 25,
+			"name_skin": "FF EDITOR",
+			"skin_url": "https://lh3.googleusercontent.com/8gQ7N6UJF8juzzaz807dFllQAhS6jQ8TETu9CnVj_luwiM5Njkc_aJM9hNLZuaOqgCPgvkSa4JlWfdQ-riA3UBoYY7QRYUfC3WY",
+			"view_skin": "https://lh3.googleusercontent.com/o_VwC6eETLPIJnoc25b0SyqAOFVcbsFp8sFaCysj8U3rowff6SQ0KefSTDYHWv0Aiy2LGjFXN_ZwI3nV-eMXnmXFmxTT1Isj5Q"
+		},
+		{
+			"id": 26,
+			"name_skin": "rimuru mẫu editor",
+			"skin_url": "https://lh3.googleusercontent.com/BcypGMtlENUrcVE29zPW45ICFY-ifGZgR6HhxlgxKHurf5RcAGvNtFK6g3DzpAX5usIvtVzB-K62KlrDhmcpXxPZrMEE5D8Y-fav",
+			"view_skin": "https://lh3.googleusercontent.com/aQbCFhoXdeapvK12Cw2KX5gNJQ3C1Wmw5UGUvxkI_JigyGQrGWqS-4wIoTOgWiR_eGZEaupZ7NwZcaVh6SNSJxfu55XlaIrVZmc"
+		},
+		{
+			"id": 27,
+			"name_skin": "skin editor",
+			"skin_url": "https://lh3.googleusercontent.com/SPPx1kPunQlW-pq7xaOX5IAXu0a9TQaXAnk7bNE8lUtji1t-iGJoqdyAFR99E-qgz9bV0wmH5elqVk3s-3XYul9cXeSvu8mZQQDm",
+			"view_skin": "https://lh3.googleusercontent.com/Sx94mvVjGxRq0SmXk2IX_b4tNLiTBbacbhOQWK-QZpg0z5UDxivccOdfSchEUCTP66eyiSC2kVm1Y6eMbBF9xe4VAPbEM2Yf7fat"
+		},
+		{
+			"id": 28,
+			"name_skin": "my first skin but i made him on editor",
+			"skin_url": "https://lh3.googleusercontent.com/BycaQ11lJxp4X8zqM5O4R5pN0JR6wYHSpgcAymJ2tF2jmSFyt2S3Z2B-JXYFw0kzQ3bAAAIFeySis-_zsEQurdog3r_FV04rfcY",
+			"view_skin": "https://lh3.googleusercontent.com/5gbGIZ5TB-Sj_O12aeAt671duxF5BTpQokfXTTZxshlGiFpfeZNfshPiiaKqrHW-B-PNEP4W33tN66Rdm7pFge7KX21QMB7s_-k"
+		},
+		{
+			"id": 29,
+			"name_skin": "editor ST",
+			"skin_url": "https://lh3.googleusercontent.com/x_uDQtd9BgYYBg4i_76-3SRLarE94nixlp96SqlKRQm3FnZFKwkP56ShBjAT1U9vFxO3D1zdcPMQjddhyiNN4CK1s1S-Urtixkok",
+			"view_skin": "https://lh3.googleusercontent.com/UwRByu21yUQzXiyg6I03El4UJZURkc93OXR3SnVkfGkrA6C8o4X6_bX8cOIcughXFNN_WjsTB-KW6zDf794DVZowR53viE2cm8w"
+		},
+		{
+			"id": 30,
+			"name_skin": "editor ST",
+			"skin_url": "https://lh3.googleusercontent.com/FyWrBP4o1lH3pncEgQrKBu00vEhMGFeQB1wuSM9UPdm6dEwlE4XdyWi__7Sq9QaoO04CA1q9AofuoTLX0HANCUQFJzDEZIKKSA",
+			"view_skin": "https://lh3.googleusercontent.com/6WoMgmhRNRiBvVf2JzALZwcSfgf4ft3hE3JUHq6QI1xVjXtthCQYjLXNINfQIx8xd_jG7GTln5eotnXGNZnp1Eoefn-egTWXaMU"
+		},
+		{
+			"id": 31,
+			"name_skin": "cape editor",
+			"skin_url": "https://lh3.googleusercontent.com/sW_6z_eJBOxrccPrArgncWtZYpLcYdrLRpg9sVoxq-BKySVoRxH3qYk4NkKecuisIucwzrxbNAAtkfAsKAjvE0R5Q94qPckFHA",
+			"view_skin": "https://lh3.googleusercontent.com/6_cr0IUKgAK-5T0vM0hqo76nzR6tR3e5v8NynrRsZrfmWRFBmveJYNe3vUHcAWAt6Kl3upbqIorT4j33-dSo_p5Mujh8CxHO4oUk"
+		},
+		{
+			"id": 32,
+			"name_skin": "Editor Techne",
+			"skin_url": "https://lh3.googleusercontent.com/EoSGovLHRKYXQaxCdogZoCO8_foRee89ZndA46-kd9pbYSdmFtJrf6QTZBOwSu-tB5oLDy4rdEYH_gb49MUuU7APMiaxvMkc0dX8",
+			"view_skin": "https://lh3.googleusercontent.com/orQyRo4g3gvkjmdYHl4XB3yS2VGUszGxiRxDoEOPqGGKNxvRnM899JEM5aZ8J-2DpeRmf_GYVWx2bUa0aNdGKaT9wwXh3rHbwmIA"
+		},
+		{
+			"id": 33,
+			"name_skin": "The Editor - Release 2 - Hair Fix",
+			"skin_url": "https://lh3.googleusercontent.com/e6hoNOk8TANwBFRPGUJaCfLbRU460F7AsppsnBGC8Z6nC93SbghE0I8G49BPlicutUuvcXLO68XKXefvwCpC8BjySePFGajAVg",
+			"view_skin": "https://lh3.googleusercontent.com/mlfXv3e-7Ya3Bj4Id1PF9Tj2bsuxqnr-xDnzfbZ2dmOaAIjW1khX_9OXCZTLMhpSBRMOm1bLXVrmqorMTENcvKQRXZ3C0xo6tpGF"
+		},
+		{
+			"id": 34,
+			"name_skin": "minecraft skin editor",
+			"skin_url": "https://lh3.googleusercontent.com/NhkDzq86SPGWU5gh5euyo6Lq-74NKERJRDT1k1FhASJr7mgz8vZMdwO6O1N_eEyiCWHijXApVQxKox7h6O8IN8xhDxWgw0iuFFN6",
+			"view_skin": "https://lh3.googleusercontent.com/dMw5oKCFXpWU3vyPKdLQjfvXee6VX-ioLaRe-HeK5gwZ1gPnkko-K8a1cgp8ppLCpTDMjeLzyVKsqn5oR2wdPWWYEMIyCao8eA"
+		},
+		{
+			"id": 35,
+			"name_skin": "nova editor",
+			"skin_url": "https://lh3.googleusercontent.com/U57ofQ9l0Lg89Gvk6XhLxKlAKZLSE0H74PEdNpgP0RqEpdrRBcWmfcuGyYaxydLbaRhcAVhIDVuHCZdLx-Cuu7k",
+			"view_skin": "https://lh3.googleusercontent.com/8Hx-pSGd0g_5B2vZacm8EtwG852kmvD_TB6yI1W2Xihpj-SOu6gYodjIjpzDR4Bj5CmM3uqY5AdxbcB38v9vvliTe_EkxpyJ2-E"
+		},
+		{
+			"id": 36,
+			"name_skin": "skin editor",
+			"skin_url": "https://lh3.googleusercontent.com/ag0bP3LaBmexHnQNwORnvaALfJRWOIjI74dUzfOJ9HrmwfrFBCCmlUpU8w9E_jHHuwgOcSe4r6wiaN_yyrUTHkS6yw4eAm6I1w",
+			"view_skin": "https://lh3.googleusercontent.com/DHUFbpXcmzFES15PDdZYUkPUidRDgO1GEOSW_hAhNlIu97uCy9WFwzM6SyxPxEr2DKpU17hi5WsHpiji3ezhsuCRlhyk1VUEZnXS"
+		},
+		{
+			"id": 37,
+			"name_skin": "ROBLOX EDITOR",
+			"skin_url": "https://lh3.googleusercontent.com/kIypRrxu1JFKsBTVx74XPPWOJLKsIMcC7ksakLFZ3fIxXcavCqYCiXcwCUPsvLhfPZyMYwGHvU3LR77isBz2i9-2Z7JkRMvxlbc",
+			"view_skin": "https://lh3.googleusercontent.com/0HrCimbXgfpbZ71gQ4frL-iN8FENNwcRIy_ByUqZo6g938cEVeu1dVYdN-C7xe-7SONM2MC735ckG1HasXdfbiGIz6OqSy_Zuw"
+		},
+		{
+			"id": 38,
+			"name_skin": "editor skin",
+			"skin_url": "https://lh3.googleusercontent.com/Fuc_xou0rdpaOpGHPnE3-UUhD3-AfNF9mnKVzW2dRIHKykhKPWFifEZLhw8q1dFnWmqC9y6p0CU2YgeZTun1RNHpTtDyuEi4TDiX",
+			"view_skin": "https://lh3.googleusercontent.com/sk4TDEapvtxrpWtrBem9NYvr4-K37mV6PUFL4TS1dmRSUyKRSDc-oj9gMPugauWaDeXLxzyZ1GTaVP7OX4spInInn3dCPAPXBv8"
+		},
+		{
+			"id": 39,
+			"name_skin": "Nova editor skin",
+			"skin_url": "https://lh3.googleusercontent.com/x6fxfHD1OjTGn6P2o6IAyMMRDs6K83lYVsABhqchBZI5y0IRFxaKyqCFCS23Lc5815YRN24QwBNWa06HfOefxT_B0GZGAGhYDLI",
+			"view_skin": "https://lh3.googleusercontent.com/Ot0zdC5k_ReqmN6qxa-uhnifrcA9l9sbPexN-BYpoQAf8ao6pwTOzVEx-0UswC8esvWRerS32an605x1QIE2eCbfUj23SNre6g"
+		},
+		{
+			"id": 40,
+			"name_skin": "editor",
+			"skin_url": "https://lh3.googleusercontent.com/e4Sb1Jxp4OTJQZwruoNpPgJ9Hw1M7TtDctjhmH4bI44PQ6AATKTHxCz7cvQ16tKxJY_XGlROhYuO03evNBWyWKm0acKZ5gxnow",
+			"view_skin": "https://lh3.googleusercontent.com/xFHJtyZA64Mm1fQ9lZroRjDufUHxIE7KalZHd335gbTOS17jZS4z2eRmjCNzXlZ8bk3hSwRS0DRYssdfswszWvyFXipcUNwEXg"
+		},
+		{
+			"id": 41,
+			"name_skin": "Frost Team [Full Editor]",
+			"skin_url": "https://lh3.googleusercontent.com/hSE5wVFGt_UzzKXezckM5lOgOPWevbQCgsmjsJhy1b7YaeNmjPjb_joMh_Djp4FGIi6hs5QtcUDf5MREKi5oDw",
+			"view_skin": "https://lh3.googleusercontent.com/ppva4-j1syLvMFyLAhGn6FMB2eI_KrdIxWDR_T2_pxzNOg8-KNx078wTYvKB8C1hfU8YnpRenrPngUsipAoncA"
+		},
+		{
+			"id": 42,
+			"name_skin": "why is my fov in the editor so WONKY",
+			"skin_url": "https://lh3.googleusercontent.com/rZ3jaANIvUSMbVqUdJgLNgQoY0JA5QmAntc3waUG0O7SXZHM2wE5trd6MRphgrSqw2ZppyvVIoooJMxcLZxNKHmvl1R3cHJnmA",
+			"view_skin": "https://lh3.googleusercontent.com/A3DMenfKplNKlKiqI0MyMzMZKSC_M19ueagPGkzfbhUFHxETf2vLaRtB1fL09SLtsx4qpo0256OrvdJgNO5PER-jgGG9IWN2db4"
+		},
+		{
+			"id": 43,
+			"name_skin": "Skin Editor",
+			"skin_url": "https://lh3.googleusercontent.com/yzhK7qlP5_ySJTEANsSQmqpb2F_AHBWp2rArSkxGaODivsqWN5JPc4G1CiPKI-f81LfA46-NijjzlVujKgFVy_vbMcjxOSLtcBU",
+			"view_skin": "https://lh3.googleusercontent.com/9v8wJPW_Wj6ELzFT6f0T2Jh8e3nZM1W-dwCdwmSqJeaeJoGdnmlUzfr5MQ8xx1feq9Znx--fwRxYKn8I1zOgwrQy2dZJjh8GMGo"
+		},
+		{
+			"id": 44,
+			"name_skin": "editor",
+			"skin_url": "https://lh3.googleusercontent.com/9bk8zIu65biGBQaR5kl-HHd99o7qoObYuJ2l6Pqz6be68xDFqQqkiIOmPj_WK6_trNsUIykNR8B0LOPhPA3I_AmKVNfSYMZ7tA",
+			"view_skin": "https://lh3.googleusercontent.com/YWI-YjXQd5y1D8lW4RYujTcHiFoZObWfR_VSUPyG3N_I5UyiMvECi32abC2s0ZqT1dnogOwa3ElL2cX2aJcXNP_ZqzCr6R8qE4g"
+		},
+		{
+			"id": 45,
+			"name_skin": "Summon editor",
+			"skin_url": "https://lh3.googleusercontent.com/QyTm8z5-kv0Di8Q9-r8PjEnY6h3JZS2Ec5t8c6L1MDO9YEyLniMg8AUeu3zDAoCdJR3BsOqu5Mv2LeB-ffiIC3LsFksbrWEU00I",
+			"view_skin": "https://lh3.googleusercontent.com/niwX3HrKcB_1PiYnpVq5w3lGCNwSSHofI1jlwxC2OYCtEW8Y9T3qKF-OB97XcwJJdW4AADClaClJk5UXFk1PsplsfkcaT9bkSZli"
+		},
+		{
+			"id": 46,
+			"name_skin": "Gord O editor",
+			"skin_url": "https://lh3.googleusercontent.com/t0nQT9HOuEHrJ--SI1_3Bxb4SVyCVTZTmxgjd8C752_Ay_aD47TmHMm3rQQm8AIGWEoqs15InWdFcVffqjUuv74D1SNVARQXhkw",
+			"view_skin": "https://lh3.googleusercontent.com/D6KDC02OOwsI0u3DryP0y0ZeVniw9IKlofHNeLUvqI4o4sGoQgkWiHR2ZqxaTTxxXFwVArQ8CR1C8plCFWA7UE91zdveWqAikg"
+		},
+		{
+			"id": 47,
+			"name_skin": "editor suit",
+			"skin_url": "https://lh3.googleusercontent.com/8ZmvH08Yt3TxTJ6ctkE5DgJU-Gr0lU4-vvmZEiQqyKtUSxMgAgQC6M8NQuRQ6ImHaIVnCCsBtyferdS2QNx7190fTi-yNoPHDA",
+			"view_skin": "https://lh3.googleusercontent.com/xrU_8BPimUyWJEuIvHD5ifeXR4pyglGsMSFPJfGEB-w3Y2mxMOrxGhgS6fQKX_Q4xVF0-6Mx-1iKcuziv2ODdTNUBtr29mtHCiw"
+		},
+		{
+			"id": 48,
+			"name_skin": "Editor pro",
+			"skin_url": "https://lh3.googleusercontent.com/MCYpeUSLsqSyIbgfFrLgGEzKUfYPCqh7i1eiaP4Z8rNRUmrshjprrZlzboe0ZXN2fbXyo4VEipjFel1ZmK0Gbep42MiHXtInB_9G",
+			"view_skin": "https://lh3.googleusercontent.com/vu252BAj16EwOhm0UcIFTuSdq-N3ayF4NhrZUd1EiRzIM8J5yN7v8DZKt37SSG3F-hTgZH4flvwmy2Epc2dDGo7t8QZ5vnG0Y1I"
+		},
+		{
+			"id": 49,
+			"name_skin": "minecraft editor",
+			"skin_url": "https://lh3.googleusercontent.com/T5k8KnD_v25dSsmfA7wdf-l3D2RpOR2NkaRRfxWQpKMnFUq47K81C_z2ymFcEtn2wHCX5XQKYov6T3P5oEXhSiBDBUZB3Nqaif0",
+			"view_skin": "https://lh3.googleusercontent.com/D2QzxmtPXeQ-IwPoQvHOMCY30Zi35SE6ep8tV6j44CVDDLlF9WiwLVJYye1jBdW7Ttlnhl9ia0_Gh6ThCqf1i0XvZX8objgR_l2d"
+		},
+		{
+			"id": 50,
+			"name_skin": "among us skin nova skin editor",
+			"skin_url": "https://lh3.googleusercontent.com/BuJ3HnuXAi2z8rNiPQ2WTXFg17FaRA58522F4TYzRGgAzpyZSJ7IfYR1NgvNRK4XcG4k37yf6QlW-rKx0DP-FA",
+			"view_skin": "https://lh3.googleusercontent.com/PePIcxRLu53-jVjucV8l4QHGxGvo-ostSO86sHWj0zziVCH9uWVO-2cVi42wtSbWqNg7OnUCT-qNy1cPTwpQjmltn_5SqW3STSc"
+		},
+		{
+			"id": 51,
+			"name_skin": "EDITOR ITAY&STEVO",
+			"skin_url": "https://lh3.googleusercontent.com/wbuq4eMpmko_lC9AVTlxGmF1822FEoyVEjWefSuxT_ZATsg9pYXCi9E5cKvnb8CNwIzERGD036tlIri6aFAZ1iOuv08dbNMJzaro",
+			"view_skin": "https://lh3.googleusercontent.com/XzKfNzzmxCesesusl6X-mZvkjzotpr6wlCXIsWX-WY7i-lMT_EzEtANc2jgDQO_27Wq9ogC_nqKmiHt7p2xJ6DpeN5lIv9vNHhdy"
+		},
+		{
+			"id": 52,
+			"name_skin": "Nays katchem skin editor",
+			"skin_url": "https://lh3.googleusercontent.com/yM58Tzv_MyULH12sI4PEya_Tml0hiGPv0F5ZI30V5FBUYSqJApRRvIs6UUIDeoVAXHP0ltJKOJYuQRK2pI7SaZXyZE6HzeyfdI0",
+			"view_skin": "https://lh3.googleusercontent.com/-AgAEVO_e4aB14nsLcD-eCajJBiKUY02MymZcl6SVVLwqhM0cSdInrIHaPn6p7puHECWdlesIjtJVxLXiQc4N1XyRuw1zCaQ40m8"
+		},
+		{
+			"id": 53,
+			"name_skin": "EDITOR ITAY&STEVO",
+			"skin_url": "https://lh3.googleusercontent.com/udEeSBfcoGFNoFltAWmpKtq6i8-qlsyusQ-BCF8JpyOHEomlyazgcTyB3dsKKZsw7WzCBj6QnPtKMDPU3dxaDLoru05sC9Lyly0",
+			"view_skin": "https://lh3.googleusercontent.com/MuBTCbmbbaAx6u-QMoEsONS8id21mNIwcsZ8pGoFFQqJY8fr1SpjRWv436LoyMYyyXT6mHIM8D7AfUZao9zbQoILmIUbUGgLOw"
+		},
+		{
+			"id": 54,
+			"name_skin": "EDITOR ITAY&STEVO",
+			"skin_url": "https://lh3.googleusercontent.com/MCljdf5Kygj4XMhPiTdZ8fJYBUobJx8ECm1nZfTcQTWXfQmsLJFkzQRXlJsX1mkx9_ftEfbgtf8f2yUnSm7b194GTxUKLvj7AiNJ",
+			"view_skin": "https://lh3.googleusercontent.com/o_X84QufPs-eGLBsxdPHczL82x-92fY4MiHa2HDxapYpryKXUbGoJvcYFQm-_IQZH71TQZb6IB3VpmtpcLKladdDrI6Advl_Bg"
+		},
+		{
+			"id": 55,
+			"name_skin": "EDITOR ITAY&STEVO",
+			"skin_url": "https://lh3.googleusercontent.com/XbBTmgH8yHizu0yt2IkpowebqBryk9xvqku6t71ZmjKkFR0ws-1foXZhERZIPPdSluo9o3WSKNNdnYg4QN7cMvqpfOZwn3XYOQE",
+			"view_skin": "https://lh3.googleusercontent.com/S_c-D4wDCVNCz8JKtJuz-ewhdDtPM0ip_szlYCDPCEGT7OO1NdqgVYx8xDcKjb2oaM2TRroW1HEzXugB-PksZb2hWh1uPOx8mi4"
+		},
+		{
+			"id": 56,
+			"name_skin": "Nova Skin - Minecraft Skin Editor",
+			"skin_url": "https://lh3.googleusercontent.com/6Xj1iQPcrFd7Xpmq8yLS_2_DP-HUhLS7vlgHl6bH2pQFdHoTC1krJ99ep5wGR6vgbhRLlwT4KB54wXtR9AICAt62HloakbVbaQU",
+			"view_skin": "https://lh3.googleusercontent.com/HNmB5Cr6ko0ScINtTYknU8E95udNXF_4YFwZ8Rx1NldNzq6uIG0b96oEa6zFubvry4SpwJb_d_hn-wNQd6q3Woog9KQ362yWIy4"
+		},
+		{
+			"id": 57,
+			"name_skin": "Duckpool Editor/Gamer Skin",
+			"skin_url": "https://lh3.googleusercontent.com/TTcqZV33rnZ4pBfC-NiE11LdjSgnSebmAriTqcyKaYs-huJX31OB9YaEYifDP80r-PSGDexTX3FlBNzz2GoWwvoM-moDO7z19w",
+			"view_skin": "https://lh3.googleusercontent.com/6wilTXP72Q2HP1mxqdDhVhihe6h87EIvRIOGX9LQEdBjZO2r6K-UQbi36wsen0csFmVuatOZ_1pHF_eFvxjgpHjo-AC3Ey6SQCgI"
+		},
+		{
+			"id": 58,
+			"name_skin": "Duckpool Editor/Gamer Skin",
+			"skin_url": "https://lh3.googleusercontent.com/Gzi1HN4_tTGHeTuEuTnj3wCtk7d0pDLREB325qx7J1W4C44JahZ08qB2Ps8Q-3GCjIwmnTkxwcv3UQJBza5a3cMwjmnOvNKE9w",
+			"view_skin": "https://lh3.googleusercontent.com/OSvCxdIADIwvjdY3DUynet-EIYXE7vMVOBUXqaLmIAChvxbVcSLZL-4EToHyjmESv2lfaE09qTGRHOgghgYtBTEzaFuKSuWx_sA"
+		},
+		{
+			"id": 59,
+			"name_skin": "Nova Skin - Minecraft Skin Editor",
+			"skin_url": "https://lh3.googleusercontent.com/T2VYBinPX6jJVFDhCexgq6VWApNf_05_y7iPGCtkF3uW_5nKWlQRS7IrSkhu2lAiWeSMYPm7GYbMJaApRbHK3xLYaHygadWHc14",
+			"view_skin": "https://lh3.googleusercontent.com/Xgd13_5gPBD5p44C4D9bcHGZP66Vs0HJwAIsd-43IuYBLnKGCzpwZAhmWqDflDP4NvN8i7UnHqQqYuJzjebZi8mFZdTpYiuz_g"
+		},
+		{
+			"id": 60,
+			"name_skin": "felpa skin editor",
+			"skin_url": "https://lh3.googleusercontent.com/ZZGzUzMVIMznT3qngzF4ec9Zq-ZNXa-QjRInRz19piPbfhtz00iqFlt3BChYNvX1zs1MsIeg0J_UwjaUk_kHLwz0XOtgil_t27U",
+			"view_skin": "https://lh3.googleusercontent.com/16fZGpDYUEPevaJ0xFzdYPkOytoQlCaPNWo14a5fxO5GCllGqKlSeL2VxhRVPkG-t7ZBwbha4IrGbW7oO7a3Zgpw3TXGQ84c37iK"
+		},
+		{
+			"id": 61,
+			"name_skin": "editor",
+			"skin_url": "https://lh3.googleusercontent.com/sisuU447V-itsvJMpZmp09Bz9XBYu5aoIQkYrzQ1c1ffkPXJqwS1wYrpVvn8HawpEjMA5gpmcQUJntifFienFmzoW1Xk2QOgYwLB",
+			"view_skin": "https://lh3.googleusercontent.com/qmdazCDzZOuZrxW9BdKCz5iWUz9OwdIrw1LdxYfh0T7Lrv453Svg4H1DqHf623Q6AHmcljFzlcNBJTlKV-ArNqFU1XEUUUMiuQ"
+		},
+		{
+			"id": 62,
+			"name_skin": "skin editor",
+			"skin_url": "https://lh3.googleusercontent.com/8inIv5WLeWCe6jGxiuI-Z5alJ-g622Q9sbEgPAYM60WuoDo6E7oGlchYsGXL8GTibihvOdywXq9dnffOnE9uR0liROBpbIIApP51",
+			"view_skin": "https://lh3.googleusercontent.com/qEFyidb8jnbml1cSk9D8-YzZCHo14ccoo1PLJ3L5Lld5aPMcjStc7VuvLyMA9wO6ft9loyQpBlot95bhn4GGoUv5faooa8cK-Q"
+		},
+		{
+			"id": 63,
+			"name_skin": "felpa skin editor",
+			"skin_url": "https://lh3.googleusercontent.com/aXCqbv271iyzEEOfxsJI8_MIGNT7VyuohYvlXUk4Yioh-Jx6pNQfxOozgHdA2PovnG6aruWn1R3446_gdsLbCaE-SeSlggmWZyU",
+			"view_skin": "https://lh3.googleusercontent.com/j_SdgrEBjRtEMoGvMksn73dt1e_jQbJPsZGuGSAaY9uubzCoteZktxxlg8EtsS8JPsDqVn2_a_CeRG_1y4n50fm_GsqVH2Mc4lCE"
+		},
+		{
+			"id": 64,
+			"name_skin": "Lord_Luckingham editor main skin",
+			"skin_url": "https://lh3.googleusercontent.com/zxE7bTGrhJJLXksuVOMsLV315OLjS8cfxRixEur_89MS_eNtMq9wMZM9iE5jMHwmtKcoG8MhWOPbsU-RQjkg9y6fKU-txQlKLkU",
+			"view_skin": "https://lh3.googleusercontent.com/6DZqWCVBq4Mfc1PfO8K5eiLFWsR4IbF9bjnJ71yT5jtrbYdqODbqOtpURzJJbPbK-R7oLqeYehza1dnSdPKOYnG0h3feftF_-ZE"
+		},
+		{
+			"id": 65,
+			"name_skin": "Nova Skin - Minecraft Skin Editor",
+			"skin_url": "https://lh3.googleusercontent.com/EouRXX0v2SaCwyWVWyOSQwLxyeUvWH7537NqRgff7-4AI1Y9Qgfv6oByIAhGSH9pVeumlybhgbrb7A9dvRQqrlKdIMDvl_BHzjc",
+			"view_skin": "https://lh3.googleusercontent.com/zHdzRjQxOvRaeQbckAsJLUzQjhJl4PsrZV6g8iTsGyWRZh1ZjfCqyCJ-CVM5JSQlhLF9erp1oY2Died730JTrBm046alWejwa8j9"
+		},
+		{
+			"id": 66,
+			"name_skin": "Nova Skin - Minecraft Skin Editor",
+			"skin_url": "https://lh3.googleusercontent.com/-VOKrP1vk5ZxlhIJbbEwDiKgqqopbZd2fWbk1rBRrHmZUH_3QQ_iFB3v1ogPZ5FM2i1nP1MftcP2Cr3n3Xkbj6_FEGGcVnjP3J8",
+			"view_skin": "https://lh3.googleusercontent.com/B8NNkAC8Btdc92vYCFwxLI2lQSyBYKLSQsgvalk91u7a3R4jk20Jxvlaf1SskgBgxRv8JZTVTOTjiBECMycpLUx1uYZqQ2hUmrw"
+		}
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
+}
