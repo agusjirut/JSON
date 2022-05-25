@@ -1,0 +1,366 @@
+{
+	"Ads": [{
+		"select_main_ads": "",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"native_for_admob": "",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 5,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"name_skin": "Scary Ender, enderman, creepy, horror, glitch",
+			"skin_url": "https://lh3.googleusercontent.com/uWSpp_OyovTE1Po1KmfrlCgWWvRk_XIccgm_XuRBIasbQOtTU2fKp7suLJQ4Z8INoSuyYhxqE-oC16f2EZI7BO7t-GLUklDfs7EL",
+			"view_skin": "https://lh3.googleusercontent.com/cc0cx-7s2NYiAEsI3wg52Lp-GTSHV8XT9if0uJ_qVzufGYBOq4ObVpC01_7spb4HmGn9CCWh0KdG33VaF8NIVyUt0SQ9TUSigw"
+		},
+		{
+			"id": 2,
+			"name_skin": "Scary/Horror/Creepy Entity 704",
+			"skin_url": "https://lh3.googleusercontent.com/xk7YQXYs0--6HFN_kIXzBDMhROnzN6p08ZelcQrmkyBkbOtcVMj0as-j-33fJNcZ_Y5fAqQ3EJidTYFJl3Wj",
+			"view_skin": "https://lh3.googleusercontent.com/M_jG85fx54ZoWC_LgTZ9Hy_xpLVvlzsa6amnKJGzTJuNi4HXNcS5qiw-qRK4H9_uN04GoZuS0reh9mbc0NyTRg"
+		},
+		{
+			"id": 3,
+			"name_skin": "Saiko Chan (Saiko no Sutoka) [Yangire Mode] yandere, psycho serial killer, bloody, bunny girl suit, horror, creepy, scary, sweet, cute, pretty, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/KhZMRRv67QNfSu3jEFMuCO57PECJKXLQ7zv-XIYE3V5F1FwnTlymYxZMg6qrs3kNCwCpNPmh_xZMtQe0vmE2fwviWwZWwT6UysTD",
+			"view_skin": "https://lh3.googleusercontent.com/zgqhWBdQEWGHPz7Lp3NiH_SDg9eupXIILQ5lf6JzgADVzZfe3Ye1iStUEPuudNthUer9oa2Oi1OLSr8l6Z1rpf0-00X4USTOZg"
+		},
+		{
+			"id": 4,
+			"name_skin": "The Batman Who Laughs |Dark Nights Metal| Villain| Scourge of Dark Multiverse| Clown King Of Horror| Evil Batman Joker| Monster| Demon| Darkest Knight| DC Comics",
+			"skin_url": "https://lh3.googleusercontent.com/neo_cqa85A3rYir7LF9a6grEoV2OSLX2-sQ6iddaZ7M4vPB0bSdaCTqUHxrV3FmHKsdvmTONZ3iYckFNvPaFcGg2W6QQquLx760",
+			"view_skin": "https://lh3.googleusercontent.com/wCVcp6aSqEWtwnD7M0ErLmyVlrYnTIqSfUF97GXGZlj2hbzpeEN7FinK0YdmZkF-uO9qp1q9jOxlpFKtbZ5Fu2N0Dm-RV4bFlHY"
+		},
+		{
+			"id": 5,
+			"name_skin": "Scary/Horror/Creepy Ghostface (Scream)",
+			"skin_url": "https://lh3.googleusercontent.com/H0VyuYicHptySGIYkoqjliQf43SjaXKOI3_yf910GzQFxdldiwOxVhJPic_eTkO82wM40lvHteb2ZSrptsGCdMw",
+			"view_skin": "https://lh3.googleusercontent.com/JZSMIAtZIu6gz5exW8TylVrCJgSRQBIZddOPOo-piN4IulNrBXw9DvDgyYfSaqzSLbspJ06jcRN-hpOeUIBMRk4"
+		},
+		{
+			"id": 6,
+			"name_skin": "Ghostface (Scream) villain, ghost face, icon of halloween, woodsboro killer, creepy, scary, horror",
+			"skin_url": "https://lh3.googleusercontent.com/HitHyaYRd5_TC48VW_jh7t8JH97aaDAbbJEuc12HPl-x50kp8iVTzkTSpcir7o5UUBY5rn50Qs8Sd6kUfGCeL1XuAHD5NCgMABU",
+			"view_skin": "https://lh3.googleusercontent.com/EBGyINj7Frx3xsJDYCWztvHxXNxYvNUEOmIx6uIa-MEjOy637_hOYesLgboYkMFpp-pC0XtjQYlD8Wge_de3A5Malu2AsNXcnDU"
+		},
+		{
+			"id": 7,
+			"name_skin": "Pennywise (Stephen King's It) Villain, Killer, Clown, Devil, Demon, Monster, Scary, Creepy, Horror Movie",
+			"skin_url": "https://lh3.googleusercontent.com/fPadZiyD_h7f0yy2VYMVh7UQSp1Pb6xo7w59bqFyjKsPOUIbkdtYEb-YWCurmB-Lq0EnaeOIOP9dXR-bW7lDwCN5Wq_C6BLvYTOT",
+			"view_skin": "https://lh3.googleusercontent.com/7TodI9iCMbR34--KoILmTKgabcwJwn19vJa8qdMtDtpuEiIiEAwdT1KvNGJkOgb3sPvuAT07KpEzZMCjPOxXMMJQ6kyzP6f7mA"
+		},
+		{
+			"id": 8,
+			"name_skin": "Brandon Breyer (Brightburn: God of Darkness 2) Villain, Superhero Horror, Evil Superman. Bad boy, Killer, Demon, Monster, Dark, Mask, Cape, Black Red Suit, Scary, Creepy, FanMade",
+			"skin_url": "https://lh3.googleusercontent.com/hIJ_mNjChRIkUva_amj8YhYlvbussdnNiwm01KFQbtknr2uwID3w1Bkio4fHiYs8SLJIMbZ2OKFKw0dxK19JcwJxLeAbDoKbAw",
+			"view_skin": "https://lh3.googleusercontent.com/RQaozTWleY0akYFTYsaDmZ_uJFiyEa2djA6G2DGuW3033qAJWdTlvdOp_87m45V5v3rHZw92bMLzJm0d1u6kN6sURotOkSmbuw"
+		},
+		{
+			"id": 9,
+			"name_skin": "Saiko Chan (Saiko no Sutoka) Yandere, psycho serial killer, bloody school uniform girl, horror, creepy, scary, sweet, cute, pretty, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/e-emYW5MtixkY5Jg3WBRzjb5X0Tt40Ts2ZvQ3GxOhP77eoVZmIJPxzaTCpGcEwPjVqX5YwWTeKmZ1fmRovj-JBiSZhvW4VG9tW7U",
+			"view_skin": "https://lh3.googleusercontent.com/aO6aWABYhRG5p84AzFd-st3x3yHT8667iq5kkZyxydSqoUQO0_uk5ninLSTZNw0HFRn9UNIU2zELwfjVhl4oJuoW_y2WJMUlzmI"
+		},
+		{
+			"id": 10,
+			"name_skin": "https://minecraft.novaskin.me/skin/4845673192/Predator-Yautja-Depredador-Hish-Jungle-Hunter-Dark-Mask-Action-Horror-Movie",
+			"skin_url": "https://lh3.googleusercontent.com/PNPz64PP7BUd2trlDnnSRMGZ9krcGIucjS3ezZk8TEEQ-POOKdP9tE7IZfaueBzTS6nNTsOhacBcrpKBmNkd9zVaUXTNL8qehA",
+			"view_skin": "https://lh3.googleusercontent.com/-PnMg-Ptch3LESSqvf8768UpXAAxkJcJHYRaSwMoUDjRkqtZndqi1Vn45mc1EQbOG3SslDP2l1cRLd_oLa69NLp5n8Icblj0cA"
+		},
+		{
+			"id": 11,
+			"name_skin": "Rod in Ice Scream: Horror Neighborhood",
+			"skin_url": "https://lh3.googleusercontent.com/bizUe26scFCvGyBo5C7GjhKvG8wYuevt3qzVuUk2ZIc0GG9gX58fw35SLDJ07f7LRc0n2wcKHW8C3EtviYE5gWk",
+			"view_skin": "https://lh3.googleusercontent.com/el6NmoTEwPxzDp9K0ePA2pDwQUuED2OKop7Mn4F6BJ6jsqMDrjs03nL4-Jevs6Da0iq8qTev6RczGss3luU2kg"
+		},
+		{
+			"id": 12,
+			"name_skin": "Horror Skin",
+			"skin_url": "https://lh3.googleusercontent.com/6Fv_79AbyBG2fbiTX4jkqfYPVoBmX_hPekOmeXzXVfLI4NvGj3qHPPcu_GEV8-kEVeo7yUN3J-zhBUeob52xQQ",
+			"view_skin": "https://lh3.googleusercontent.com/FlRzIgpIjkFSGATFBRCfreMA1ZRFqRwDdvaY5LurLKAfP4ijqpCnIoBcGyqB8oh9RAhZ1kEmPZDzSp8b09vvj7Q"
+		},
+		{
+			"id": 13,
+			"name_skin": "Horror Silverfish",
+			"skin_url": "https://lh3.googleusercontent.com/QqyLuHqmEjdqVfGjujf0opOdBiS_6b4hczbjCuNQq0Kn90dKsR6Q74gsCMFQoGssaDKfC5q_w9MHd8DSir4D",
+			"view_skin": "https://lh3.googleusercontent.com/zkkgu51HuPd5MgUuDZNdY4I7IxE-lY1G_jPI0ITz4m7wplu1j58Mv7JJj-gqzkFYOGV4qy58k7JMKFV9SNOuAQ"
+		},
+		{
+			"id": 14,
+			"name_skin": "Saiko chan (Saiko no Sutoka) Yandere, psycho, girl, school, red hair, cute, sweet, hot, pretty, scary, creepy, horror, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/LPlzgJuTM-GqsBuxZTDaAMBfOcrds4viFx0vB9OIY7vb9MFriD4iuKw6roCym5eAR-GYVdnRQoyQZZyXhjJGjDffZEf9u6-QqCE",
+			"view_skin": "https://lh3.googleusercontent.com/rp66SuiPz_vCQowpKyGMKfgESu4uhJsb9HrKI2tAI1uQyWYijdpAM6_MaudeZ0NrD5ZMU_x_BnfNWRrAiJ7Rr3v7-yS820uWvm8"
+		},
+		{
+			"id": 15,
+			"name_skin": "Minecraft skin horror",
+			"skin_url": "https://lh3.googleusercontent.com/6R1vSoJC6ut2-sSjvWUUYE-kr8PHj4ofPTgVHuq1CK7L0tUI0tbmPrCZIB__HG-MQOj3srt6ZsuGmqIwuHNdTGmclZvl-oBHMw8",
+			"view_skin": "https://lh3.googleusercontent.com/heqLvvLbicKjaI-VH3B9p7p7GQepxvX1vMUrEAHcMls_CG3rBUb7lyVS5PBVqDLBXkY0w1IxPNRvRMGcBkCO5BPxoWingvpZqsGx"
+		},
+		{
+			"id": 16,
+			"name_skin": "horror update",
+			"skin_url": "https://lh3.googleusercontent.com/TXAVYH-xtH1QJm3aSg7mpWVH7HFiVymQdHclFkjr8Kx_YX6aFkVcoQxFcf1sl1CTex5bGfPmTGJYd97OJeFvoVQ",
+			"view_skin": "https://lh3.googleusercontent.com/BT601c4g4VTb1YjyhV3bxXPm8aI-bzd2ro4-itJ5XWJfMoTgfWkPUZd3SvjYH27a-nCNOjY-8d3_xVw_iIFq-fQ"
+		},
+		{
+			"id": 17,
+			"name_skin": "horror granny",
+			"skin_url": "https://lh3.googleusercontent.com/kcwEEMX5rszgbcvU2V5VjU6SvmwtTVdPN319xUF-wdTU47pKJc_9p-PHy1YWXs0oxni77DxtcdfqDHsRUsPLjg",
+			"view_skin": "https://lh3.googleusercontent.com/hrq2rm9i7hlyff037kl1xo2SbM0IbX1bq-Oc_IlrM2uyIvLsR9ZT-Iy7SIpN32YafR1BbX3mNxCFQx3vEuhh3g"
+		},
+		{
+			"id": 18,
+			"name_skin": "Scary/Horror/Creepy Leatherface (The Texas Chainsaw Massacre)",
+			"skin_url": "https://lh3.googleusercontent.com/0UTmoaqZbvHyuf9AdKIfFd8gnIoDhEQRVflzExJgdwdRlfofEhWcEmJT4mRcRp7ySWa_vNtc-887AkldI_J1",
+			"view_skin": "https://lh3.googleusercontent.com/8Nm63JXht7lt3EKGKGqGeqyZhkU0q2jwx3kU0nTJpOGId6UZB7g88ehm94VD_CmP17pbqkD1avtFKZJytW4yHQ"
+		},
+		{
+			"id": 19,
+			"name_skin": "horror",
+			"skin_url": "https://lh3.googleusercontent.com/oBg8ZEYtQn4FzaePRag6MMIiGeIH5A5w80ltCLyrwjYrCu2cgMldZQWkGG05f-1p0MPMn9jOPVu-z9kCcDo0ufPjs09kfEHgNcM",
+			"view_skin": "https://lh3.googleusercontent.com/mnWpj6p0TmwjjMQ-_C2KoGLuCnO3BXXCxT5ICPONg1HpUIwHfXVN-ttL9ura_jcc3B9cVSddd7R72YJRBwUwfAZQKtKomuo4lw"
+		},
+		{
+			"id": 20,
+			"name_skin": "The Clown scary killer creepy, blood gore, bald spot, horror, smile",
+			"skin_url": "https://lh3.googleusercontent.com/dRnIxmq5918Cgj0T--9dafsgZgkYscNbQf9p1hWBNJHpINEN9Srdl3pHdGG1SA3eZLqx2nqGtip6RrUoYeYeOhOduJ2ycuYvijo",
+			"view_skin": "https://lh3.googleusercontent.com/QPqnYtb-W5VM7lll0n0g7Qy8L_AAzXXzcbI2VhNj5o08InH_5NRBWXoskKjcm95vpyCfvsiC94HjNkJ-g7IAhlLBNqLomA0_T2I"
+		},
+		{
+			"id": 21,
+			"name_skin": "Horror Granny Angry",
+			"skin_url": "https://lh3.googleusercontent.com/wYvDHnqt9se2hl-yA0GozFn_oBCQU6fb-1h_Tn9LThaM_asXV0RZOffJM3Psvol40opN9xNuGh_P5LuzAG8-RQ",
+			"view_skin": "https://lh3.googleusercontent.com/3gJjm7HD9Nah1MqylByuqlC-ouv-Rq3ECX4ZMW5E05_5iAB97_9djqzvvRCMG9DyISdij-kpbF4MSjRyWmk6"
+		},
+		{
+			"id": 22,
+			"name_skin": "Minecraft Dungeons Spooky Fall Event Hungry Horror Armor",
+			"skin_url": "https://lh3.googleusercontent.com/cKgsBHQuX-jL5gT1vNvba8dV8j9t1W10wpwevs6IkPv3vd-REG5s0bYtt1SwNksFLyaWTztQVm7wWXG672jVjw",
+			"view_skin": "https://lh3.googleusercontent.com/_T6VN0ICNSopwAkwkUOchZFAWWkmQhoHJmgT33BPu603pHfsH44_UzgGX2EV_LDuPg5X_pVE9qSJ5e7agjoOWpY"
+		},
+		{
+			"id": 23,
+			"name_skin": "Saiko-Chan (Saiko no Sutoka) Yandere, psycho stalker, killer, bloody, uniform, girl, horror, creepy, scary, cute, pretty, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/lPUcAGcmI0EaFJWOFIZKjoy_AxxO81MhIbfiqjVAl7wtcW7hUzgH_o1447QYfmNlr8CM9ALWW2irBwdFnA6yL2Nag_uGJsXeCQ",
+			"view_skin": "https://lh3.googleusercontent.com/S9awLOs9V9WmTEzp79q8RPxjvgFcYv_V4aDzZX1xrOpGbCvrh7nkf7TpwNpPMxx4sFHvW42NlbXEgdexYL_rLNPNVcjAlm_7rqI"
+		},
+		{
+			"id": 24,
+			"name_skin": "capitalien Granny horror",
+			"skin_url": "https://lh3.googleusercontent.com/Zi2kg7cW8l9hdHsZhYP3wKNcKp5i4muFB6Qf8K78kRUUqlanuhzvTEOt1PQRh9R3tVK4iSElBMBd515K1LChdaQ",
+			"view_skin": "https://lh3.googleusercontent.com/86kv_phOgK6xQU1WGsD9iiJ7qbaVbnexsO0RX5rYNM3bLb6ktYwEPuAudSh__zME3BlCRTsk4sJadONZWscmhg"
+		},
+		{
+			"id": 25,
+			"name_skin": "horror steve",
+			"skin_url": "https://lh3.googleusercontent.com/VUt_bisXGhZXUN8s0G7vrG-ma-cjTG5G6CElIq7ZM1bUZeFL-QVITweA_pcOXmKezZIpJufcVS7ShgAOWcJiDBz28e6F-Gyg6Bs",
+			"view_skin": "https://lh3.googleusercontent.com/HMuhURA-g3K3TfLInMfs1fUrgz7nrJL3oLzy5YAX2Tl36ioCzopsppKD0YBdTeQMTLA3dkeUwkECfJsAVXgQA5f2vGRZj9bUgCrg"
+		},
+		{
+			"id": 26,
+			"name_skin": "HORROR girl",
+			"skin_url": "https://lh3.googleusercontent.com/rxm_yIntsuhs8PEHh7njyzEOFxgiHnUYwI2oU3KvVsi_gpZ7YeATwebUNIcIBERtVHroz98Cub0dH5QQCNa0UkWb5_GereA_eK8",
+			"view_skin": "https://lh3.googleusercontent.com/ebCrzYMHsF1i4FcJYmcHneqG8N2WsweMR9Y9ujmoVK6RWXiZrtTDsVGGuwcpBvn16GlPzaRk29AdSQaKPOhxoxU70B4Ch0HquA"
+		},
+		{
+			"id": 27,
+			"name_skin": "LolBit (Funtime Foxy in the Horror Dimension)",
+			"skin_url": "https://lh3.googleusercontent.com/N0eH666wFMahJv2THkQBsOakeSEbBqRlvhVeQYpjnHWaHJ8SKcHMZ2-0YFcN6nHveqzvw_sh46Zat_poLK5u",
+			"view_skin": "https://lh3.googleusercontent.com/zggqGAps1Krtf5layhYsO7ncnHDik8-_EHBuT7PMv4PTXbYtczlAhYHq1-t7soLhDL48e51JgBQ9Z7O7iYIMWQ"
+		},
+		{
+			"id": 28,
+			"name_skin": "Horror Monster",
+			"skin_url": "https://lh3.googleusercontent.com/myIP86BRetzc2ez8vsFLXkKxNmBfgR4yLUDQQcJdrXzpwP_7_jydeE9yCJoppexlcIZPqOXly5DxAz-u751BKgY",
+			"view_skin": "https://lh3.googleusercontent.com/4FNd4RDwzg6-9nL5VVVSwoemOW2LyyL32dTxqZ3v4MG0LCpVkTVGz8XGC82qWI3kgo6vH93aCRuFWRhjXf9j_Q"
+		},
+		{
+			"id": 29,
+			"name_skin": "Brandon Breyer |Brightburn| Horror| Evil Superman| Boy| Kid| Bad Guy| Killer| Demon| Devil| Dark Fantasy| Mask| Sony",
+			"skin_url": "https://lh3.googleusercontent.com/ksTS3A74OGGKawvSt2-TVJdJz1o8G_V0zOi2eCgRR3FrgqeMwxJw3T2zp0-uS3meBgcpEZeY55E-3IH9V6j0gBUhLs4njS8xAog",
+			"view_skin": "https://lh3.googleusercontent.com/4i_F2I4bvi4J1W-vh9FBW0VfFK_tGVNnncjpc4ElGuklafpL3CuduUq3P-4eHyy6yb86Qf42PAJ_OnZBm0V9OFHiwpbE2rIPpLs"
+		},
+		{
+			"id": 30,
+			"name_skin": "horror granny",
+			"skin_url": "https://lh3.googleusercontent.com/Hj7Jdiy-5M2DOFr_mQ7rwOjn0C-GuxEtMSPIAhUsorJixNxqmWr6qOKtDvuv6dAp4ka7pOsBOQ3Q5NEksO2gRA",
+			"view_skin": "https://lh3.googleusercontent.com/RRCEtAFHDQH1HdnO-KUq9z_VqLTbZJFLDGVjcxErpD5iAthEvCeK-GW8F_epz9sAz6Uxun2aOzScFG6ouQV3"
+		},
+		{
+			"id": 31,
+			"name_skin": "Ximatr skin horror",
+			"skin_url": "https://lh3.googleusercontent.com/zDJpRLYn_8uOqFwAbf0b9M5IrOLNY5HIcwoyVYl83o9Pi8xoC3qry7bza4wtDe0dvwxwrIHC2RkwYNh2YwgYdS-zPJGIbHJgw6E",
+			"view_skin": "https://lh3.googleusercontent.com/oO7ffBLfe1GdoWJldvp4vbf4CEzGvX6zPSmAAGxOl5qrokRnOGG7OuPdK_D2mQ0n-NA--ZNUineiI9fTQ2iown_OPrYC-V5DO-M"
+		},
+		{
+			"id": 32,
+			"name_skin": "HORROR CHICKEN",
+			"skin_url": "https://lh3.googleusercontent.com/PkYqog45TBSAgsbrpxEc8k8wxy-XNW6fv9_b9omOG-sqagvuGsOmYOfdmgXuiD0ulME468g7crmJZeDHP2jA_A",
+			"view_skin": "https://lh3.googleusercontent.com/qVxP1HpQl9ymWXf-qGxvy-0-qA-RZUSVd5-YDPaMbDu03NFMzlqZrBKeArCdm51qIELvCh6Om7YkLG4mXaltDRU"
+		},
+		{
+			"id": 33,
+			"name_skin": "Laughing Jack/LJ (Creepypasta) villain, demon clown, boy, white, black, killer, creepy, scary, horror",
+			"skin_url": "https://lh3.googleusercontent.com/Lxvw7M4oaggKXM0kLmS7FpRqBUSp1CJkaxiB6jiGPwPxQnJX51Bjsyq0M9WZMENxbrVsXC3HjGZPDUKjC5iXMRnaqgWT1KZP2XI",
+			"view_skin": "https://lh3.googleusercontent.com/pA9oo7stlGiph220JErudTZvQhBhOxUQ5bMA5abAC6rjFeytsirS6HUjRxmFhcIN-biVkR5Dc9BNVNRANR11ttiPyCeIq9UFYY4"
+		},
+		{
+			"id": 34,
+			"name_skin": "Brandon Breyer (Brightburn: Son of Darkness) villain, evil superman killer, demon, devil, dark, little boy, kid, scary, creepy, horror movie",
+			"skin_url": "https://lh3.googleusercontent.com/oGr4rmK5didhLV4pHzv_uVJVUokZMYmK7LH-DLOYtnytfvkJ-EG8vOesTVxEjJc2Y5nxC_4j_GJshhX-Y6nrMpfIPdlLFYOzDw",
+			"view_skin": "https://lh3.googleusercontent.com/s21KFECyD33N9dADxih9Kxxv570B16CSiMZZfuikbUm32enBGeXlMPtKAriRpnbAUXUp1N9h3YoLkkL_KMnI_dSaWfH8PLpSjTY"
+		},
+		{
+			"id": 35,
+			"name_skin": "horror sans (human)",
+			"skin_url": "https://lh3.googleusercontent.com/7wpeurmWhrGqrkyTAHDUii-rO9KxDyBOAv-4IpZBMXthhAd2Y7EpVe6X-FyJeFKo8z7J3IWuGPQacWlZT1B1O345Bsxa47NbxQ",
+			"view_skin": "https://lh3.googleusercontent.com/McNwNNuxURcol0lgKNAfvsyb10TeuhXUR0MaZTEKJkceNh45kDjS7jWF_EcS5mt0Nqks4US45zAOrb18YQDdFr6-nzj5aPv4tp4"
+		},
+		{
+			"id": 36,
+			"name_skin": "horror girl",
+			"skin_url": "https://lh3.googleusercontent.com/GQlBnRRgf9gVExgX4QkR-P9Nny7bpjcqlREPvlN0gWMp_4zlt6QeWL7GwibUotPBSBr3EOwnh1ZHnWW9uTF2",
+			"view_skin": "https://lh3.googleusercontent.com/NXP742VroFXOoQ0xIb6ldFZAn0AzsB5p7rmP5RnRMTyruEzEFqR4fL7U4Uo0HnJ88X9vcA6_uI2-npuNR1UT6w"
+		},
+		{
+			"id": 37,
+			"name_skin": "Eyeball Horror Halloween",
+			"skin_url": "https://lh3.googleusercontent.com/tvnDCqav1fkHJh4UV3XJK1hMx0JS-v_UHhbJ8GUYf35RI5FJKdnTitlfIq5ahYHCHNfCoYUegmYH3elailbpGlOFVN5_NnmQBW0",
+			"view_skin": "https://lh3.googleusercontent.com/tchMKzLpucMPdEXxnjROyP4LmLtwCJwxTB0ZRoUfmGl3UYP7mOB0gCJPg22GmpGZ7YyWs4UPrqnIxgxELDZRbZMK8gy6hk5Tu_0"
+		},
+		{
+			"id": 38,
+			"name_skin": "horror",
+			"skin_url": "https://lh3.googleusercontent.com/LjqIcZhEqEhJhdd1P0o_SURGeC_FFpSJb22AqCw-nzGdGAG-nVZF31z_J8nmmvgbO3-zTgHgiHrJ_OsRH-jF9VmBQvOFp0dteA",
+			"view_skin": "https://lh3.googleusercontent.com/oLXn_dan-ryGhYCY4LeL2LZJ-nXRa1d82Ng6Qejwvc44J9WD1hkz27zJcao-CbSNqi8gWfZpfgrYrOERcH_ASFoYBkHnJHqrJiso"
+		},
+		{
+			"id": 39,
+			"name_skin": "Terryfying horror monster",
+			"skin_url": "https://lh3.googleusercontent.com/QdSaFAzyvk3yNQjTdSFeC5WMW0CVP9nl7V2Xr2ZNW02EH9YCbrW6H1FyTXsulQfxUrF_qKTo_M2S0cD6KMIzf68",
+			"view_skin": "https://lh3.googleusercontent.com/dbk8LjzX-LzRv7yPQZvmibS47ZzewluhYtA4tqznapEiejOcDzF1_nuBCfxqa5Y4WPbH0Jxuo8VU7SWX8Elc"
+		},
+		{
+			"id": 40,
+			"name_skin": "Horror menn",
+			"skin_url": "https://lh3.googleusercontent.com/10aDRMEFdXDHRwQHiDQMbktD7eYZLz_YGp0nTFAM49fRSzYQi885GXzS9rk_Nt64fuNjqLYtbjtIpIBv0GLP7InE2A3hBF1KX9Q",
+			"view_skin": "https://lh3.googleusercontent.com/0wP3riUYiC868zDPaHG2eXz-bfv83Aeea1fHwzZ0tTfLMSu1PvzHSySr5XJmqKswt9XytC3FBR-DmEQUzbiNBUbuQF-kQQ6dng"
+		},
+		{
+			"id": 41,
+			"name_skin": "Saiko Chan (Saiko no Sutoka) [Yandere Mode] psycho serial killer, school uniform girl, glasses, mask gas, horror, creepy, scary, sweet, cute, pretty, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/oxHmBfNThWo4CqK2uicKlbj4jiQUxZ2Z62OSH20P1iCtcrvrATWqKwiM1xGI5V6tw2XddqLdVT7YMceXnGPAp4TKSR7iL7LqrPI",
+			"view_skin": "https://lh3.googleusercontent.com/ak_QrXsI1Mx5Fe25hXj72Ab5DWxbdBSQqfDODalXJZ-wsQvbZmvOMGEQpvFWbPf5zxXzdVyAGNYFnr5r5yuQH9-wq305Fa-ic24"
+		},
+		{
+			"id": 42,
+			"name_skin": "XD HEROBRINE GIRL YTM (Horror skin)",
+			"skin_url": "https://lh3.googleusercontent.com/Zut0PBsNOzhiVveGrpxkv58ynrl1L54VegsjU2SataQuky8QS5qKEdUQ5ZkiUVmNPHfk8v40bhQP_DXRI4EoyWA3vkHcKDmTFA",
+			"view_skin": "https://lh3.googleusercontent.com/yirHxlW3FeBzAcw6bGNeMZumFDNHjJ4IzcwPDOhbS8SquIDULSPbA7m9AU02xMFgw-uFDBW6lk6nUm6gw6d5xaE5bRhVgtH2Ka20"
+		},
+		{
+			"id": 43,
+			"name_skin": "Horror jäger",
+			"skin_url": "https://lh3.googleusercontent.com/Zfs0fq9Pex8XIQuzU9dOIhXi5gLrKhF6bUxr2A3BeIwgXc4EmqquINbWd8ES9EfNoE0rd0SBc5NPeS2Dc5h0idbgaTW7Erp0I7A",
+			"view_skin": "https://lh3.googleusercontent.com/rki7Ej0tCPbfMaHsVv7ZjSEfNnR5vPPuLu-Y4qiH6m6hrOurPtewrCIRw64O6L6nENiy5stcbPsLMD76LDe5Aw0FGE0IKuJq1_k"
+		},
+		{
+			"id": 44,
+			"name_skin": "HORROR SANS",
+			"skin_url": "https://lh3.googleusercontent.com/p3WMtDvKmC7rinccPW5UQFLi3mfBcrbrF2z0ZmqM4Sxhs-ZgO0j6qg3P_m0d0AGtFBtA38Ktu6xAmxNwmJEg",
+			"view_skin": "https://lh3.googleusercontent.com/c_FWv4NSb34w6n6FrjUNS9LMe6OrH_FwGAGIy4N9sxgyG_VEbBTaoT1v5RYzWpQm_Khvh8zUxl42UlDmVsY02g"
+		},
+		{
+			"id": 45,
+			"name_skin": "Horror Golem",
+			"skin_url": "https://lh3.googleusercontent.com/jDbjQIYH8nGj6j0AbfMnGnsVyO_D7d1zAsODbQ-agmsJ-6_y5f1uPp4dDbZGTozKpLKdQjfVapIsPO7bAW1E",
+			"view_skin": "https://lh3.googleusercontent.com/NLVhE42VWCxZP_KuuUZzBut4eCw0BMGAK0Saar_yz63yEnJHaX68ZeoSMG9V90iYPHG-lX9AVFRQaJtWr_y7ig"
+		},
+		{
+			"id": 46,
+			"name_skin": "eyes the horror games",
+			"skin_url": "https://lh3.googleusercontent.com/CcVAIBHNSnL1pwSzJg5RWupnGB03VYZNFs4TaI2Am74ET1fKWBnK8v4fx77HcVKDgn6ojXOcTAUerMoROyqN4Q",
+			"view_skin": "https://lh3.googleusercontent.com/4QzoL2TEXapD9cuEbb-FfQYlgKyRrg2lui7nq5oBTJvNdtrCwpcb6JcNALXhdzYw5zgnPC1EsTTSatFhIaHVnIA"
+		},
+		{
+			"id": 47,
+			"name_skin": "Horror",
+			"skin_url": "https://lh3.googleusercontent.com/4eLJBKru2wb2dFP8UeBET8MTrdSx8bhu60hI1M0M0E0L_kfVK9v1nGEKFECDZh9I35886A2dCQRJVEixHs-vFqOWMjeXFj9981s",
+			"view_skin": "https://lh3.googleusercontent.com/ZLFmb0xWonqf_i716mCaMvXB4LPobQ4kbmECGsbx2OCEJEqrNZD3zRnf0OMGNxKVRuzqy94IBniTAHd4lkCzFPRSYZE6a3nsSPAn"
+		},
+		{
+			"id": 48,
+			"name_skin": "Brandon Breyer (Brightburn Movie 2019) Bad guy - Scary/Horror/Creepy -",
+			"skin_url": "https://lh3.googleusercontent.com/zJI28xDgmfNP2m_quZqc2tMZNwkErXMB0NnrlPC8POCIi_WIYcgcULv7ig-qNCMhjC0azMYA0atxo7Pl36QTkbM",
+			"view_skin": "https://lh3.googleusercontent.com/4ju-iPFvEXbLX-UC9JqexEjGQdyNUmFYiT3TTr5ApiJoR4TrJ_MzDiMwP8A1VIuD0ffDe36lfvjJcKPLQKR5yA"
+		},
+		{
+			"id": 49,
+			"name_skin": "Ghostface (Scream tv series) villain, lakewood slasher, killer, scary, creepy, horror movie",
+			"skin_url": "https://lh3.googleusercontent.com/QPtnTa_uD-bRLBOXM-HlekiBKIix2pkaaFvxgEjIEXDWWvY7Sd0tZYNIJs8lESUtZFwarZVGGVbF2lvynom1zXS0_a_oQpVhots",
+			"view_skin": "https://lh3.googleusercontent.com/bGGq-rEy1ZIm0QdJUJLyn0ASB8jvi5IilS9z2_H6zfJZrofZkjYCBfH_AohWZ_wKLSSnP7LgYDDhsk9jD-_3zitgKlaDos_52M0"
+		},
+		{
+			"id": 50,
+			"name_skin": "Saiko chan (Saiko no Sutoka) Yandere, psycho, blood, bloody, girl, school, red hair, cute, sweet, hot, pretty, scary, creepy, horror, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/FspMf8jD2Rn1-rKzg_HuuxggaysCGG3PiyyedOHlYZbEF6UlqpwjfSgq66zaya2tm7WYBQf0LoLVZUmXuaNdzWOB0Z8u6bs7Og",
+			"view_skin": "https://lh3.googleusercontent.com/Eq9XAt0bKJO8Wn_EyQ1SJDeOhTQDXU6gUNkYCqR2Uww4oklbsp1G7WI8pNnr5obIrY5PlcQSYlnNJTWnHjIuTID08h-2Seazlg"
+		},
+		{
+			"id": 51,
+			"name_skin": "Horror",
+			"skin_url": "https://lh3.googleusercontent.com/kEjKfbg0Gt4Pc8RcM_tQHLXS6lz1_2QTYb0Cw-pTRdcyKzvE7D9aWunuA72xey-y9dOvc0OP8WDRxHIhRZJxVQ",
+			"view_skin": "https://lh3.googleusercontent.com/B21vDHHCbaGQp9n0e4lkptOdEhCZVrT8giXtTRrR1yAhq0AG68bfw07jpBHt8q89gIYfS5visfmtsGX0blgI"
+		},
+		{
+			"id": 52,
+			"name_skin": "ice boy hallowan mask horror",
+			"skin_url": "https://lh3.googleusercontent.com/5gI6KG8OLAHKzmvBw7XgbptzaOZhbLitOwH3q_hLT1Pfe6rPMIekRezp9NiTuXujG8n8OU6XS4UU8Pe6QIZU3bgU8Fwh2AuE0YE",
+			"view_skin": "https://lh3.googleusercontent.com/vPSSoTcyGONUjL_YWauQpQxsytTsOyuBb1GcmVNKWY9CxY-0-2osSOIqjvFgKKYQlUQY_lwxxqj0VMce4DiNz48kGCmq3bYy8rk"
+		},
+		{
+			"id": 53,
+			"name_skin": "ThePhoenix_HD Horror skin",
+			"skin_url": "https://lh3.googleusercontent.com/tXdx_v6-kHnTkOSh2FKY5JM70Xe378O2w3m82AOL6_KEt0YiEMZ-n3aHCZx-OkiWNSR1caST7vdq5cgBORqoD0Q",
+			"view_skin": "https://lh3.googleusercontent.com/BWBENRMEj4dETGLbUHCBKMivNmaaRahbQ5gsOwOBfituSRSaozlSgXTr87807S_ELTQFdGj0Pkf6cy8mmxDNRw"
+		},
+		{
+			"id": 54,
+			"name_skin": "Horror",
+			"skin_url": "https://lh3.googleusercontent.com/ya3GL2d2QSu0dORv0MTXC8aovmAykSySwOf02yvoX5IpPaHACF7HuN2PDdC35wLb0b6prPXbFfudVUqdLLggvw",
+			"view_skin": "https://lh3.googleusercontent.com/v--aD8nkoSuk2eTubPgZtQLTnIhSZziI76tKkS-_Q-ZWRtuMnDiUMhH1yhGBmeoc3js1h37omumhymsRFE4SdA"
+		}
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
+}
