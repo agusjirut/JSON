@@ -1,0 +1,366 @@
+{
+	"Ads": [{
+		"select_main_ads": "",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"native_for_admob": "",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 5,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"name_skin": "Captain America/Steve Rogers | Chris Evans| Avengers Endgame| Superhero| MCU| Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/jQxXKw_rSaThLiIDP65So3qrWS1zGFFBspBcJr7SjY49REWiBJPQd_cVAdAeteJzOLRMi6TTIvUtNLeSVu-FenK98b6rIbc__v0",
+			"view_skin": "https://lh3.googleusercontent.com/7VgABBwmdQ8scsGN_EqiUdX9A2sI5jvJvBRSOpKluli2Vk2Wx5F_AIJXd0jYT0b5fSrPl0zjtIKcJ7Q_XPQ-enuXAP8vCM0Cuw"
+		},
+		{
+			"id": 2,
+			"name_skin": "Captain America/Steve Rogers (The First Avenger) hero, cap, super soldier, good man, MCU, Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/wX_YEO8F0rJMnLDtKBnJ5DANF_qKO3qDjvZd6clnm2jpYexW-0VeFm6P4H5YaM4NI2emoVRePGSEQOOnh-dGcDnNJmXYLaGrE40p",
+			"view_skin": "https://lh3.googleusercontent.com/OSg60eHK1IaeLxH2v2RBAVQncTUckqo7mAPr5pFP5k0RldZHNWRJSu-4k_-juns-xaSIWplia3B_uE_YWO2WChxWYN_KBg8g_Q"
+		},
+		{
+			"id": 3,
+			"name_skin": "Captain america skin",
+			"skin_url": "https://lh3.googleusercontent.com/oda0Fu14lq4LT-L8aGh9bBpwrymZZrz7K9owAmJ8CF0YSkaLa55vuSNZi-KYTMtpZubyhsXhbCja4C71Wba1",
+			"view_skin": "https://lh3.googleusercontent.com/LmKdzuCZnVc2WcjYsngvoSbJ3Qb72IZtinoIpViIMr6jbKbr-dp6XnqGL31e1p_CBC0OFXH3F668EBxweGx4Lg"
+		},
+		{
+			"id": 4,
+			"name_skin": "Captain America/Steve Rogers (Captain America: The Winter Soldier) hero, cap, super soldier, good man, MCU, Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/mtnM7cj06A0M0deBzlZajyfK5ynLt8CKvNI9lv_O5Q_j1kOXpDxkhJzDN3vyrOnOKBZ5uVZCQEccbUTwykdS26ubRqX3nMy5PJQ",
+			"view_skin": "https://lh3.googleusercontent.com/8z3jFLnYd8dkLZ6KJV9dM2pSgpZ2bWVdtk1PclWqad3Y59rEBgfzsnQsuQhWXGnNDrI_gEIuARcEk6Jw19dtenYXUYjeVxh36n8"
+		},
+		{
+			"id": 5,
+			"name_skin": "Captain America Shield",
+			"skin_url": "https://lh3.googleusercontent.com/zTW999KrSfZY9HVn7qYg8ZWSTNyzMwx1Vd5U3TyczHCeUY4o5ZSHsROHeqltOHHvOZtHleJkpyyUhy4MhARG1w",
+			"view_skin": "https://lh3.googleusercontent.com/4-GUlCrw6C_dkLw_hlKxioVL-ie3OiKF_JITdv0Y9ZjsQ8GBLiDhqHiCQRO5mYtAAX6JD2WvHrnYioxT9Ykhq9k"
+		},
+		{
+			"id": 6,
+			"name_skin": "Captain America/Steve Rogers (Avengers Assemble) hero, cap, super soldier, good man, MCU, Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/4mNZtgzdisPMcEkEek4sC4c3_ZxRcJysOWTnJwNqQDCL-h-ZDlx-6l9Co0eskjpICTCXUCiu7vkloO0Qnycvzy0CuHzXWng7np8",
+			"view_skin": "https://lh3.googleusercontent.com/VLdkToBm4GyC-hcURareXz7Ryx66HlU5iWvIourVkiWbaDyVXhczvhmQcAhVloWUGg_HbDX1fS6tRN7YPoO_n7qMlL2k7BoA2AA"
+		},
+		{
+			"id": 7,
+			"name_skin": "captain america",
+			"skin_url": "https://lh3.googleusercontent.com/2LQKDh8YZT-uGjENJ4n7xX05aOEOPxtaOxg3BG69UK6QCFCYZKRf7w2zHFACr0h6Ewd137pVtaWXIf5t2UumNts",
+			"view_skin": "https://lh3.googleusercontent.com/S22jUNDdG96LKhdPMiW-uWKXaRroSQSVnD-8qIsG_jEtbyr3XxFaNZjjIyR7DSux66qA-SWCMCCkPBjyzUh1"
+		},
+		{
+			"id": 8,
+			"name_skin": "Zombie Captain America/Steve Rogers (What If...?) zombie superhero, super solider, cap, scary, creepy, horror, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/BhkF-S9qHsE0Pn8MTnTN6ylX04ZBFTRczrojjs3oukNQDFncmiNYbhpJ-6i6azOvnoMIZxV_5WUB7QJ4HwJY074aVudmgx9vnw",
+			"view_skin": "https://lh3.googleusercontent.com/YjDSGoXp3Ljdsb0ME5f2fYw8BC_NTEI9uCn1hfRFijfXRIu3CgU7uC_n2Z5S0LQXw0y5YAHn6M90-p7L_drqb6omCTAMn0SgXyw"
+		},
+		{
+			"id": 9,
+			"name_skin": "Captain America & Arkham Knight [MashUp] soldier, robot, blue, Marvel/DC",
+			"skin_url": "https://lh3.googleusercontent.com/iShNZOlATm6rGnoseCCZMtaIQC3mG4zGVPfjrZLq9bNyZirZlFgCZrkZxUTayE_dYwKXK4qn6kaq7Vip-df-VqNjxUwAdOYYWtQ",
+			"view_skin": "https://lh3.googleusercontent.com/Y3vrCvMex3YclheJIKnUH3XPnuVsfLK5s5AnnoPxAdDFwYCzxqpFysDxUD0QhRpKSHDvpBAHJZ_5nrsMAxCiV6zBVqZLmSgs-Y0"
+		},
+		{
+			"id": 10,
+			"name_skin": "John Walker/U.S Agent|Wyatt Russell| The Falcon and The Winter Soldier| Villain| Superhero| New Captain America| Patriot| American| MCU| Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/pa-FRT_Y9ij23Yor8-_Eh6_ra6MLPvZl_woqvHoz-iymV06_5kemiH--HjHNUzg-BJn-U1_lJHSAi4ysEwp7m163nHilCakUp4Q",
+			"view_skin": "https://lh3.googleusercontent.com/kbXprBoTqaz88jbSiblsRz-4_kkB8A4AIowtBmM_1stO9v-pST2wBrHAa708tOTvVJvF1JTJjqOpm_OYc7T9ihQ-yUp6Scvieg"
+		},
+		{
+			"id": 11,
+			"name_skin": "captain america",
+			"skin_url": "https://lh3.googleusercontent.com/yhXyGhJTDlGwyrOLrm2cvx8J08zlMNoIE2jRdEqkz8wahMQjNewooHwCRYrA_nZ3c0i75tUu40ueQWbMN6Zs",
+			"view_skin": "https://lh3.googleusercontent.com/v5TuhszdNHlIQ340sMIzjhK0FVcXuJlU5B72RnDAIOMpDwIWbrRI5w_ea1OZWNrkcGOikKCJCHt4hc0Sgtbf"
+		},
+		{
+			"id": 12,
+			"name_skin": "Avengers captain america's shield texture pack",
+			"skin_url": "https://lh3.googleusercontent.com/JZM9mUx9XxSzXhp-Ittff1GWygjpQ94YcS55UOtw6zZnldLxJb1ijWCPNj6Jg_u4BbJyz5U-bSmYgfIvv-8u-w",
+			"view_skin": "https://lh3.googleusercontent.com/iVauA3hJ3r_2uyzveuZVOGc8sixD6oBDDu-qGhHFQapQRXfaZ4xSqvP6h-ERCGaH5oQYdVBlCCuLezOmljfHUA"
+		},
+		{
+			"id": 13,
+			"name_skin": "Captain America|Steve Rogers|Avengers|Superhero|Super Soldier|Marvel Comics",
+			"skin_url": "https://lh3.googleusercontent.com/qNyg48LWYgs_dfYkCgyga11HQkYI830wsu7PvNdt6XnNobit2oTPa27bdMMrewnl1xHYlPwEDKLxIQjmn9ZP4TXA5YqiItAwFmI",
+			"view_skin": "https://lh3.googleusercontent.com/Sj9NgxlRQSfQP-Ns3BKrMjDwc97ARSRXKKKoxGEndThXiQBdv2q7t8mLzmadLyhn2w2U8vhx7Xjq_GVr-to2E1XkBsxdYBSuvfSe"
+		},
+		{
+			"id": 14,
+			"name_skin": "Marvel's Avengers: Endgame Captain America Variant 2",
+			"skin_url": "https://lh3.googleusercontent.com/vhtPDD9jDC959nN4cMkzsCwW5I2NxXOjVvY_5P0i9mWqppZLhQMcwSueri3OMBitRhHTV0CKvMDc1uPGLElpYpbcs4qcB-SYawD1",
+			"view_skin": "https://lh3.googleusercontent.com/cuxBDAVoLhSlJYx8t2yi1puI4viWDbJe-I9rhxhBfXCGjCC7oLM5qN4541fO6eP1vEsouVPf7yVHA5L47ugbkKwM0qe3zwG6Evg"
+		},
+		{
+			"id": 15,
+			"name_skin": "Avengers: Age of Ultron Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/i4oBW2HRHk1E7daEhhfaQ9zaz4EedFaCnY72ZXWRR5m4jNdjVBfSEEbxr7zhtVur8N4NI-FHrmU-eICokDvWU5neH8uMLorzDjU",
+			"view_skin": "https://lh3.googleusercontent.com/kiiw95EOONdjZam3oNt6xKB3ITCSIwqjfrGwojsrBQDc7RLbzlZARFnawFR7a5DPNMFx55JrbKhxCCPYtGs7uQvCzjpkJPhWHG-8"
+		},
+		{
+			"id": 16,
+			"name_skin": "captain america infinity war REAL",
+			"skin_url": "https://lh3.googleusercontent.com/etEBHz8WmxOTGJeI-BhYEdqr_rwIY3fZwP9L7szbzouPaR_7cqMb4Z0Fbe1j1d6amZBe2wSohJwsLV8uj1wNBGo",
+			"view_skin": "https://lh3.googleusercontent.com/-QfxmkDIPSNTmVxII13P7vps77DpS_Oq2TEpvA34c28TboJKtOxQmDj32Pothl3IJhdKw32qXhO5c9z70W3g"
+		},
+		{
+			"id": 17,
+			"name_skin": "captain america",
+			"skin_url": "https://lh3.googleusercontent.com/ydqf7uTL3I1t1Mwdi3GEhVyCO3U6uqsdV2-iFk3ExFpvK6rY-f5x5bgxdHPmxdi5VAQZPM3yly_4r0o66Jv8",
+			"view_skin": "https://lh3.googleusercontent.com/IWRw4UUJXpKheDooHkljdaiatEkopOKZkkzLYiActUBc8D0nCnU7KvxYandGwc7udQhR4Q9PdzXvlrnXIoE1TSk"
+		},
+		{
+			"id": 18,
+			"name_skin": "Captain America Infinity War (by SteveRG)",
+			"skin_url": "https://lh3.googleusercontent.com/HTcLP55cpkipt0GilQXy-stQrW8DFv0M1xZqLXvBG0wSkP8igitz-GSDZqoy5CGL2fdUYyLQkg65k4a_fRCGYiQ",
+			"view_skin": "https://lh3.googleusercontent.com/D61KTI_2XpGLkNzALIQXoFa5l9j5gm8-wSjZIqBBhd7TpIRz5_1S08o8ZA19i70ZFUcpi8s48nyg5ft2lORL"
+		},
+		{
+			"id": 19,
+			"name_skin": "Captain America/Steve Rogers (Avengers Assemble) hero, cap, super soldier, good man, MCU, Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/jVXLbZUPvGDn4HHILd1FM5q8r8WM3yn_PKi_g3K0F2Fj2JffJ0HVVH5z6_yga5rHw8n8LN4n7UuBSA4GS4UUVYiSPPePpgKr83I",
+			"view_skin": "https://lh3.googleusercontent.com/1bruUCI6BWQDow6-azwVTUdSGSJj4r-xW_jpSAErwxTrJJ2X7rM0YZrBIbo92BkBRnfH50BVdAHR32mWaLctd4ouE2kglWQfKv0"
+		},
+		{
+			"id": 20,
+			"name_skin": "Captain America Chestplate",
+			"skin_url": "https://lh3.googleusercontent.com/Rv7pzqOq2qG0DGIZdvCUL8p-4wAYJJldXH_dbU9Ea_v3QC7uhZ6jqRD_AqpVi8CtswIib1NJNZ-HR2Y2blc3",
+			"view_skin": "https://lh3.googleusercontent.com/pzea_aQYOyn4dD4mbmve2AbRU8OIrgkr0fiD9oVnKh-BMfVT2GQgxv2b0Ub3XoXnlTRwC1gc-RhYb0nxDylh"
+		},
+		{
+			"id": 21,
+			"name_skin": "Spiderman (Captain America: Civil War)",
+			"skin_url": "https://lh3.googleusercontent.com/ufGzqQwWUPRsyrOhxrdJWoFyb2XvwzoNyBk7N9arAKRfBhC-FhrJ-nOGujO2DHchG0PXE-pwCBVX86mB1ldy",
+			"view_skin": "https://lh3.googleusercontent.com/yZvxFriOUMjUHEEXjSI3C9xnOzG5OGRmvIEnnRMOGmy6NUSRFi5PSTxoC-IvfzgSxeccU_7EpJTF_Rw99uj6fw"
+		},
+		{
+			"id": 22,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/1E3SKRddtjp9aH5uQejPaNnLaICefa9w0mHjeHomRloQZ1HYXmFSHP6m0QvO0VyZR9L5lZ4IX3ax5AFNDfpJ8l7T8fCTSjZ_Okg",
+			"view_skin": "https://lh3.googleusercontent.com/3N2caGllPg8vHcpi8w288xup6R0F67SN57y29teBDOh5uigg2Q1OmsRjBB8ng7dMjmhws5n2xK6mXvCHD-daMSPV6iZMDnkDrh0"
+		},
+		{
+			"id": 23,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/5CED0rZUwO4sTvGhcqbW-7bzGBO8CvFXPvTIb-k4Kj_zmY-jflVh85qg8jJ9C-4BqeJCrEC7uwRIEeRPSXM43R0rK41UBO2Elg",
+			"view_skin": "https://lh3.googleusercontent.com/kxiIQ0XD4lq6cR9l1SRiYPtHMQD3aGdBjyF2vyK7A126wTerqGCTAMgEilQOacDPtNUavLdIGqLHytmbjI-aV4qOHlrhSPGA8w"
+		},
+		{
+			"id": 24,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/FNLD_JYqGtAZULprV_pKpPkpSWVlee7ZYR4ElnPvZb4mSikwJFdHLO-Hs_0KDSpATYINSfXUPV0XwELhPKnCtYiICBot_qTjsHs",
+			"view_skin": "https://lh3.googleusercontent.com/VnJuzzv_5ZFf5ODL55hD5zRanAvTzxlVOWR4B-oEvA8WykL1Bgra9CPfL26d2RxAWOnRrVXAsrGAlA4EYpw48JQKD6eC3L14tzhM"
+		},
+		{
+			"id": 25,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/pw2moN_PiBWcAhND57nB7WkxXzjnOSm41yshbYkVIIjjlJtp_DuKQ6aF13qffiav7V8n8NT0GzdAQHkOOdrLk_eGos5x6-EbyVx9",
+			"view_skin": "https://lh3.googleusercontent.com/vEje-O_aoO5YosfN1QfsmbfUtL4ZdlOquf-Du9tOrtXouVN81l-xZetrDoMDRkeLRtukOLRHfaX5Y9Jd-BdHmPhMtoNpcRZqo0E"
+		},
+		{
+			"id": 26,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/i4oBW2HRHk1E7daEhhfaQ9zaz4EedFaCnY72ZXWRR5m4jNdjVBfSEEbxr7zhtVur8N4NI-FHrmU-eICokDvWU5neH8uMLorzDjU",
+			"view_skin": "https://lh3.googleusercontent.com/zr4oLXt9N-E7beaPYJEWlu5xoypC_VP-j-yt6EoDXFWsGYNZmLiApCmXfj2TAzFTvHHYiIkbKq2T2rdch2ChwkSjxZI_PslK5Q"
+		},
+		{
+			"id": 27,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/rvqHmvYQhTXaStQaQsrubJSj3GUfG9WKcwgEnhYPfZ33FQjt9PIy2o2APzqlv35cdOikDa9EHAAen63L3ErFJmUZDEfbebunPQ",
+			"view_skin": "https://lh3.googleusercontent.com/GElx0AAmIHcRisYdp3S_6e7pa9SsCyRuoibHMD2v4p468AS0IRt8eqiaBs1z-4MtU9IZcFh1Of984NNyBIYj_NIBTEq4S0lz-_Om"
+		},
+		{
+			"id": 28,
+			"name_skin": "captain america",
+			"skin_url": "https://lh3.googleusercontent.com/kXWcevhWr3A0HvrFLrJH1ygbSDrqpeImrPC4sKsGmY1-exjfDuAuSkiZswu2SqPLeuiCMUldOY8r9mElYxmIV_36eZ2MHlqxRA",
+			"view_skin": "https://lh3.googleusercontent.com/hvoIn7RyAU_60WeXSLXQUjRNk97Ommw8PKIsnoAgF_iHvBPcB5INAAyJAT_fxFrWa-b60BoFnZ7V-vj1ckgZpUC-sZx3P1px0K4"
+		},
+		{
+			"id": 29,
+			"name_skin": "captain america",
+			"skin_url": "https://lh3.googleusercontent.com/b6rzXFB1lC41vR-J4X0_-iIXLLocgT2CxspCIJbyfOsrgUOruIWsaWc2gx3rpPSpusuXH5swfg2eXItjzT87Z9EOy034xxWfLpw",
+			"view_skin": "https://lh3.googleusercontent.com/L4CQ2KbnVgcEVRMszg3zHY8c1YCosn4-bwxFrdiiHJ9jhepcGNTQVmBYPgnhuEsq4gzDkT_4DFasNSwZ9uijQ7qAxdi3r4mXcaU"
+		},
+		{
+			"id": 30,
+			"name_skin": "captain america",
+			"skin_url": "https://lh3.googleusercontent.com/ORkBED6o6IAH3NaigUSfKz2p2NQMxxTa4t5sN9p6K2GyrAv9PVJ4HxwHmtp74AQLQ-Bf9m7R5v1TW_d5mnJeMQUFF57Sffc9uA",
+			"view_skin": "https://lh3.googleusercontent.com/D_2iuVX54w6IMVhjZxn63wMN-4HKqun4pfgWckArw1ufQW--uylotk7M8iLxXPtdn5zFzfMJSHTk0z5YX7SpsG21m6X7YtI3Mg"
+		},
+		{
+			"id": 31,
+			"name_skin": "captain america zombie",
+			"skin_url": "https://lh3.googleusercontent.com/RT_14DlvlVCFTgGxA2ip5wjGApd_QVD5SUXOCm5SILVLNt3mB18LJ0AvFSIAEWfvcEl1-U1KucvSjZmwoq3lEWAOYNNqdNluWw",
+			"view_skin": "https://lh3.googleusercontent.com/n-qn38LsflXE3f6oT9310-1a09gdvGHDhAQjc7d0evvJLIigmYWfyOq1BXTsAS_aEHkLe7XXRcu3v1I1iKOZmkVu-9x01nrXaD8"
+		},
+		{
+			"id": 32,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/pw2moN_PiBWcAhND57nB7WkxXzjnOSm41yshbYkVIIjjlJtp_DuKQ6aF13qffiav7V8n8NT0GzdAQHkOOdrLk_eGos5x6-EbyVx9",
+			"view_skin": "https://lh3.googleusercontent.com/mTt99wZmFlC67ZVaSy5d1-X_jBEIFuRiPQG9VbmwnupaymSKYfoKsIOXl-kRrkqMtlLMRmk1Snp2jJSEhcf8DmBvdCyx7Rp-XA"
+		},
+		{
+			"id": 33,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/FNLD_JYqGtAZULprV_pKpPkpSWVlee7ZYR4ElnPvZb4mSikwJFdHLO-Hs_0KDSpATYINSfXUPV0XwELhPKnCtYiICBot_qTjsHs",
+			"view_skin": "https://lh3.googleusercontent.com/6Obe_IalXCzGrioJ5kYv-aBssP7nnndq2XtyG5q356brTb2HSVENVF1YDLIP_cgpa_IBl3NTvRiBy6S7FIaDQX6AwJAi9oz-uUY"
+		},
+		{
+			"id": 34,
+			"name_skin": "Captain America PSY",
+			"skin_url": "https://lh3.googleusercontent.com/iXGrx8RBHhNao2qhr15zz_nc1r-6RxB03iyJMoOmEHd5OQmrLBWKin30aFQX4dfFaCZxTcJWMNNlbG5vaTFvzgOIhUS-N1VWJQ",
+			"view_skin": "https://lh3.googleusercontent.com/3mfRR-egToQPocT4P5VRWCb4xi7xuJrErnQGWQnlYqeAoAe9a560qf5b4GaLUVAT2CvW7Z6Tly7kGSYK_3WN3d24ZJlCa6VzpnE"
+		},
+		{
+			"id": 35,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/FNLD_JYqGtAZULprV_pKpPkpSWVlee7ZYR4ElnPvZb4mSikwJFdHLO-Hs_0KDSpATYINSfXUPV0XwELhPKnCtYiICBot_qTjsHs",
+			"view_skin": "https://lh3.googleusercontent.com/2SihModle-s91I2RZL8B4yRmLNU6GaP-Moa0GPcQtdq7LgrErQbfd0xGFBjsQQscJctNGBf7Lwb_-B-wOfBdX2DrbdHbD1AmaA"
+		},
+		{
+			"id": 36,
+			"name_skin": "improved captain america shield",
+			"skin_url": "https://lh3.googleusercontent.com/eG10gyytfFp25vesHH3FTVNtgsDlcObKG_1a14rRe5Vu8yoapgg9g8FZWf2PO7d7dpoNq3GcLzO5WTrXbKrcVTY",
+			"view_skin": "https://lh3.googleusercontent.com/XAQSb-KH6unTlbs7cw_SlxtG_FUwdalOZOzXcOQIg-1z921vGCH-11RO2-gR-BwnP7nr_Xp3PNchFksESVNaFQg"
+		},
+		{
+			"id": 37,
+			"name_skin": "captain america",
+			"skin_url": "https://lh3.googleusercontent.com/pw2moN_PiBWcAhND57nB7WkxXzjnOSm41yshbYkVIIjjlJtp_DuKQ6aF13qffiav7V8n8NT0GzdAQHkOOdrLk_eGos5x6-EbyVx9",
+			"view_skin": "https://lh3.googleusercontent.com/LhIrK4s1qFwmtxetV_77Ze05cBmlgosCpR3Hls07pTQUrOewj8Y10MVyKT14oxi0HPsxKQLz5vgZAfmeDZhE18fL3dreB6SsD10"
+		},
+		{
+			"id": 38,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/FNLD_JYqGtAZULprV_pKpPkpSWVlee7ZYR4ElnPvZb4mSikwJFdHLO-Hs_0KDSpATYINSfXUPV0XwELhPKnCtYiICBot_qTjsHs",
+			"view_skin": "https://lh3.googleusercontent.com/ZVNswuLqtasXZcOvskZ2AMUdVB0ueSIbg8MZH8UjSbtXpMzEjyj59kcRmB3k5XKva_Lx6N1vZaB9nb5LwSXP-FDaXeV860bmoBU"
+		},
+		{
+			"id": 39,
+			"name_skin": "captain america",
+			"skin_url": "https://lh3.googleusercontent.com/JL6mKearLmQhR4uABBiL1HeC4SuZGH5_TCYJC0hwNB69DhsufzrTxeuanaalWxIwo1ua3RzumBfq8TpJ-WlCmADixq-vmSqj-Xyk",
+			"view_skin": "https://lh3.googleusercontent.com/pP9EoSmGqvGC8VJrBCkKKu54iQ2m8ISrEJ6t77MbR1oGciHx-aUyDbyh9gAlAq8cRe6a4YdeDoKkC2dAKgOuGwgbrEvuxwQnQYni"
+		},
+		{
+			"id": 40,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/3xwJfqzFD7crp0RIP2MKAJLa3JCY6RjPE3laZdBoTQJpFjfZvAVdTqKeJ2QHYnZpLX9_t4BS0YLwwbdvmkM2ySesQ6VLaCN9FWk",
+			"view_skin": "https://lh3.googleusercontent.com/iBJOlbXu88p3nTGUkOi3hk5WIkbluxFCAOWwfv_fv4zDW5aULFKa8iREhIwg21QdN85hn1h6fsl7NLvE7mz7aT9w43Qu2x77MA"
+		},
+		{
+			"id": 41,
+			"name_skin": "Captain america",
+			"skin_url": "https://lh3.googleusercontent.com/FNLD_JYqGtAZULprV_pKpPkpSWVlee7ZYR4ElnPvZb4mSikwJFdHLO-Hs_0KDSpATYINSfXUPV0XwELhPKnCtYiICBot_qTjsHs",
+			"view_skin": "https://lh3.googleusercontent.com/xjd31ZEd2g-bQPuFW76PeNc1g3hE0WmKZQpJYzTEhOb1s_rvP7fhegQGev4tcUlke8IvA4ULLAmpjmlLx7era_T4WMZPxxiVu0U"
+		},
+		{
+			"id": 42,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/FNLD_JYqGtAZULprV_pKpPkpSWVlee7ZYR4ElnPvZb4mSikwJFdHLO-Hs_0KDSpATYINSfXUPV0XwELhPKnCtYiICBot_qTjsHs",
+			"view_skin": "https://lh3.googleusercontent.com/RRMWGK0c0RwgARC4d5XG_TGF8ohAZmkVwzr0yYzB1fhjSoJeszd8PN189wE1YNA4dM6_Q2lDdLvQyzUlfT3nbrGDQNhYpnMFfXc"
+		},
+		{
+			"id": 43,
+			"name_skin": "captain america helmet",
+			"skin_url": "https://lh3.googleusercontent.com/U7tyDJvX3K4QH0VnoNcLBTF70kVh72E6IAuPtDIv76KNCai3RalHmNyUPlQ44IcX89pvPxk7E0GghbDLt-UoVe9VzUhTuw1d9A",
+			"view_skin": "https://lh3.googleusercontent.com/HlcTaN_KmFJ3D4bKsBEjksvtXhpYTVCfsXQzy3uAHnXmQGfgHNqJvUwTXMOOb7tlPDpxaectR11HMN72C1IKeISbdXN8FVfqk1U0"
+		},
+		{
+			"id": 44,
+			"name_skin": "Captain america .EXE",
+			"skin_url": "https://lh3.googleusercontent.com/DsLBXfsEA13XckQm-dncTuk72IpIGwfg8SwFeAxaZT8t9IBwvBaS0edT3UmdKNYxdj5GYOvRad395etXzo7nWdYd6uio0GVZ6g",
+			"view_skin": "https://lh3.googleusercontent.com/j8LJoGJeUxOcKW2yhnRV6xn4oPCBrSloZ-2WPm-ClWqh60aQPYWyd8n5B6z5uhDXNHljq8dhdpar81MmLpsuDEG1D5ebwhK-Ip11"
+		},
+		{
+			"id": 45,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/gniHinLVPheqqIzUaN9h1E1F1JCSGS1CHE6XukejoJi8fFrOjomfWb2zPCnJUsoh2mmyQBhxlHKHOndUut6FUMbYKkch576dhI8",
+			"view_skin": "https://lh3.googleusercontent.com/v8eo9OphqNYXVDjxPqAg_L0muXbcFXFk9c-yO74dk_1sE6fh1k7YmdP8yAMGSf9jEf8qvSEb6mrVYMtRbFUB_pSwssfUnd6Vvtk"
+		},
+		{
+			"id": 46,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/r1n7-oTY8m5DnGUFsAJ3hvuzVg1gUTxHGsPVHwkQbW2-zNHxIHYZJ5i1DqhaeYtO31jYj4QxBOj7PI2i_Ia-p5xBOZ1flcoulaKw",
+			"view_skin": "https://lh3.googleusercontent.com/H9XGoqxvH_r9_WsXKyZ9kovSlC_jnKKphcA4ZtaTVnBexCjOTvBh_fN9EltCBPAIfjF_gQm43DuEODz25Z1vbBgVBPCziTAxzZ4"
+		},
+		{
+			"id": 47,
+			"name_skin": "Captain america",
+			"skin_url": "https://lh3.googleusercontent.com/Wfc-OpMBFTE6ci0ClTKpwBlQvlZhiFhCi2gWyfxNAtk8fgIoquZeIsqbmNut_tfZVxg5bBg9LMeuZHNFsvvLliMrl-4Fk8CEp2I0",
+			"view_skin": "https://lh3.googleusercontent.com/EvJPblMv4t2R-AiwwQ5vMfW0qNEF9Sn6T0NeILBYSV1FYvL4juH32BHCoC3ttrLlOVQQ4MoP9zwczltUJEv9sN7T2kzCjg7k2g"
+		},
+		{
+			"id": 48,
+			"name_skin": "Captain America/ Steve Rogers {Captain America Age Of Ultron}",
+			"skin_url": "https://lh3.googleusercontent.com/so9cKPfUUXTINFcfk_P2NSnbiRHLuSlNVSVhts4UuoTco4UgJ84DtxmqSnirW78dVLHCq4J8L7EzKl44lq2ZcNE",
+			"view_skin": "https://lh3.googleusercontent.com/a1wdtxx2UYMtyxvTP7dYjfPbMwReMNOxmaxy_R0IMNjIJ8-ISXC3SttcO-vCJOH9OMzUT65HVwmgkURIi6UQ"
+		},
+		{
+			"id": 49,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/FNLD_JYqGtAZULprV_pKpPkpSWVlee7ZYR4ElnPvZb4mSikwJFdHLO-Hs_0KDSpATYINSfXUPV0XwELhPKnCtYiICBot_qTjsHs",
+			"view_skin": "https://lh3.googleusercontent.com/iA0FzrXAsBaNnxjarnBgl0PDDSn53Si_fL4J9OnWLHebXwT2riacy2ymk2FOMUDdPglB0dggBTx5bp1jbVAp2Ih2fBqWBrwx9g"
+		},
+		{
+			"id": 50,
+			"name_skin": "captain america",
+			"skin_url": "https://lh3.googleusercontent.com/pw2moN_PiBWcAhND57nB7WkxXzjnOSm41yshbYkVIIjjlJtp_DuKQ6aF13qffiav7V8n8NT0GzdAQHkOOdrLk_eGos5x6-EbyVx9",
+			"view_skin": "https://lh3.googleusercontent.com/rGjBNgNFa-go0IqXW2cCVjZoBdraP7bEK6fgAP3Jgr8B8SEVUIWyvAiJhH46nSIN6fXU1R7YX7iE52AENW0TQk28BSqRqx16Mj0"
+		},
+		{
+			"id": 51,
+			"name_skin": "captain america",
+			"skin_url": "https://lh3.googleusercontent.com/pw2moN_PiBWcAhND57nB7WkxXzjnOSm41yshbYkVIIjjlJtp_DuKQ6aF13qffiav7V8n8NT0GzdAQHkOOdrLk_eGos5x6-EbyVx9",
+			"view_skin": "https://lh3.googleusercontent.com/vAae3m0-suVRNGeEygKf2CL222Jj8vyTUESOwNl9jFbETyycQ61OQydyX1FBgxVFyaxZPNu0DYGSKVIeZPdMBIwKy8gUra-Psw"
+		},
+		{
+			"id": 52,
+			"name_skin": "captain america 2",
+			"skin_url": "https://lh3.googleusercontent.com/ORkBED6o6IAH3NaigUSfKz2p2NQMxxTa4t5sN9p6K2GyrAv9PVJ4HxwHmtp74AQLQ-Bf9m7R5v1TW_d5mnJeMQUFF57Sffc9uA",
+			"view_skin": "https://lh3.googleusercontent.com/XKjy5sPWHWeDVZ2fi1d_6kzxP3Kop19FueWqz-afdjaIOQGi_Nk27LKHoEsnDYeEw1V8L1BTHeI1Iqm0nSxjZbvUuJXGsevPt-M"
+		},
+		{
+			"id": 53,
+			"name_skin": "Captain America",
+			"skin_url": "https://lh3.googleusercontent.com/FNLD_JYqGtAZULprV_pKpPkpSWVlee7ZYR4ElnPvZb4mSikwJFdHLO-Hs_0KDSpATYINSfXUPV0XwELhPKnCtYiICBot_qTjsHs",
+			"view_skin": "https://lh3.googleusercontent.com/TRs3Jqq187GyIf5ffhbwzfKWIL8TdPB-II_KyE7ss1VM5lzXO9WPVSr9OESrtrBuw83MXdsU7TruVC3yefx7BFKipYvRVSVK74bY"
+		},
+		{
+			"id": 54,
+			"name_skin": "Captain America HD",
+			"skin_url": "https://lh3.googleusercontent.com/FNLD_JYqGtAZULprV_pKpPkpSWVlee7ZYR4ElnPvZb4mSikwJFdHLO-Hs_0KDSpATYINSfXUPV0XwELhPKnCtYiICBot_qTjsHs",
+			"view_skin": "https://lh3.googleusercontent.com/AXSCnpry4ykQXrxTyGa_thT7mg9Vkgh94zrxDn3yy9OiuZsMJGDGRNLFw7_eXe8WeA_iJykGYri4wWpF08Eb-W6WWklgV_JtvOM"
+		}
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
+}
