@@ -1,0 +1,366 @@
+{
+	"Ads": [{
+		"select_main_ads": "",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"native_for_admob": "",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 5,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"name_skin": "Naruto Uzumaki |Naruto Shippuden| Ninja| Hero| Orange Hokage| Boy| Anime",
+			"skin_url": "https://lh3.googleusercontent.com/_WZXgB_ny2SoPF5UMdbbrMo6u8UuBTi9k2RNX1vvk3v3bb8KqQaF7SlkcXcoj30x_gpdZPeIiuRH1hI9OUywWZI64ra4GwpurQc",
+			"view_skin": "https://lh3.googleusercontent.com/YXsj7Nzl-FIzukpSG38E_tlrlz6_ayzoOwbscMWbfjOwsA54n2OJXPY30RaR2BblYUhybUYe5I-lVeTWz7ExR7Utxj8tuZLETgc"
+		},
+		{
+			"id": 2,
+			"name_skin": "Zenitsu Agastuma |Demon Slayer |Kimetsu no yaiba |Anime",
+			"skin_url": "https://lh3.googleusercontent.com/oHVqq5Q1NwNau4OWQm7dG1xH98QnQYvG4HSDWOIHwUo7TwQQ2ANi4Ybdl31sMwuV3JqEP7Jc6ccfEtgzakbHq6svqf12A-wlSCan",
+			"view_skin": "https://lh3.googleusercontent.com/cKWY_l59Wi8-O1okXh7pZchMw0yE1Ug9FQhkhsNrKUR3Q0zmKQNKa4AVdwuLFdwrM9AFMbC2LwTQSqdm9syYct071L4JM1lBIds"
+		},
+		{
+			"id": 3,
+			"name_skin": "Anime Cat Girl HD (not mine, copy)",
+			"skin_url": "https://lh3.googleusercontent.com/6YvOOm82omtXyUzbns_5WGVSTTJYPlF_33qRRKnZCDtftVGulR9P_zF3svllqEZfnNiCakzCUYX8qU7RqGz7Nw",
+			"view_skin": "https://lh3.googleusercontent.com/cu0CGY_F-pNHFYpDAd98x7h2ryhBGBxPkONi-csrzqW5BYDuzUAQrGh80EgPRRrEStR2i_Jcem5y4RaGh3E23Q"
+		},
+		{
+			"id": 4,
+			"name_skin": "Obito Uchiha/Tobi |Naruto Shippuden| Villain| Ninja| Akatsuki| The Masked Man| Mask| Boy| Anime",
+			"skin_url": "https://lh3.googleusercontent.com/jZyNsHOo8D4QoHa4TIEdAJa9Re-A0KXy4xvZTpsCrS0143LvVuaIGHfSPaoGqT-4LXDhTXDadWbteZnbfXpXto-Qzl-5RnngMg",
+			"view_skin": "https://lh3.googleusercontent.com/DMA9BwB5NlYkTk8YprvB2ibZYnlJ8laLYvy3-k8V0w74mOhwVbQY6LP-3nHSsCbyTDyQ56D_A6kGhsffHNHVtBXD-QNOUoXts7c7"
+		},
+		{
+			"id": 5,
+			"name_skin": "Ayano Aishi| Yandere Simulator| Game| School| Anime| Cute| Girl",
+			"skin_url": "https://lh3.googleusercontent.com/29EoNR2x3cjwDuJ4t0cF848vrvwhSCL2SsYo9ztoBzksdcxL1Q0AzgqhyIxN9xKehV0HBeuR8f2L5XA0W7nEKy9-Uj_TIf5mbRQ",
+			"view_skin": "https://lh3.googleusercontent.com/VoV6Un5LhGUqywkuCcxHy0mr82Xje4Cyp31bVzxERjm_FtShHWp2B9dgyfbUHaS8mEAR94u5e5ZSznTfuHrJcARZmbZqunvyb3tX"
+		},
+		{
+			"id": 6,
+			"name_skin": "Himiko Toga| My Hero Academia| Boku no Hero| Yandere| Psycho| Cute Girl| School| Uniform| Anime",
+			"skin_url": "https://lh3.googleusercontent.com/JHG1jkYs1oNwkeJNaLJCMExGyLrjqLphmzAsDq-r4p0mn_pt0u-U24QIVzE0m4vRY1ukyTQk6XjhZ-AONIpQ8Q07near57LGSdw",
+			"view_skin": "https://lh3.googleusercontent.com/R9tK0oisMeRTfY3TEQ3J2EZD5s8x96QCIguMVW9hKJ5ytZUnlMa97Nhf3sjY5dNzNi2OBf49jnGBt0iSGwL8vFcCYK8oRb2OuyY"
+		},
+		{
+			"id": 7,
+			"name_skin": "Tanjiro Kamado | Demon Slayer| Kimetsu no yaiba| Anime",
+			"skin_url": "https://lh3.googleusercontent.com/BhMAk4iQYJhCfWk2OGviA3dzHcTZsnlLW9Z1Xiid0T7vy9EzTSavFetgunn5_E7cqD3Fb3_RhW3vaWXDvmqRXR6xrqOMsSTQFzY",
+			"view_skin": "https://lh3.googleusercontent.com/A2ziLKlpF0m7AzFqFAy-mx5VQ5zJKM5Jl1C-6uUy8tKxX6VI4IsQx2M0vMTlcFC5jhA8pHTW-RToXywib1JU-oxDFMD6vnhpYs4e"
+		},
+		{
+			"id": 8,
+			"name_skin": "Hinata Hyuga| Naruto Shippuden| Ninja| Cute Girl| Dandere| Anime",
+			"skin_url": "https://lh3.googleusercontent.com/OHizgkHFonxkZhIaL2ZkJsE3T71sPX0X01ohGR1iCHOz-u23XI-hwQE40lfwwrDN1FyEf5eQ7UpUAIypwtj0dz5BwVdOKVSo2A",
+			"view_skin": "https://lh3.googleusercontent.com/S-rhSl4wypgao_fxmm_JWwVo22VC2gCJoaAV7i3GZpOTsWWAkA5Nm6STbnYMtrrUlYO6AvyO2r9s_Z4XcdH_50ciz6JJBeTbjJ4"
+		},
+		{
+			"id": 9,
+			"name_skin": "Anime girl HD",
+			"skin_url": "https://lh3.googleusercontent.com/twOtpmYnwLhzu99ccfCWWwmIWLLKSZEo-4iDEDxMkHbenYHQrkGRVg6Bq_UQebYoJabj3Vcs44e23A49rZEKMw",
+			"view_skin": "https://lh3.googleusercontent.com/zoHQ46uTZef9exdH3CozWvMV6a5zvwZgjT4FHckQAD1Wnm1c6CHR1dbD2tcUh26hn_7nOXYSSvUXHPEAeM3C_w"
+		},
+		{
+			"id": 10,
+			"name_skin": "Cute anime boy 2",
+			"skin_url": "https://lh3.googleusercontent.com/-XDZ-9CmZSYrwJClunWyZUSo3QglP9LoYyiSZdiDCjSa5L2_iRMpisansDO7IFhLQbKvT2g0-mCZ44E6jbM97Go",
+			"view_skin": "https://lh3.googleusercontent.com/Was-frDnD2uq4zTaO6QMH3MeJkso49C56txzxoVjvg3SWFj1lf8tiuAZ7sGDh_0SVsdR6YMqv-TfwWGg7v3Q"
+		},
+		{
+			"id": 11,
+			"name_skin": "cute anime girl",
+			"skin_url": "https://lh3.googleusercontent.com/VbFokDnU9X1kN1AlmwaOVmZK2Ee5DUsowHxBoJi8qSYt4SsFiW-2wQCsR70IDu-mSZ7fDLp7rsMDL7TSNR2Cqg",
+			"view_skin": "https://lh3.googleusercontent.com/upzzQzDFMjIHIry0LaVAfz5s8TZyLX-Q3hPpCtrspliLg5ZcmKWDY_zXqJ1NwgagIJzhv8UKHzqKoQLeEymOcA"
+		},
+		{
+			"id": 12,
+			"name_skin": "boy masked sexy white anime black grey pvp namemc good premium cute kawaii badass animals creeoy scary",
+			"skin_url": "https://lh3.googleusercontent.com/crTAFgZB8RV7dkgEiU46I-nV0BWbR2WEbstfqsKTz4XYaTdfgUO3s5yY86AMxPHuTgCzs8L1Wa75Da7lye21uLO79qDuMfgxcs-c",
+			"view_skin": "https://lh3.googleusercontent.com/Zk-2khrq-dWuy2qlzmNoXVisbqEq8QCgTqTiVL2tz9ur59TqeglJFAXYi-JSC7vQ5KjRzX8ta2K4pzewok89ar0e-nt5EL4UUVyJ"
+		},
+		{
+			"id": 13,
+			"name_skin": "Mitsuri Kanroji (Demon Slayer: Kimetsu no Yaiba) Heroine, Love Pillar, Girl, Cute, Sweet, Pretty, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/W3m7Oxan4wJJdNreyq2qfI9yUmOk513_9PYTOdFUnEBk4Cgd5dp3m9aE1oAHxHDlLfpEHjTqqfMSVl5Vx--JCfLEVqA-4UFVfP02",
+			"view_skin": "https://lh3.googleusercontent.com/yEjZB1cv2I-D_u2u9Ok-qT5JtOrJ-BXXCswZ4EiGZvTmOQavusSc0Qzryb_oJLZnyB4cPX6soIT2VIYqToBt6WPV2HKhewit0zc"
+		},
+		{
+			"id": 14,
+			"name_skin": "Monkey D. Luffy |One Piece| Hero| Boy| Straw Hat| Rubber Man| Pirate Captain| The Fifth Emperor| Worst Generation| Anime",
+			"skin_url": "https://lh3.googleusercontent.com/oaVM_clZDiKzOSmTvYebgrBxXU9zdkJ9BKRW5Jizdk6_gypDgEVEFuSePqBtLy8G3C_lh12OZVaqXv1si1r6kmrsaO7O88Zsg8fq",
+			"view_skin": "https://lh3.googleusercontent.com/365t15lFFpM2FpWhDK0ndIeI5OSHb5aTKVvPRN1DucnLhhWX6sd78Eyl3JwZuokb8738ByQeNkgPajj435HBrPg1XCEeQgE5fA"
+		},
+		{
+			"id": 15,
+			"name_skin": "cute anime boy",
+			"skin_url": "https://lh3.googleusercontent.com/MT8P8hboSt0SxaHwYGy-hxoMfKl4lAuUQcQCKKszJqsHyIRA0TjImrKrGPznn52v00URNqvwaHketXjRGrjnvw",
+			"view_skin": "https://lh3.googleusercontent.com/4x6o_R25voP5twr8D8gVlPvb8bTwQuvYevPw-qRcPnzjFgdBgpHoFojk4uFMCiVoXN5WVSR5qSmQTcZ6FdbFPg"
+		},
+		{
+			"id": 16,
+			"name_skin": "♡precure♡ || gacha club || anime || girl || total dramarama || roblox || youtube || tiktok 🚫 || maid || angel x devil || naughty || nice || meido (maid) || ♡ || mizu || mizunono || angelic || 💎✨",
+			"skin_url": "https://lh3.googleusercontent.com/UPypgnj2NdXpkWGYp2D9QWM3pHjGz3FrIEIemyIuOk0qtpScn0gmdqFqHGrwg7C7T97aPnKksCscYQ2ZnKFklOg",
+			"view_skin": "https://lh3.googleusercontent.com/bIrU71guHET02oI68WfRrwIehqUPPGBP-65yUIaGpGLOhj-KvDxuZvmgTHZxhkyZzQQWpQhoCkz3tMAFs0G4gMPrhNfq-yvSsrg"
+		},
+		{
+			"id": 17,
+			"name_skin": "Anime cactus girl HD",
+			"skin_url": "https://lh3.googleusercontent.com/EbKr9Iybd2V27-9VenpmQS35HcirDDsPCjhBh_mSbQaxdqWhYHY0nw-BmhYMOMnyWgPhwG8AsLiiEqlbyecwEw",
+			"view_skin": "https://lh3.googleusercontent.com/GXMGiLL4NfQise__90zHBO9vWIQoo8JwpcxcyRCljly0cViJT0ljaCLqJt_u-qv_uNIw99av_qoKtzLhygXBow"
+		},
+		{
+			"id": 18,
+			"name_skin": "boy anime naruto pro pvp dream blue red yellow green black white",
+			"skin_url": "https://lh3.googleusercontent.com/ZBEI2xkAXSCBRdLzdmQNh8x-vtftP5JdkZ1teU31DfkKq7u9v5UaWmhJL_1viXdCaK-cv5eiWJpPxCH1ckIG",
+			"view_skin": "https://lh3.googleusercontent.com/FL0MKw5ZoUC3UieA2G-QX_4mOZY-Cc6VNROQThedaMnKndUchngooVdoWOsU2PB9fEg3vxtl0bSK140kTm3l6sQKekx3xX6FuOP-"
+		},
+		{
+			"id": 19,
+			"name_skin": "Anime Purple mask boy GALACTIC",
+			"skin_url": "https://lh3.googleusercontent.com/udA2YelMK7BT98-k0aaxTObkmuUY64O9TmStkU1bttr71wjIIqszosDbjdd9BKasmPr8_v7yk8JwqHnspDBROh9iv4PIHVQgdw",
+			"view_skin": "https://lh3.googleusercontent.com/lAEIhl8MfgroaVsaJri2rWJCL0gb-5Q7z9phQTU23gAd909IX7UbIm_xOnIlnT80v2mNdrJsfld2C7EWY5HkjP-JrEDc69n9ReBN"
+		},
+		{
+			"id": 20,
+			"name_skin": "Rem |Re:Zero| kara Hajimeru Isekai Seikatsu| Demon| Maid| Magic| Blue| Cute Girl| Anime",
+			"skin_url": "https://lh3.googleusercontent.com/A0P3rO_g09o3czLeDIhAEeVQ4Gbpfa1ehMxtHQpmcmtH8rKFAaINSs3U857oeMgiW9N33nK8JLM6qdVfrws6ts_Hq9jE77QOvg",
+			"view_skin": "https://lh3.googleusercontent.com/Bs-1gPbGgQfA_NChyoxAZi1NHjHEvQpdy-k5qxoJXw806uATkUWLBS9Geyeev_4LRpGCyMcxG-Z57YjbMkSjTvBcSK3AM7e0rg"
+		},
+		{
+			"id": 21,
+			"name_skin": "Nezuko Kamado (Demon Slayer) Kimetsu no Yaiba| School uniform girl, bamboo, Cute, sweet, hot, pretty, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/ecB4IusxThp41Vaq0VIUYf1GD7J_oHJCDFQdfGy8ij1tSktcDWr0bOZ6cimkIafQpmbu4nwvmnpSyzvN-xd5rsraov3whDW648pK",
+			"view_skin": "https://lh3.googleusercontent.com/Jr_VVr4YwHM5UviNQs7xLmCHd5IRwukw48DwMlHq_bNvVMmIa_q5Wwe_FIncKNbpNJxlA4ysfHHDtTCp0l_vUnGjEj9xO0zQ5Ho"
+		},
+		{
+			"id": 22,
+			"name_skin": "blue black anime mask masked boy",
+			"skin_url": "https://lh3.googleusercontent.com/bsHOvrIE0QP0vi6jflb999WFgu5aD8NKUH9G43iTy0i8zAJkvl2bIGZIuI1e7uNKVQM2T6bILTzAaBJ05nhkUynUNWlXNK9CnAL7",
+			"view_skin": "https://lh3.googleusercontent.com/fRKcprTQ_y87_o78qS8fqyb9S4vdauaBhB90aqzdeX4vnhOxka9AiQyHTgoKSUpinFlUl-oDMDKLunPjkpZ9x1prlFEqFPqPK5U"
+		},
+		{
+			"id": 23,
+			"name_skin": "anime pink kitty girl",
+			"skin_url": "https://lh3.googleusercontent.com/6WnF2aiWM3cLLDuexdQ7wjlCweTUy_RbBdMwo2Bq4yQ_By763vmBIdqqPnRQo-zU0lZQIyHtZLNFOLJ9CfdR0Q",
+			"view_skin": "https://lh3.googleusercontent.com/yaASQasKsVMVpL_pudit68VedEbZrfSf-ze0HkocTpp5MfcGcvZ9KhWwcAmljTshuDPFMhsiGgXzRf8bo8on"
+		},
+		{
+			"id": 24,
+			"name_skin": "Kirito Kazuto Kirigaya| Sword art Online/SAO| Hero| Boy| Black Swordsman| Anime",
+			"skin_url": "https://lh3.googleusercontent.com/1w0kB_Y1IhpOmZJh0znYbgLQcpFC-oGG_b6_Geu15murtWtPJXLIh4hcdEdmDUy-53tm3pKs1fZbwcECIXytutcem5-H6CP-SEE",
+			"view_skin": "https://lh3.googleusercontent.com/UiKfUjLvwL36YHQkk1D7pVq-MEtUFBbL4Ty6D3jBoNsZsTG8iFJytYWRpIq36EUE71nXhjboZgmOJ97CN4uU5NsuRLe7mLXI7Q"
+		},
+		{
+			"id": 25,
+			"name_skin": "Gajo do anime veciado super dos supereles do capirouto profissional minecrafter Felipe Neto o lucas neto é uma bosta nem sei com ele tem ganda casa nossa com eu sou bom a ver isto esta skin é para o minecraft para poder ser um super profissionel monecraft fiquem e adeus esquecime o rodrigo é gay! Chau!!!! kkkkkk",
+			"skin_url": "https://lh3.googleusercontent.com/Bjd7cpAYQ7ociQMAnWMW0DMhelN72PyBYt73vvRbtGMUeAkj8locDHAGmCIxHZwjWtzSoZy0bPaRfENZOc98tWA",
+			"view_skin": "https://lh3.googleusercontent.com/vvBPQ2TkqrGviyrlYCJD2HOGotlkkqyeAKpiPrMoaziSVklpg61o8WWjrZmluU5liK2ydP51e74J3vFvHD7b"
+		},
+		{
+			"id": 26,
+			"name_skin": "Sasuke Uchiha (Naruto Shippuden) hero, rogue ninja, sharingan, boy, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/mtqCNazYyQOUQsle1Pad70HhNWZ8Wutk95OavXcDEiXvFSgEFJN2uCjffIIxtPTW66JXF4ft2G8gW9UkcPFzQmqDNFJSTO8YyEA",
+			"view_skin": "https://lh3.googleusercontent.com/2A1WrqRpfPUgMLzxPX_wB0kpF-HGWaKWuN4yOWDc__qxdoBn7jqXi2E4ANvsQljKu-3gDzGus65urc2Q461me9DKGOAh1x5MwO9g"
+		},
+		{
+			"id": 27,
+			"name_skin": "♡Anime PreCure Neko Girl Casual♡",
+			"skin_url": "https://lh3.googleusercontent.com/-R9HVJ7BwQjZOvLVRLqv3DGH-CL0jQeeQ4prXz1-7OGnU_JfxdkoCM1Mg7jhP6KGGcwBKxrYs6NBeA27KR-xTug",
+			"view_skin": "https://lh3.googleusercontent.com/PtTUmrGVAUh5IMNWawa4AmCl301Z0oNkIss6G3dmzNDmsHng4Wj2rqBIAJMsN-dFaM1-Spb8Ml7YEx8u0jNB9M0"
+		},
+		{
+			"id": 28,
+			"name_skin": "Megumin (KonoSuba) Heroine, Arch-Wizard, Explosion Girl, Cute, Red brown purple, Japan, Cape, hat, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/sSx1nWd2UVR01BRn_jOF_FZa24NzIRHVREP6jHJIXoj69mWKAIFWMVbCjI0U6gD5ZimTQoopZPNt5wrEbxX31ZX1fFkAuneBPQ",
+			"view_skin": "https://lh3.googleusercontent.com/9K-Fwt3TEl1OV6iCPYAa-iV4H6-g00LbGWNc_-rrYPMS8qioez0jCqXlx5Y2buXjR-V6svL0n58YfmdhdyeAqN5zP0YgZUl2iqM"
+		},
+		{
+			"id": 29,
+			"name_skin": "Ranboo anime boy",
+			"skin_url": "https://lh3.googleusercontent.com/9EHFR_LsCEo1rOR01z2JmVp6RLB21h8LRhbdkstfbvjQpLih8vRG07zN2uhrg5xdcSjMamwsqOj7FZd4Cqpc6B0kjXHEiagD-Qk",
+			"view_skin": "https://lh3.googleusercontent.com/w2-Lc4lzux346zyTgnPn2pucZA-x13aWdZrPgC-naLUV3Hak-WVnWg6ayJvRLRyI51IYN7jgODYkvYT5Z7U4vmUDrtDKYUxAyPTK"
+		},
+		{
+			"id": 30,
+			"name_skin": "soft anime girl",
+			"skin_url": "https://lh3.googleusercontent.com/CTt2JCBtYrl-jc8DlR0jqyq3A977hMuhiVwaM_sGHfxWeMpRfELclS1kQWs09AOAd6QOJNWeUL68HFR1DTdRrfy27TnW9MJLCg",
+			"view_skin": "https://lh3.googleusercontent.com/ryRjSa3pIR2JcYNzE5IhyeccqB8iu-RgDKB7Hmf5feW6JIJ71tPC-b_MdHmnBwhlzJyJxFmNBg08ukS1iGbaxPccShHToOPLfEE"
+		},
+		{
+			"id": 31,
+			"name_skin": "Kawaii Baby Pink Anime Girl Skin",
+			"skin_url": "https://lh3.googleusercontent.com/9mwiKWIix-5UdL5XPjcTGMhlQWO-KBfKTRaTuIt0e-J7Hybpulj5mZ-2P1qb6Je9Cgfs1lqKxLC9kFQ89JvPBSI",
+			"view_skin": "https://lh3.googleusercontent.com/1inu1DE2J1UxL6v9qmxRkZiRofr6Cp5TPEtt5bhTZfD21lYTsnwjqDWGsmlaOD3V7toEc18uP-_3t1LzK1KBMw"
+		},
+		{
+			"id": 32,
+			"name_skin": "minecraft anime cat girl",
+			"skin_url": "https://lh3.googleusercontent.com/hB4IJIzMZ6kwF35Fard79o4jk5Tt0NarNdpFVkGLFcHRfsDkq3_ne-7E4dcPMMujWQO_f3oGVLOrox2zhfYeDGk",
+			"view_skin": "https://lh3.googleusercontent.com/9YAnwBPwBIw_ETHWp2AZ18tN_KxL9SgftmqaVwt3bgt_obwilPLIRBf3J5vksipP22byEZBxBGvMhf-T5pVZCWU"
+		},
+		{
+			"id": 33,
+			"name_skin": "Kirito Kazuto Kirigaya| Sword art Online/SAO| Hero| Boy| Black Swordsman| Anime",
+			"skin_url": "https://lh3.googleusercontent.com/pEdBT-pUyngW-Gpxigp9ZFoUqOOWpDjtDmFZzHUS3CAVuY9EH3D-vRow-u1uwKtEFv8DO9egKGFittXTj8951R8aPGgErL3K8JU",
+			"view_skin": "https://lh3.googleusercontent.com/-Y45GaLvzgZSjFUdeJlqICVYnKgHgiXHRvjt46GdhnqHmmmLd9ZkkdIiIP6UHidGvKrHCos6QGRhaJvtiNecMC7wHwDncLWcSYQ"
+		},
+		{
+			"id": 34,
+			"name_skin": "Anime Villager",
+			"skin_url": "https://lh3.googleusercontent.com/dpJexa6ZqJJWklhLZsD6njUsq9YsULxn3zKaWj1nc60pmwrJxD9Xg6-eKtij33aYzUyiimNwxojGGqWWS_OYTQ",
+			"view_skin": "https://lh3.googleusercontent.com/45-n0tHn2sQZLjWiSGk_ixhyWGCzL756Cm-VfO2eyDneWO8XIapolDAMEzdBVvM-gXzkos17fUKOSAhvVlvE2g"
+		},
+		{
+			"id": 35,
+			"name_skin": "Saiko Chan (Saiko no Sutoka) [Yangire Mode] yandere, psycho serial killer, bloody, bunny girl suit, horror, creepy, scary, sweet, cute, pretty, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/KhZMRRv67QNfSu3jEFMuCO57PECJKXLQ7zv-XIYE3V5F1FwnTlymYxZMg6qrs3kNCwCpNPmh_xZMtQe0vmE2fwviWwZWwT6UysTD",
+			"view_skin": "https://lh3.googleusercontent.com/zgqhWBdQEWGHPz7Lp3NiH_SDg9eupXIILQ5lf6JzgADVzZfe3Ye1iStUEPuudNthUer9oa2Oi1OLSr8l6Z1rpf0-00X4USTOZg"
+		},
+		{
+			"id": 36,
+			"name_skin": "Anime girl nezuko chan",
+			"skin_url": "https://lh3.googleusercontent.com/VUwrqeprtUA9z9r3kWrbrQp9ZRfv86G8E6GITfLS0XqrcZVffz4lZXIlBpWArIRNQ_Ux5RG9OI9uKHv-1errUWhT2JCZmLOzMFM",
+			"view_skin": "https://lh3.googleusercontent.com/V-ue9U3JBeW6Qgml7qeDefqRAiCXtvwkej5ZQAnAsUiLaiT4gaI-5ZaddyiCg1cLrZ3yJyJext9mfj60Mcu9kvRTaHUqwIi0PD8"
+		},
+		{
+			"id": 37,
+			"name_skin": "Meliodas |The Seven Deadly Sins| Hero| Boy| Sir| Dragon's Sin of Wrath| Captain| Demon Prince| Anime",
+			"skin_url": "https://lh3.googleusercontent.com/bj-EBhzN_967LXjt-RT20BDUX0DskltJl9Acmb-HZqqAB_8geh90nhWVHT8e11aQDfx5mMMZVRRVLNPsgTfbv4UU_EUJAueq006z",
+			"view_skin": "https://lh3.googleusercontent.com/QQlbqY77E6WsjqNx9X-8zbpCk7uaioaQJWik5CzamL3jx7KfmlZNrlOuAWwulXqhvEwokkDwJEa_tGhABPcwOQ-jPWmUywRnqK8"
+		},
+		{
+			"id": 38,
+			"name_skin": "Monika (Doki Doki Literature Club) Villain, Yandere, Girl, Cute, Video Game, High School, Uniform, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/K3vPm3h0PRpnKtgRMnH4k108PFgMxpewhTsTAne7TVEO328CFI7mSMYbXb6E7phRBdNKc0uVP7yT3cal6SagmamYjbW3ubfGaA",
+			"view_skin": "https://lh3.googleusercontent.com/Ssjhsxjt0-16le-5nEXkSAZPNWv_5fNpDql0LeUGHIpHoSr6nE4bO81jHO5ei5iJ0tFrtxd1keCSRsWDjxkr0t4JCiqAfwXKKOs"
+		},
+		{
+			"id": 39,
+			"name_skin": "My anime girl skins",
+			"skin_url": "https://lh3.googleusercontent.com/xPdxB5uRT-SYnYkbnQd4mTXFnU92zAbpuiUuJrVt5WqSljEp5iEmBX-xThsPjx2f63V1YL-ESScjkMxSeo5K",
+			"view_skin": "https://lh3.googleusercontent.com/_BBZ8kXIMvD-873DKunCm417yfgB0fW8cVqLPHub1HhMlLOT92Xbljql2r8dlAcMrZTAgD63f-2eiOLFdFxrPA"
+		},
+		{
+			"id": 40,
+			"name_skin": "cute girl with flower crown and horns/ cute anime girl with flower crown and horns",
+			"skin_url": "https://lh3.googleusercontent.com/R7OIfeQxrDxeDiyaj15uEGAt93iqYm1hFRFIkZhtniACcARtW-8_7i7Y3KI32nPTCK4yyxcU7GRoKNGG6RDjS4A",
+			"view_skin": "https://lh3.googleusercontent.com/J31xU7RoHUg7eUBo3tWGVdZPj8-QUS7xtYW6BS1ZLY0-eh32K7z3mca_uN30YP8-YGbd9M5QNgC0vqLPKiolhA"
+		},
+		{
+			"id": 41,
+			"name_skin": "anime cute girl",
+			"skin_url": "https://lh3.googleusercontent.com/o9MxYp6OswGJ_cKIk-I0bnHukJkKowW3EtXPAHsTNiCsFNCXp6LK1IH4QSRv53O_gglWHUjRnJG0iVVV0GEfUQ",
+			"view_skin": "https://lh3.googleusercontent.com/x0cLNpaTbXnYftvqKAj49Yj_2et-p7HHiQ86O8P0Gn3iw83QgKMs2IXflXtouDG0cOBMOYksbQ_Z5N8PdNl8Cw"
+		},
+		{
+			"id": 42,
+			"name_skin": "xRockyPanda sweet anime girl",
+			"skin_url": "https://lh3.googleusercontent.com/rtJwjZJXy2UTySNg1Z9fFMNl7vhYaN98GgTT5zkwqoQ0TwLgHghNR-TriwHKsQwWV5GMLtcmA6Dx0T8S-cpVd08",
+			"view_skin": "https://lh3.googleusercontent.com/lUcRQrhPnRIqF9BOQxyKLF5-LQM0cvkLoHWrxbxSvyNX4AY5_rebq-CpLm7DlskG8mhDDIDZXHtYUByGqyUP"
+		},
+		{
+			"id": 43,
+			"name_skin": "Cute Dark Anime Headband Girl Skin 2",
+			"skin_url": "https://lh3.googleusercontent.com/2AoxlTnFB2qjxi3RlRUcvmDzVQe88YU5_aiVh01bYWMTuYWT5S_Wuozdpgs_JxA0N4AdkkN9KV3QTCj0rPJeMg",
+			"view_skin": "https://lh3.googleusercontent.com/7y_tjxycUtSSBkThOpwDmlLY2oVVNB_TuNC7434-FEmklAlNjhilMTZoNTprUPZxYAC-3fv7vX4hpk8LSUTALQ"
+		},
+		{
+			"id": 44,
+			"name_skin": "Anime Devil Boy",
+			"skin_url": "https://lh3.googleusercontent.com/LSPp8k1S7aBAzM7BMEkVzSzekdBve8tVrPQYBfMRPcLyzevJCLs51f_HQG8oSmE0rZY9gmh0FDRzt7MYjBWtsA",
+			"view_skin": "https://lh3.googleusercontent.com/44VAgdhTKG_rQ8M1PNHL63di3k7NrOrDV3TOwG9Hc9jOosHeRx7PwTdToYl5BwUKDtsoffPeeq98MIf5CcIOJbY"
+		},
+		{
+			"id": 45,
+			"name_skin": "♡Anime Precure♡ Girl ~~ Toei best images - Applied to Minecraft Skins",
+			"skin_url": "https://lh3.googleusercontent.com/XQ9ie0Sb15zBQ_GS4n0n2oQJEgU-OD1U5xsvLr_oeyIHUGI-atgXSg9s0en4SMWTn8yWdphJAlGT76mf_8Or5Iw",
+			"view_skin": "https://lh3.googleusercontent.com/YLhXt44X02V0emJRJGeSWflhRZIbzsDxVcpj6KXHx17FANvE3GWb289izFOpy0zHvphCQTlw0y6LtwBwDKek2Yk"
+		},
+		{
+			"id": 46,
+			"name_skin": "jay anime boy christmas",
+			"skin_url": "https://lh3.googleusercontent.com/i9Wxfz5S-BCs3MejyvIaAp9-wppFTmQOwd5vl3jb2SH4nknEA57oR5pKmb9qnQJ0cwFAuxzKh-nhbn6FFkl8xrw",
+			"view_skin": "https://lh3.googleusercontent.com/H8QW3ELCS6_xTq4j6mpNfrvjIUdIVvcWi0OVYSj4cmTANT9dOTzwR59duR28yEzeA7F0zbWRwN8KqD45kM-pgA"
+		},
+		{
+			"id": 47,
+			"name_skin": "anime girl",
+			"skin_url": "https://lh3.googleusercontent.com/FbhS2ka3Zs7Q7SvWIcb65Ciq-AHUreeI-ziJSJ1LvfsqgSduzAIYzwuYyUFfU1O6w3exXHsNs8QgKM0SB1jVs3KX9SwJGMO-oqE",
+			"view_skin": "https://lh3.googleusercontent.com/E3ZmbwMb1pQEcFvvZZytSPK4f1evvLVy79NkAiFsD5uRGUIlZwi5U_MtwX462YA1PeZ8nQhoJyf0r6OHe9e_Sj_uWigE81HTEA0"
+		},
+		{
+			"id": 48,
+			"name_skin": "Cute Anime Diamond Cat Girl",
+			"skin_url": "https://lh3.googleusercontent.com/udVztFLMaTgsqKWy6gTqXsDw830_Mu19txH8ApyegztbvgcVgBhoo5zB8FCP_eL8py4RvHO58TLuQWYoAVoYBQ",
+			"view_skin": "https://lh3.googleusercontent.com/Di7KTom3RvT_AP0V-kAyiIqnqpGYGoJxDAvJxRj6TfHaL0rdyX5F-FCil2y5zWXuDH1mWTc2rqVoDyJ6TFYxbg"
+		},
+		{
+			"id": 49,
+			"name_skin": "Levi Ackerman (Attack on Titan) hero, survey corps, humanity's strongest soldier, captain, assassin, cute, boy, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/YoTFTVKLZN4d4Ej9q8U5kSv-LlJGhN_zdQtc-Db9Ze58DGQ_0DBcaNP8HxqtkMZ_JewR7rVxnuGdl0aW6P7wQwRbBCKZ3mr8CoI",
+			"view_skin": "https://lh3.googleusercontent.com/B-2IQ7L2tgrGkGi_bKU7SAE23a4WwDeV-RgAnyCIzSsWz7_xPqkNpfKWmbzKdt1B-kPcL9AFvpGwcb9PhIyd2mJge9NnSyN52yY"
+		},
+		{
+			"id": 50,
+			"name_skin": "Uzumaki Naruto female (Naruto Shippuden) Ninja, Orange Jacket, yellow hair, cute, sweet, hot, pretty, girl, Anime",
+			"skin_url": "https://lh3.googleusercontent.com/WK0Fh5NiGDAF-f6LqnBUSF5dUCTX41aKrq-1IInYsadppRzVsPKX0PZ-V2vprakTp1j3GDa4_lVkIN_zVVnLVLtDaOesy_RTodY",
+			"view_skin": "https://lh3.googleusercontent.com/ZlOiJpgioDvotgvWVQkPIQZNXBWUDcIsyf0f6CbomGnPXBsh6qYaMrqMI09WwvbNzuKhmwvu0Y7dJZ1YDVFzaQ1w1Wep1ZCHkA"
+		},
+		{
+			"id": 51,
+			"name_skin": "Anime bat with blush",
+			"skin_url": "https://lh3.googleusercontent.com/mHo25fNxpl4muiszUf76lJI0c6x2LMPm8jzZ4fvn4lCw57yBXWS5-ELmfTlyH6pa2rk1yljWqqgn9XMRUZUk",
+			"view_skin": "https://lh3.googleusercontent.com/mSrGapvyOl1F0Ah0Ndfl4ucNODnp1iKYqhYj5sNejBcJHg5MJmz9FhYymZfMABnwnNuh68Fcu3D1O6hvjfPCzYM"
+		},
+		{
+			"id": 52,
+			"name_skin": "demon boy red mask anime",
+			"skin_url": "https://lh3.googleusercontent.com/2wTrlOYkfX-ASVDD45lHQq8Tk8Z3DRee-fhKVD6BWnbVIiGwIZ1Sym9IU-ypZ0GGzFr4GrM2Y2T7YqGGinhVy0maAr8lGB_ELg",
+			"view_skin": "https://lh3.googleusercontent.com/Rprp8U8aHrJVsSyOtvQ6SLRZTJny7OUZsllwngdvAipoIts8HiAFavt7fiBsu4vW8t4TV1LcjCzpl8JBnGad-FWDiZW2ZZHaqhU"
+		},
+		{
+			"id": 53,
+			"name_skin": "Anime Boy",
+			"skin_url": "https://lh3.googleusercontent.com/4fKuzJdNCziGlzz8gLI1Hnx0j0QP1JTYnq5-B6Uy7PW3anpbrOYy6Bt0lnOGXfjPq6_MtYRS8ZGGoa00SHoyOg",
+			"view_skin": "https://lh3.googleusercontent.com/XbCxIenXCxsFZtkicf4IEBvWJcg0cDQyrl-hd7r-p6KezTMJYwwZhSc-N1qJoTD02nh-qzMThUmULl-NhrlK"
+		},
+		{
+			"id": 54,
+			"name_skin": "♡anime precure♡ pastelgoth! lingerie (without keyhole) cutie princess, pink hair w devil horns sexy! kawaii girl in bathing suit gothic goth rose pink hair small breasts aged 19! all of the gothic category(s). will be 19 age",
+			"skin_url": "https://lh3.googleusercontent.com/IL_fmbZPIBokq7nKRR7qKjq7DOPHIUO_8tUsjehvvGXWmZcAtC8abosAVoXWi2I0t75Ldv8Kbc8ucgfKT2nB",
+			"view_skin": "https://lh3.googleusercontent.com/zD6BCyGbQw_WlAqlJ3op7H6bzCaeDQXTYs-BrQ1uGJmXzuuYgB6RBnGdtk_AGgYZt4LayApeEmrRRZmT8RDu"
+		}
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
+}
