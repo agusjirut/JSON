@@ -1,0 +1,348 @@
+{
+	"Ads": [{
+		"select_main_ads": "",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"native_for_admob": "",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 5,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"name_skin": "Goku Ultra Instinto Perfecto",
+			"skin_url": "https://lh3.googleusercontent.com/QPKtIVTwuH14z1NJDarjTrYz6qhb0t2a1ZOHzbpfsM_xYpf69eOSfe0ckYAUlIWvA-GGRn7Cgidv0-2U3kF6yCI",
+			"view_skin": "https://lh3.googleusercontent.com/Q3pFboSzdBbuB8oFCfJ7EeX3F8TRhY1Csp2YmRy_5t0Z3cWZmVtnkIINd6cvbjXCytbXtSc78cn4u2r72BbXuA"
+		},
+		{
+			"id": 2,
+			"name_skin": "goku ssj blue",
+			"skin_url": "https://lh3.googleusercontent.com/3Q5v7ISUV5xgLHgxvYpmqTK6Zb4pGZEfLKXtE8wEmHjzbOgkqebpEUIGqOVyT6F_0-j9Lje3zPFGKo9sbWJ3UA",
+			"view_skin": "https://lh3.googleusercontent.com/rtN2aonOKGujKie7JusnEMjSzpFGSbQksyaSmJMd-caBVib83Dkm4aAQFuuIvMFD_UeROuvMi4e_k6co1oQv"
+		},
+		{
+			"id": 3,
+			"name_skin": "Goku Dragon Ball Heroes (Mision Broly)",
+			"skin_url": "https://lh3.googleusercontent.com/wBtGKl5gSIWFZBs-iWHkzxFBOyqP9LdD-oFRw8sNPOvz8j5OeJhMLEMrmKuOkhseFo8GO03gOiIVQ-hwt1vf",
+			"view_skin": "https://lh3.googleusercontent.com/AOx2-HlPvKZemF8lLuZ-vx3RtsFWQr7j2q1asEW2ylVapNEZEWq90j4qrgZ--m0xdVN3K9MYh0DSYnu_loNBNmY"
+		},
+		{
+			"id": 4,
+			"name_skin": "Goku 2",
+			"skin_url": "https://lh3.googleusercontent.com/WNJkQ4MWjhrd584xQogBFseTNK1buZMdoVfUxcyzNePqn-qX_FAUIA9STRuYbBzARQ-OcDBZvPQGeyKhNUzM",
+			"view_skin": "https://lh3.googleusercontent.com/yIZykty3huspbJ9hPfOAIuPnIjVehuM7HzogNQu9d-5lNv5PN1TkJWwWj98PqH4WOc2c0rCrCMqj3jdCgQNA"
+		},
+		{
+			"id": 5,
+			"name_skin": "goku",
+			"skin_url": "https://lh3.googleusercontent.com/4U4uL-wIfmbF_zVW51L3xmUUwOtbmIQAMa_h2Jrj4NkryNluYLxj6HtLUXtbKGDaV5XxTYrb2on0N-cwcZASaTY",
+			"view_skin": "https://lh3.googleusercontent.com/k7BWAYW76cRzfB4N1LFkpQEq860PHVbFsrbIbFLQABF6jAPTJrgZuL369L1wrJNIRgzABijNZ9h7DCxzit-F"
+		},
+		{
+			"id": 6,
+			"name_skin": "Goku ultra instinct",
+			"skin_url": "https://lh3.googleusercontent.com/YLRRLLHEUJi-1gLMaNUZnIFfXjG3aRfR3sOq93qYlH3YYr36JUWKEO6LvX1nAvU1-WrhxCNn9TzcnAhWB9b0Y2Ymng5k3UG_6S_1",
+			"view_skin": "https://lh3.googleusercontent.com/74fMpb0Yidk283j3fYhuFtvHRe-dLB1Tfnl9HfZxjn8MyRuGWR3oXIc4ywEPu2e4rIiODnKFeuzfn-N6luV8tmJcKhubnHRhHQc"
+		},
+		{
+			"id": 7,
+			"name_skin": "drip goku",
+			"skin_url": "https://lh3.googleusercontent.com/jEm-pCKCdMw6FnAUNDOkizj4B6Mm5t1D4Wuf-oTKto4i10IwEJgcq2Ul_DcnIElpcDeqXFJqZlR2zMSFKn7Qkod9sHOSk3cnD7B0",
+			"view_skin": "https://lh3.googleusercontent.com/eIWEV8quA748rwLgbSTkN5wH_XeZKPwr60QY1dOxu4B81hemGMGIHhAMF8TARHuVgBipNpqrKDU_eHzci23Jk6mG0OI3u3vp5xQ"
+		},
+		{
+			"id": 8,
+			"name_skin": "Goku SSG Dragon Ball Super Broly",
+			"skin_url": "https://lh3.googleusercontent.com/8DfFxgzgGbJDZFr4Nu3unMCugA_3rlX1UefQoA1AE7j9bgOGXez7-yCTLR_0fn-rdcECUf3subi6nu-vmxk7gA",
+			"view_skin": "https://lh3.googleusercontent.com/d795GPM5dha-ZzbTZGyZc4xFjg-lFcemiQiAu0oYGtsFA4GapDECa8toB3IpBvZ7L2douAy9Wi_807MSgJEKMQ"
+		},
+		{
+			"id": 9,
+			"name_skin": "Goku GT-Greninja Skin Pokemon and Dragon Ball GT",
+			"skin_url": "https://lh3.googleusercontent.com/KzI5CKFyasH2e9TPHs7HiyT1L22vULfL4ydZSxO0XWM1mAVrj9AqHo8I0DfvbcuizSWhnzOj3rNyA09QIlFk_w",
+			"view_skin": "https://lh3.googleusercontent.com/PeOoTXuHnhqBItLH_GFC1u0dS5WJVMMaCRY_4NU-xBwvt62M6L8Ls_UszkLLzGRyPntg0MOOAF2lWWknUTMG_A"
+		},
+		{
+			"id": 10,
+			"name_skin": "Goku New Form |Saga Super|",
+			"skin_url": "https://lh3.googleusercontent.com/BiEk-R0sI3Oc7FGu6bV0AX9gQTYz7tBJGIt7PPFaFKWtBVGHAeK_VrL4FftXCTU9ZHjIcZ8D_5GWnv_lA8g8",
+			"view_skin": "https://lh3.googleusercontent.com/e4CdgeVI5WaXcz3POBsbsqOL2fusqBs0Y_BQgYDCbwN-rd0dvnlp_55hDtc_bJeeU_tG2pW-jnMTp8leIsYE"
+		},
+		{
+			"id": 11,
+			"name_skin": "goku skin",
+			"skin_url": "https://lh3.googleusercontent.com/jtpt7RqZegaJq5YY9MRgZUmNk89f-1At9VYzk1cwlZXBwSCuQ1h0GUEOk0Jg3avD_jtvc1R6TBU593az6-BE-w",
+			"view_skin": "https://lh3.googleusercontent.com/CPt_i9d0SHsGiGGl7z_qqqguBadMYkktN7M7W-lb__0aikak4WDohFYUOfU6QEJtSrnDFmgNGGcDOQDT1lP4ZRs"
+		},
+		{
+			"id": 12,
+			"name_skin": "goku omni god",
+			"skin_url": "https://lh3.googleusercontent.com/lCdksgrMa4rbhSy7uSkB4yMvQjyQOS6_DWhdu3nZoXul5IjjVfFi94htQf3AhrgV9e9wAKK4cjvVPkbFKiOoog",
+			"view_skin": "https://lh3.googleusercontent.com/YhcgVMYPH51am7cIwnrf6nwR43iWoZKtCfbA4R9bl3yHCy_fePnpV12Kaf4Vroh3Oqyt14iZaL1CCYBhs3MA"
+		},
+		{
+			"id": 13,
+			"name_skin": "Goku ssj blue dragon ball super",
+			"skin_url": "https://lh3.googleusercontent.com/_xMHvSWxmK3opHBajiIZaoRy0GXCpDYLtZkoa25da9bhbXSD9rmopQGohRfIlMtpeQ6rL5jg6VC2Jbvr9LnKjwJQ9efdynirN5pS",
+			"view_skin": "https://lh3.googleusercontent.com/8dI9kyUdYhl64JDVZMOyu93zxItLrYg4LjPOAxXZTdTCeI8tntzpla7cqARrNBirVExi_EZOeQHDD5Nt5u41zhmpdoQRfsaEN9A"
+		},
+		{
+			"id": 14,
+			"name_skin": "goku instinto superior",
+			"skin_url": "https://lh3.googleusercontent.com/jt6HMzumevWufZV3HNJ1TjoaJucc802dZ501teE1nt3Eor5DpH-5qCj2mrmbCOAmI9PArw42i375AuHLcoaba8o",
+			"view_skin": "https://lh3.googleusercontent.com/gNMwvEpylx5u4J8yQNNr6H8Ox5MXla4SnyFyM1FMoIfca1yT5_PachjZkvdz6GR8e6cXM0BlYUnvRRAVhtzS2Q"
+		},
+		{
+			"id": 15,
+			"name_skin": "KakaIsaque Xeno Goku Omni God SSJ5",
+			"skin_url": "https://lh3.googleusercontent.com/bzrjnkL-ykFvJfvgbEehfAsafK8cwpOLmliUqMKCE0y1rT6DN0AmtNloHy5oIBSJzGQdIcPW_UWXkdYsWl4uWA",
+			"view_skin": "https://lh3.googleusercontent.com/a8DWFbw379y1sK22WcqfakYV3_4UZfzu_dZaQoZ5IJs6F15qfdbXoIgLY8wvLgKdHMSmWx0p-gmpjU2Edbcm"
+		},
+		{
+			"id": 16,
+			"name_skin": "goku",
+			"skin_url": "https://lh3.googleusercontent.com/HV5zo0xm1fR42aSJJCuawbdocWDAHiRICJd2liZaSGopyJgkj32fS1gl_a9-VvKhkQz4dFXwsaMWbIpAjBehiE0",
+			"view_skin": "https://lh3.googleusercontent.com/3migXEJsgmv41TO83l1-eld9xZjI6HztWuppcKUkRBo6Ej78sn8UmzWYTK1UuAGz1y7PNiVCe5Zo6DYzD1L7dWY"
+		},
+		{
+			"id": 17,
+			"name_skin": "goku ssj god skin",
+			"skin_url": "https://lh3.googleusercontent.com/ns-QQ794owHhdeKRvKwYcbxRZqVCwP8306QgOdUm9zymyvyDX629qqnREUPRUvz6_i62i8AkXNb5WKWaTx6slQ",
+			"view_skin": "https://lh3.googleusercontent.com/WM5IeX4mbiFyi2F4Ye7rQ32J5BFNPU3LZO1rGbQRrVQHHMPX-Cfbkdih3XazQfyIneAXQU4EfvtudFH6rgwBfho"
+		},
+		{
+			"id": 18,
+			"name_skin": "goku ssj 4",
+			"skin_url": "https://lh3.googleusercontent.com/rQj6VMsCAMQzd-jil8gK00uPwQ1K7AtUc3kRmL2c80Hu9xPOb_BwXUT6mqdmVLwKGd9iBjvaX3eqFgpr9GXY",
+			"view_skin": "https://lh3.googleusercontent.com/nwiYwujKvPLJdW2qor7QsPMIwCm18HHZJvKaVooRLPtsv7CLY-x_37U89vlHC0mccb0TOC-TU7ecIGVruUuA"
+		},
+		{
+			"id": 19,
+			"name_skin": "goku ssj blue ropa maincra",
+			"skin_url": "https://lh3.googleusercontent.com/GEcozmTCJC7fw8WB8jZXuSVJOMUAaz8hYwB3llf0xAqMr7KOMz6TXrewonXtAxa5DfSnPUM2I69uOcumefrM",
+			"view_skin": "https://lh3.googleusercontent.com/PgTROfVnw6bbtrC-iMCH4Mk5zkCQ_Td0cZiwv6K_amUF3VXzPew3ZgaRAvLTy8yKW1iEsRW-a7vOjH-tUZj6"
+		},
+		{
+			"id": 20,
+			"name_skin": "goku super",
+			"skin_url": "https://lh3.googleusercontent.com/z2mBM0Tnw1k_xW_JLUicwm8_zxvmUn_doh1kk_D5aT4tiv4l4UPKi2K7bn1NGawikzcvY4zFcoUFqoqVHy_tZw",
+			"view_skin": "https://lh3.googleusercontent.com/C_PyX4C4-pExXoFlsX11_h2UyM2mBGJ5fSAoHGia76LLdLbrPXLCpiiaOnLuEJ2YxzY00ALk406k7joHsoiU4w"
+		},
+		{
+			"id": 21,
+			"name_skin": "som goku",
+			"skin_url": "https://lh3.googleusercontent.com/MwUIasrWDtzKi6DgryO_w8BY1vBb4_ob5HuskZVyVECi9t3yALPMjc6V0SsDMMm5QNw8w6qld6OEnHJQ6eyk88Q",
+			"view_skin": "https://lh3.googleusercontent.com/IbUH_Gl14spBOlGC2oxiQxuYWPMdTqa0N4YXfKmojhWx-3uE6QOjh3BC0F7cQeO1p0oYqYHKeu6MIFwjIR6OJnw"
+		},
+		{
+			"id": 22,
+			"name_skin": "goku kaioken x3",
+			"skin_url": "https://lh3.googleusercontent.com/v34Zh_wbUVQO-yxSQtmJtumvllxpICaDZvgLENnPzddev5KeL1qPTjq3bw1ubVrno4ErqDIdv5Of063eIfDAsCKxkP1QcXP5998",
+			"view_skin": "https://lh3.googleusercontent.com/IstpN7zg3Q_GFoqObsJhmcLm9IXn7oVb2q3zdnGKA_WKQoJ5zLRuJ9BnQuw4w59kLLPEYiy-3PrDod5pLInVZZFt1nN0ipBh3q4"
+		},
+		{
+			"id": 23,
+			"name_skin": "Goku ssj Ultra instinto final",
+			"skin_url": "https://lh3.googleusercontent.com/KYvG4DTdURUyCZRylgpLNQyLaWy_jZEE9x_5N-GqKn3wjS8FlfP9SB3hgYTEFam8oS_2ai4xv4_B4iuFjo0PLw",
+			"view_skin": "https://lh3.googleusercontent.com/zWGsPqMVtHNEyuxs9T1BcGwtdl7uX2a_vuqHLSH3eMZzgkezIJ7naKFoZeyNBcBjirVR2SF601FNL1Wn0wV6oA"
+		},
+		{
+			"id": 24,
+			"name_skin": "Goku Dragon Ball Super: Broly The Movie",
+			"skin_url": "https://lh3.googleusercontent.com/cg9e2TjyiHrhj3Gw2g46SrNCf2254RyArGsNJ_wKoavn0NWkA0b5JgzQGhqX5LJPDVTdor8LoDLmpUy2Zw77-A",
+			"view_skin": "https://lh3.googleusercontent.com/VAGiLmiuJ8fzYpqTWoyVYA6wcit55k2IeN2yXh1YAkRgBIwlYDF_3MO0YTrfPaIkpx4_qAjO5dA2d6921Jgmbes"
+		},
+		{
+			"id": 25,
+			"name_skin": "skin son goku ultra",
+			"skin_url": "https://lh3.googleusercontent.com/tr-MlxuMYSJ_98AiegyRpdFtcCMJqv8llthIumPVlkRjTL4CYU4YVHHEqEaWQjoHPvavFNS8jHEyKwtn4BdGpw",
+			"view_skin": "https://lh3.googleusercontent.com/d-LYMHMWhLKZHfiati4PmfIQmBpafaUYmFM-14KI6PSnUoREoc_q4UguCPY8oM5YUp2i1PxBuqECf0aqN6uzHQ"
+		},
+		{
+			"id": 26,
+			"name_skin": "Skins Goku Ultra instinto final",
+			"skin_url": "https://lh3.googleusercontent.com/vbVGW7PRTpG8Rp3IgHobK4lDgjJBtvG-j-Rv4mz0blt4_ZOknuPN1uVwX8RqeuZNZcWNl7Zf5GfMFRGZOcr5kQ",
+			"view_skin": "https://lh3.googleusercontent.com/9NU-WZmF6p28mwima8hNBqPrRInz8FhadDiup7To9mq278RPm-E1IZr_unBvBCR9Yf-oicQW9boFcNfXYxsAfasrFX3aFZPuLA"
+		},
+		{
+			"id": 27,
+			"name_skin": "Goku Sab Jacket | Dragon Ball Super: Broly",
+			"skin_url": "https://lh3.googleusercontent.com/5ZII4MThKaTHCnNECJ8o2EwA64nWR1xmFXkAwDBGIMySY-qsZ2TDA-6JBAJZEfbQKe8PJ8e_Kbl0YoT0g_0HzPw",
+			"view_skin": "https://lh3.googleusercontent.com/ymugT32KXXSaowxjriCM1VgqM5mjZM_2L46HQW75rBJ8HHqJonO_D9cS7alJMaRm8Xk2oFoFb9qKUsSTFjssnNY"
+		},
+		{
+			"id": 28,
+			"name_skin": "goku ssj4 ultra instinct",
+			"skin_url": "https://lh3.googleusercontent.com/6-tynjH1ItbVlvjoeR-6vaNn8MuR0YFDDoN7xONAym568m2SAfFpKF710siKB6u1-m0___NZbi6eClhjIHg4JTs",
+			"view_skin": "https://lh3.googleusercontent.com/DJ0yAVp9dTOSyqrUuJYWJ8SYyg56aKDW5NWZtTSlCpR_b8qxrCIDkwOkF3X1GyvSnenLtvkRcf2VoE6qloT6qCo"
+		},
+		{
+			"id": 29,
+			"name_skin": "goku ssj blue",
+			"skin_url": "https://lh3.googleusercontent.com/QOZ57QCU-Qy7cOAd9xBZ6VgThNXbMWlbImlzsqksRstvo5pmoRRNUKS18o-6RW9CZMBLK4pSjoi2iD6nCuj9Uhg",
+			"view_skin": "https://lh3.googleusercontent.com/9O7uJbJcqNindrlY01Z44vZ3lohX_JlTMCvCRxEihI8lAESC6DRtYoHJoaS_E3qUQ7oNjDBNTeakdAY-T2E07w"
+		},
+		{
+			"id": 30,
+			"name_skin": "Xeno Goku SSGSS Or SS Blue",
+			"skin_url": "https://lh3.googleusercontent.com/Hygwn003-M4WZ5i1g4xstY0G15AnHcZ2GQf3vp-3hCXBBNbZcG9JEG-d6zTqR-m1zUJmWbV-u9bqQsRL5Bcn",
+			"view_skin": "https://lh3.googleusercontent.com/7vko7ss42vYq8Iqsv12l7P5JQSxPgW036h7spNT6c5Q39Pf4ah97Z0nPnk6NfO6OuR73-BsylwNle3d1Kj3PbFk"
+		},
+		{
+			"id": 31,
+			"name_skin": "skin goku",
+			"skin_url": "https://lh3.googleusercontent.com/ediCRuUswE4Y9yFjQLiyDB594xtc5TR8-b1nlF2SepJoAGIRh5aXsHck6W6CtPk-ThgVjXWVsrbxjXoPrmjEEA",
+			"view_skin": "https://lh3.googleusercontent.com/3Zoy1qN01m85ctWSl-stVSMilpZ6xnhZ1HZYElwb164WP3WijLrRVdArOiIuQ88G33wZSQgf6Y0ki-2vpIgGLw"
+		},
+		{
+			"id": 32,
+			"name_skin": "goku ssj {dragon ball herues}",
+			"skin_url": "https://lh3.googleusercontent.com/XW3l8t_7Y2HQK7pbqPJr9Mdisr-mJ5yW8iQKZVTDst4TiG8vcHLZDq2ZPNOYGuQ86bRQtos2SEkpHeH__qU1",
+			"view_skin": "https://lh3.googleusercontent.com/f9uY5NN3ND34LqJ1UsxcG_5A3CnYAAmfD8hIOpERab7sxbGl_7yCUWzrXCmltWiW73RAl4S7UwcoRMrwhQtPENM"
+		},
+		{
+			"id": 33,
+			"name_skin": "Goku Super Saiyan 2",
+			"skin_url": "https://lh3.googleusercontent.com/ILUZg_COSk7XhDZxUQ3-d4FFBBsMuLy3XdZrk-t1botRUNjrFeNeAJlqe2lYFEOlHfIlgwiDW61j1zLKJiBIRIlE9Xt46xGm2w",
+			"view_skin": "https://lh3.googleusercontent.com/ZsdvWcWQCSunrRtJiAkYIfM5vXhw453dUzERE9L9e04bUxQW2jPPNdYi_Cemm-sJ_tLsa4oWPz-eIFPiNwiTaiUYNjn0kCMZuQ"
+		},
+		{
+			"id": 34,
+			"name_skin": "goku para minecraft",
+			"skin_url": "https://lh3.googleusercontent.com/vbVGW7PRTpG8Rp3IgHobK4lDgjJBtvG-j-Rv4mz0blt4_ZOknuPN1uVwX8RqeuZNZcWNl7Zf5GfMFRGZOcr5kQ",
+			"view_skin": "https://lh3.googleusercontent.com/WYqJOjw9pAUn0Vheufzuk7sw8hAnbz02PEjB2lxrPQODJk0x_05iQ8qwanlRgTV-nr47xdpLeZbDOLyS0cK_"
+		},
+		{
+			"id": 35,
+			"name_skin": "Black Goku",
+			"skin_url": "https://lh3.googleusercontent.com/zOle0ChIKa3X5-MD2c2X0S9UdkLgpO4Yfzl1YSkPEbmqf4Ud-ewC8j5y0P00L0WYxKlJixwyaSleoaEC_SrQ",
+			"view_skin": "https://lh3.googleusercontent.com/vAXfDm_32JQvEQQJF5P7KSfWi9hYVWQuAcXdP6kdBr-5ywRyNobMIkWKqrMlo8hO34WX_YEaa-fehT_5J-L2aw"
+		},
+		{
+			"id": 36,
+			"name_skin": "goku skin",
+			"skin_url": "https://lh3.googleusercontent.com/4U4uL-wIfmbF_zVW51L3xmUUwOtbmIQAMa_h2Jrj4NkryNluYLxj6HtLUXtbKGDaV5XxTYrb2on0N-cwcZASaTY",
+			"view_skin": "https://lh3.googleusercontent.com/rOrNcGRA-pdHypds8VSByCvHD7PW6CUaXrjoewE0NfugMQJA4yuBLtUDxKRHQTyQybsSHA2Smg8_ROXhdiUR"
+		},
+		{
+			"id": 37,
+			"name_skin": "davi ssjg com roupa do goku do filme",
+			"skin_url": "https://lh3.googleusercontent.com/YSdTZZQsYwCzgfx-_FQHIIPt8l98vaZKwv-YFPkad2hgeLookP9BAT66Ydb4JNA63-Ud7khxEqhYXDUMM7oZ5N4",
+			"view_skin": "https://lh3.googleusercontent.com/1N_-F7BGRJPxuFQ5z1JTOno5PLlcmzIuTcINIv3WKUNOLPxT7VvLCmJQetjTDccaDeLsLKPGtnsPwD0jKDZe"
+		},
+		{
+			"id": 38,
+			"name_skin": "goku xeno",
+			"skin_url": "https://lh3.googleusercontent.com/utsyZxnmkJdG8V0qu3DSEigBfHaL3iiDJgLXJHuKN_Lt5EXcfyItrkF-zlUGAZcJsmncWTdUdC-i-hLqHWDg3KA",
+			"view_skin": "https://lh3.googleusercontent.com/tjji4rncQ-5mFsicmOkHVVRpomdNynPduzwGkphMWjIJNjF5BRzGM2dMMQ-gGxswVrwwVjakcLXdAuk66TO34w"
+		},
+		{
+			"id": 39,
+			"name_skin": "Goku ultra instinto dragon ball heroes",
+			"skin_url": "https://lh3.googleusercontent.com/h4sqV9LNx0Ncrlye3IC3LSgHu7h_dVftZx2nfnUChv6lJ0oUhxfKOlyYvi7szgeCHF9BuNcNMTcJu_IAtsD760M",
+			"view_skin": "https://lh3.googleusercontent.com/4OzJzVnyFjcSBfDTX_Yv0F4xXxyyzuSfyDgmX3ifNNMUTENKfeCQRtroyvsyTAtwJ0WDFmf6M1cx8smmkS7sKg"
+		},
+		{
+			"id": 40,
+			"name_skin": "skin de minecraft goku",
+			"skin_url": "https://lh3.googleusercontent.com/b9yDIm3S1USQJX1t4IaLPodPncp4YjC-4MeUP9ZrMG71r5NxVkRzzr8ott3Gu6dhKMZR3LhfkQs9TRxkKAxpOQ",
+			"view_skin": "https://lh3.googleusercontent.com/Cl1p3t6tijFL14W-au7ayKiQbb-c0BhkEGAqbqXcysdtsmGFWw_6z_DLcm1_Wgw4BAVcumb-fMyviubFkn9gmA"
+		},
+		{
+			"id": 41,
+			"name_skin": "goku ssj god skinpack dragon ball",
+			"skin_url": "https://lh3.googleusercontent.com/AVOeoOxixuM5uOXo2FzCiCQgxUs4nol0UuRsUuC17Cxzvh9vowCyP1IkA0PfGQTMR_IMcVGw3kM3LBQ80FXU0k0",
+			"view_skin": "https://lh3.googleusercontent.com/74vo3Guy2SBYQT-BDXrjK_bROh0jzRQbKjO0OrYo39Wv9XrT6X-Oa2Neaufe4pbZq3DhdxEOaOzopQFRI2ZX_IRNDS3gcyBGgQo"
+		},
+		{
+			"id": 42,
+			"name_skin": "descargar goku",
+			"skin_url": "https://lh3.googleusercontent.com/QTJ0sxzPyyo_yOQ9pJmHiy_PuJa1Fq5Mxymas9cXk5Xla-RB-8336srTaonXAmdFOi8x2q1GJwFQX_mk9Iiiaw",
+			"view_skin": "https://lh3.googleusercontent.com/RqK880uo-mv8Ebcxkq4It5IBZUGU0zN55d1igCzVe9owofTWUIeuhTGivtE2gs5DGim6seXlUpEdfOBBDPjcgg"
+		},
+		{
+			"id": 43,
+			"name_skin": "goku",
+			"skin_url": "https://lh3.googleusercontent.com/WCanAMDq7_q_87PJZS6msX0EG31tc7nU7Ou5e7qVvBRJa_DBTX-XyXhhQIEFHzTp3z8_EJ1XoOirEDI3I_EyYy1ARW-1326JUM09",
+			"view_skin": "https://lh3.googleusercontent.com/KkQipQmfKyx70JlEJhtS2FDXxfNUAZb0R4T4fYAAWiZfBFci0rFA37KM-gxrZcqcvMCh-1j9KYgBsjvYFsSUcmLhidXzZg8VKOU"
+		},
+		{
+			"id": 44,
+			"name_skin": "goku ssj4",
+			"skin_url": "https://lh3.googleusercontent.com/H62mTVUFtG7LtVzJ_2t2xT8ab1UF6ax3H4JAB1XCFShULLF8Om0qZYU8oUaJPeyiohomioAWih-bIdehQ-E8hto_N4Uhk7Hcyu4",
+			"view_skin": "https://lh3.googleusercontent.com/j72Q4AX8ygsq9T94cazJGPcdeHuoEmiYXZZxQ0IUKTFQAAzbt90VAaIaOS8-QPBd5pMVUSXPynOJTMcb2B-oS_ejKkaASLfRtQ"
+		},
+		{
+			"id": 45,
+			"name_skin": "son goku",
+			"skin_url": "https://lh3.googleusercontent.com/dMPBiJxMhagnd1jCU4KgZ6C0MAuhM5T8ulR9dKvQjy9IjWpdLdHzT4ickvuFld6M7-wkJSORsQBY8VDt6lDB",
+			"view_skin": "https://lh3.googleusercontent.com/-ijqdyVWbfsci9BZz6boczcZACsG94HpuviEL48vZm7IFYEat4zJfgbYWYmtk5pGRSkrECwGJa1UWPMcaYvk-GHnblwdRzALDIU"
+		},
+		{
+			"id": 46,
+			"name_skin": "Goku dragon ball heros ssjb",
+			"skin_url": "https://lh3.googleusercontent.com/shKRXYvdj5bbkrkgbxdvuo4eSSFAcW7uDAq2i_TOLKtgjOq5vzKmao1uzyNKsX0g-8YXLPjBysXHh5VXsBiA4w",
+			"view_skin": "https://lh3.googleusercontent.com/1qDMwLGuSVqhTT4oqC0Oev4aF8Bq4AvupQocbLC0zp04vCL46i5ejyxnQPyTKrPr2Pt0M-ZmqC-w8hJRl6oVYg"
+		},
+		{
+			"id": 47,
+			"name_skin": "goku ssj blue skinpack dragon ball",
+			"skin_url": "https://lh3.googleusercontent.com/ajHUciCwH22n7AUapybjLKR34F_u-udI-aDpApHfbgDtV3NO4xZgBrOtySfa--1U8cyIN6kN3fPbV08EeVrUfZ2f9hVGtsbWREF4",
+			"view_skin": "https://lh3.googleusercontent.com/_k4rCg8XSftFoGmG_1-ieC15lEZXucG2l4worhvXPZNe2tyRmt4DboLmLAphJFWOaJBas-fBlE7PG7NjSsGyaxc55PrgdnqhoyI"
+		},
+		{
+			"id": 48,
+			"name_skin": "goku de supreme",
+			"skin_url": "https://lh3.googleusercontent.com/jEm-pCKCdMw6FnAUNDOkizj4B6Mm5t1D4Wuf-oTKto4i10IwEJgcq2Ul_DcnIElpcDeqXFJqZlR2zMSFKn7Qkod9sHOSk3cnD7B0",
+			"view_skin": "https://lh3.googleusercontent.com/ha2gEboMygzR6tLx32r9edlJv5b5Ym92NXBH-cEUfbzEAM2OH0htpmn7plsBcKjXn87Jr5I9McqRkeiwUN-wIS9xoXigdPC51w"
+		},
+		{
+			"id": 49,
+			"name_skin": "Triverse Goku Super Saiyan Blue Kaioken",
+			"skin_url": "https://lh3.googleusercontent.com/l550YjncG23OwAJye2cIglUJqsXI-t5d-IxAhMhjCXhcDNBq_nmaCjVKp_uk91zZ1OynX3fs1ef4RnT1TDVgeA",
+			"view_skin": "https://lh3.googleusercontent.com/fESl8aWPBSWMHoVVy5EYwm1l8j7UD--qX_7LgIaEuOFFpzhbY6z31gi32dxQREHoMfSVC2MHMkVVueeSoVkYkXA"
+		},
+		{
+			"id": 50,
+			"name_skin": "goku deus",
+			"skin_url": "https://lh3.googleusercontent.com/0Om6-xK4xnsd2et8mW1xfJMLPfX99WsOPAgTcs5u7VCDMKbIWKJ0ZINbYzJQjUIC51E2dp9wdNCDOH93XRWWUw",
+			"view_skin": "https://lh3.googleusercontent.com/0d4UrMTCGce0Uha4NISOzpjseoDs7Swifgl-K170pox0G8rpVClgpRsqKiZfdK76EenV4wik5TfQKmq53mXf_A"
+		},
+		{
+			"id": 51,
+			"name_skin": "GOKU SSJ3",
+			"skin_url": "https://lh3.googleusercontent.com/ktcvT3eOpdewDmD7VQwSBdk_QCb2uCVwutMjG0So3p-xQWKRDe3MzYt5TqR_ofdFP5phceJu59T-XcZE0OuXPh4",
+			"view_skin": "https://lh3.googleusercontent.com/wECfT-ZwefHitiMO2slmcPoCU__VWHBFWO6euih8kNaFjez1h6qf5P01GsVQ8rS__5PNYu6ifCthXoXIADAx"
+		}
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
+}
