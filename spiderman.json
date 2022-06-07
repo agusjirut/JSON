@@ -1,0 +1,348 @@
+{
+	"Ads": [{
+		"select_main_ads": "",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"native_for_admob": "",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 5,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"name_skin": "Iron Spider-Man/Spiderman/Peter Parker| Tom Holland|Avengers Infinity War| Endgame| Superhero| MCU| Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/-ce1AJCUNGEBNgGhG8ABJu-61cCu1nRm4tSagBzJJ2Nu8h-H6W1uM27WeEybpXoOwqGmAnu6apc2bHCWplVuoyoq1HwJYY_-uuM",
+			"view_skin": "https://lh3.googleusercontent.com/RNf1iLOiin4578CN-ejnH5kuHSd9qrOj3cYFDGjt1cUi0bm1N9i3lbN97KuOnkvSWf31z6t7CZB_E8awcSKbDupsvHJtoSlk2sux"
+		},
+		{
+			"id": 2,
+			"name_skin": "Spiderman/Peter Parker (Spider-Man: No Way Home) Tom Holland, hero, integrated suit, mcu, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/KjJIhD4IW6YV6wE0XwZMS190P4afGtpnc1d-eqniSt3OcXfZYTfzRqPOn0UXWpqPHeNJxx2648s-XPnAd8J_L59ASYcS-wqPlc4",
+			"view_skin": "https://lh3.googleusercontent.com/Wg6Qriu4IBLx-JDkt0KApRbbgka8KVZAUfYW2n_ttAK8ASnTc8MBGCOXJIrJbz_iPwYLGgCS7fVcwZ_AGpeh8F6u-Ve7390okQ"
+		},
+		{
+			"id": 3,
+			"name_skin": "Spiderman/Peter Parker| Tom Holland| Spider Man Homecoming |MCU| Superhero| Movie| Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/KAoenQJU0Xm6LdpnM3I4h1oeL6z_kQXxSGlE00ONC8t4RDPsY5wmfYZL1VaapuZbS4im69s5ufdiXOEE_EHy0pdbBEbx8EdEFsE",
+			"view_skin": "https://lh3.googleusercontent.com/ljdFts6GGDhgUQeR9Zx_7mGQgMTg0SonfrheOMVCiyCaxAhk8I3bx8nYFKd6tYvMQyLPyBobAY6rYjK7UkJ7EYLCAZx2DdvmaA0"
+		},
+		{
+			"id": 4,
+			"name_skin": "Spiderman/Peter Parker |Tom Holland | Spider-Man Far From Home| Superhero| MCU| Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/3bqWEVncd5OJgrpjNx5NH_TdG9jVupEfWMrum-vqeYnpJBS56kjl0UI1c86WJo0pnWWrVygeiv6PYO-2GPNOU168Jc8uEPhSfVE",
+			"view_skin": "https://lh3.googleusercontent.com/Py_GeQgmAqf6Whhfs-jM6QYciDYvw8Hx1T78pt1cJ0g-Lu946fOKAnneyB_eu3_BnwoeIJIsoR-dFoY_KUUaEN2Xvs0hRBdoxJT7"
+		},
+		{
+			"id": 5,
+			"name_skin": "Spiderman/Miles Morales (Spider-Man: Into the Spider-Verse) Superhero, Hero, Spidey, Boy, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/CRhT6LaEMVXtByAWePeC4B6vrOrMK1wPgOK7658j_bAiEDSIryeCtWVcreUFqj2px1hZZo1sjwS4lPtNzkfQ36kcc43nAxb-eBIt",
+			"view_skin": "https://lh3.googleusercontent.com/vz3TDXljfPtEetxMQH7BKBZIe-J-Pvcawp1DZo6dc9jos0WeAn8pkR9WP8OhriCqNsCcZi0mqJDWwn9TssA_67VBQrp8yOj1mw"
+		},
+		{
+			"id": 6,
+			"name_skin": "Spiderman Anti-Ock suit (Spider-Man PS4) hero, black yellow, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/jjwOOetc91tIhYJFLv6UOSgAZ7wlPutnGWTtS3w3WeSUrNEdFFzL3jFTZbPa1lesCe2eEY0vObIFVU02G9hcUHiDwK56h5wt4O8",
+			"view_skin": "https://lh3.googleusercontent.com/gr2mD-vQ8syMsq5b5EFpdtLfjuZVUu14MKREqjTWZ3wP1P1HSwYQEl5Dyxf8urjmGyYY0OW9x0V1MNkGd9qy2QdX8V5NGHmKDio"
+		},
+		{
+			"id": 7,
+			"name_skin": "Anti-Venom (The Amazing Spider-Man) Anti-Hero, Villain, Klyntar, Symbiote, White, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/4QcvqYUIO9MknXUcTkbM0hFN__AemNExlRZ5tBmiYrQv3mOKCH3Nn5_jDSb63LRbcORanDseo6VI8HOCOlqY06gmlpxXCU7gdaA",
+			"view_skin": "https://lh3.googleusercontent.com/279vqqmA14VFqzbF9StJN6MbKgybX5jhuR0_347fU4C2jgB06zgEiR8E9DDi__gZ2PnXjDfMkcLbPDkMm9_ogIM-ZZcQwL3wCJ8"
+		},
+		{
+			"id": 8,
+			"name_skin": "Spiderman Stealth Suit |Tom Holland |Spider-Man Far From Home| Superhero| Black| MCU| Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/GvN0B40xnvVqlsHDbO21UxlYV6LXn_dyQtFg9GEOE-nx4cKnxhhWI8YzIG0zFq3KUujztYRySjhdrqXqAVHBOpzWLih47cKdOA",
+			"view_skin": "https://lh3.googleusercontent.com/DsIqBDbxJ6IH4bLaif2OKQcSVTT4piolqMQQr-_OO6Yr14Uov5ZbY9lLcOQJ4NFb-P7VDd496GXf_kGbMUlhpHIdNSlpkBySOQ"
+		},
+		{
+			"id": 9,
+			"name_skin": "venom&spider man",
+			"skin_url": "https://lh3.googleusercontent.com/C-bjnfo76utLmnjHc4s6yZ4pMOB4PZEmFAEcIw3tZxToKcLPvojZo4BLR1lQipO30ke_9h6-eko9eHoV-Z6M9g",
+			"view_skin": "https://lh3.googleusercontent.com/gjfKgT8RJRkSmafJxJkzGAE-DaB_YDAwFEbf19h1ag0cvptzleBl9cYFKSopAs7GLXS2ecVfusYme6E3CHDfDtk"
+		},
+		{
+			"id": 10,
+			"name_skin": "Spiderman/Miles Morales| Spider-Man Ps5 Game| Superhero| Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/NfM_HvQGisYuDla6gHVx2UwipbRl6I5D8n5eyFKVxXsXFsM5M_TfEV7Un6BaB6nLI2n1MWlp6ukhKoXEtqyLTrCfDCVPRPmw6-I",
+			"view_skin": "https://lh3.googleusercontent.com/S9qorD6_l98GQhB2uBdCb4bJxoxcTc_qvp0f2JMDGARqoz-EopSFb2S50vSVHi0s7EXrbi_-oG3WMuf_Y-ZwdqNjWnRIKRAeH8Q"
+		},
+		{
+			"id": 11,
+			"name_skin": "Spider-Man Ender Mod 1.12.2",
+			"skin_url": "https://lh3.googleusercontent.com/WXN-VLQL-FebgDEvFkjkFUKNrXHyGXqZvX2osQbaW1NmSGdgLseSTqE2iFDHxGklVi_WPHZxcd3xfFswKW-J_A",
+			"view_skin": "https://lh3.googleusercontent.com/Xj7XWXBjwHP80vJLjOVjxRCTzuvWHJ8YHuwV6M2hMh6i0MNSQlcr2Mi7qucGXh3mOEJrEDB0otYj3HasfCONfQ"
+		},
+		{
+			"id": 12,
+			"name_skin": "Spiderman/Peter Parker (Spider-Man PS4 5) Superhero, Hero, Advanced Suit, Spidey, Cool, Red Blue, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/LOpNYnow5cetGBv4GFXvkydZ8UETJggGI6_uRYOsub29NalyuQnbj7FFsgYM0gBDBFzyPoqx3ZlQCWaAfm8Ja8jbVuC9hNDa0A",
+			"view_skin": "https://lh3.googleusercontent.com/srh25aGna5UEVq9Zf7Q7VQT22HIa6LouP37StVq815wxOvK9vBXfrXGs1OKzux3n5Xpxn_qsaOCqCtdGu41u0JMLlxgeDGwpNZs"
+		},
+		{
+			"id": 13,
+			"name_skin": "Spiderman White Suit 2099/Miguel O'Hara |Spider-Man| Superhero| PS4| Game| Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/UOikjgVQwqlQw9Bd-1Pl0rh8wNKfjOWdHRfJcghZDRyzxx3Q2-WJ02Pxm2bXD9awEERUJo7Ij19Sa-u9X6mFGmTe04CGTJRHDq4",
+			"view_skin": "https://lh3.googleusercontent.com/arjpqZG2qPhzpyYrFDXT4Ukpb1P54dFvw2kM6HrgonnI8cokfrDDqBmORf-lhZ_rAWp5TYfuvmF8mafdKW-GDENdZCSWv5P-X3c"
+		},
+		{
+			"id": 14,
+			"name_skin": "Spiderman/Peter Parker| Andrew Garfield| The Amazing Spider Man 2 |Superhero| Movie| Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/IkcDuvP3EyCm-Wsh1EnEHEY1X5iFqA_DKgxr5Wsh_nDwl9jXS4K7aQhINYtU8uEj_99GNc4V1wlP2M5J9rmDWL-xbYoR-pYkXQ",
+			"view_skin": "https://lh3.googleusercontent.com/hOEMneNJsSrfm1crRNzDnofQoPqXEGmdIxJcBmch_WD7yk0Z-aUH6KvoqHUrzSHYlXiFTG4OrHe0wTV_vLPJihnm0oSgzht2ixI"
+		},
+		{
+			"id": 15,
+			"name_skin": "Spiderman/Peter Parker |Tobey Maguire |Spider-Man| Raimi Trilogy| Superhero, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/ECblYyu6faQfZWA62fLmIao7oWAbLgWuhot8zncxSoR9wP0sSN5g3kc7x1e0a87btr8B6tDkI38j5Q_0YumNSe9Ho1J8TE3QgQ",
+			"view_skin": "https://lh3.googleusercontent.com/wncFLn-1gf23MquUY05q6B8oJ_jlrIN9NaCctwv45RKz37Yh3uHe3aSChTq11DggYAz79kCADAF5tDcXVVIKAezOvsRAgrW8d3U"
+		},
+		{
+			"id": 16,
+			"name_skin": "Spider-man spider",
+			"skin_url": "https://lh3.googleusercontent.com/_eKsCkbwekN6GF4z7dgUuyFi607Tv32MjIcxmLhDbSN6pqEbUtTCg2EGG47QHPojiX5rRP4mfpe2iORg0uLD",
+			"view_skin": "https://lh3.googleusercontent.com/rFM8x28cdoCPKulab2T5b3Bf3t03dnlmtLIx86mPqBWzGQ-f5JikOnXKGIB56ylPLHfQoXEgAvZKfq5ZXbbY"
+		},
+		{
+			"id": 17,
+			"name_skin": "iron spider man",
+			"skin_url": "https://lh3.googleusercontent.com/SduQtuU0uW0TRbpfgPz3EjrMd-midkubFw5Zjq6DAfFw78qWkXsRZHjgAAm_RLZ5mZKeJyUlN5n_iAHGfJOCPw",
+			"view_skin": "https://lh3.googleusercontent.com/rb3i4s-TNQtE27RShx2BRgXbmKYC2lB0LT5XeylrOeGtSHECVgadVOvwobk9LJ1lRcuzTcPb3KBU6rIHf1x6PQ"
+		},
+		{
+			"id": 18,
+			"name_skin": "Iron Spider-Man/Spiderman/Peter Parker| Tom Holland|Avengers Infinity War| Endgame| Superhero| MCU| Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/90z4AOz2pp2iX7Xr2nKzMmeNekaubl2Ldr004OVYU0lRYRIkSGTXT9VBhV0Pnpr7bKywUUm94mWAxhUDjJRDCryv8o6VfsY",
+			"view_skin": "https://lh3.googleusercontent.com/qi8czaJgeLLVEmE6hTZ2EMLTZ-psGyS7e627byULUhBF3Amkb1LDhU_NwNlFaVdJun2tdtZK_311LyW5Itp5aZlXsDguunjZKm0"
+		},
+		{
+			"id": 19,
+			"name_skin": "Spiderman 2099/Miguel O'Hara (Spider-Man PS4) hero, spider-man of tomorrow, future, blue red, boy, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/YwH3-Bf0J1woC7ICpUBkBL40H59fc1uGq8-ykbubTLvDE2JLRLW-ln3uGk1I0XwnxS7CrQ6xtQ8s_xrwhvhHwoDdmcPQ5CETf3r_",
+			"view_skin": "https://lh3.googleusercontent.com/Ly53T8cuHarswcA9NqNEJ1SRrNY8xcMkyTDmlYU_Ga74_c-XECl_PIKIiizqoBW3mg4see9GYjXquhH5Z1ZynZP5lBqJwXZe-XQ"
+		},
+		{
+			"id": 20,
+			"name_skin": "Symbiote Spiderman (Spider-Man) Tom Holland, anti-hero, venom, black suit, mcu, Sony, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/5D7O9TS46rVD1XXiAAojR1A0l-WX07KFmLddlM6L2XoeMjlVp18qsxu0TuHtSyOxjOnp4M34z2gaoeP9t5zTG4YaOgv7INv_NkgO",
+			"view_skin": "https://lh3.googleusercontent.com/rlsacUJcU5DTZkcB4RF017xp_VNQRQWkM7gKLD6vaVEaL1Lh7Il0tmsmlxE4XDOo8Tir3IjkJWk-Q0bWuO8H7bhsQmTVB6suwXI"
+		},
+		{
+			"id": 21,
+			"name_skin": "Spiderman/Peter Parker|Andrew Garfield|The Amazing Spider-Man|Superhero| Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/3hRs5F1opxRL_oCI4c1XRc-O0D0h8ZAw54tfS2Wcd86cqExWzCg4q4Fdq4Er09smg-jMv9p1_bUDq-rqoDRb199sCCQ-McfMsQ",
+			"view_skin": "https://lh3.googleusercontent.com/w_X3rkLcrUe1IeszxEq-ikIK68aHfcmXmKdM_sAdX3nL3gMKoeR7Uxb28Ejvaa8YWYPS1nNNRarQuCSnNWOjf9fytAS3mI5w1g"
+		},
+		{
+			"id": 22,
+			"name_skin": "Spiderman Homemade Suit |Tom Holland| (Spider-Man Homecoming) Superhero, MCU| Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/0KlCbO-b3SSJU19z63D8HCiCoD5_Oy-r-ISKKJi_PKqZN_jS-aGpNwwUoYbW2-88VfTrZU-ZUps8h7uNzx8nn7vsqN4XRkuFtDQ",
+			"view_skin": "https://lh3.googleusercontent.com/33sr99odgtbTHtP-yVoA879__wnLT5y249UnvpG029I__2dsO1p9BBDgULEN5_uhuu4acjgxz8tV0ku9n9XhgtlB2Mgq6lfBHg"
+		},
+		{
+			"id": 23,
+			"name_skin": "Spiderman Future Foundation (Spider-Man PS4) hero, white black, boy, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/ojCDw2dfA0SDXVhCkTrf2oo4yD9CWvrHAsG6ILm0dNYFLJcOJUkA-udW326RV0NYPHH9lGZvSH668RyiBHj0xm02aVoOmo1nqayv",
+			"view_skin": "https://lh3.googleusercontent.com/Zd8bqYPnl_kgxKhtLc03NmlYkIfJEAvfQjxsqLnpzx2lgzxrT4goZtxo73reC-ZgWthw1eefdvgOzSG7qXaVnlbXexolxD-iYkt1"
+		},
+		{
+			"id": 24,
+			"name_skin": "Human Spider |Tobey Maguire |Spider-Man| Raimi Trilogy| Superhero, Spiderman, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/B6Z7DXnms7WFykbXDAXYCNXg-bosFZRLmIyvxlHlh9ajO10dGWo3S2r24Da0KNLyNEHZ3sscRScoOYO90t0QVmnbhTGWPyFKj3wH",
+			"view_skin": "https://lh3.googleusercontent.com/DqCXHERhv2DXKPaptgTeHg33Mvzu22rXzzqqoAbRDY3ul2-GFzriyIIgdW6w6z_w3xtGBVGaTsHUtnVJi2woMhNNYGeOlbvChIlE"
+		},
+		{
+			"id": 25,
+			"name_skin": "Spiderman/Peter Parker|Andrew Garfield|The Amazing Spider-Man|Superhero| Movie| Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/70lQfPW1DOKCKr4yzey8Mh4305QfuNQctSeShKfmqqnObnBwI5yKCF_VYzpuD6LbigYUlQKjlBXSu0Jbe37J0Y2RX3NQl2va6w",
+			"view_skin": "https://lh3.googleusercontent.com/ruakPbzCJZfUre3cABbf_wmQOtiyGjZxE0AKyhKqmKu7YGigsTGCgDiFCn5jWEmGoqT6L4l_axTB8tPAU5Wic-mCLY0qk4l-4g"
+		},
+		{
+			"id": 26,
+			"name_skin": "spider man hd",
+			"skin_url": "https://lh3.googleusercontent.com/UJilVBFkQ_lqXfUsvdjwxIyFooI2SVnBAEqUTKQ0HXpTtDUgKMIfGd322achknigJOwTLMV7O92MdhCG3faoqDYJSvWVd8P3PWv4",
+			"view_skin": "https://lh3.googleusercontent.com/LIw9FV7qxzLRO7G2T3hlGLGXbbUwfG3dpcquGMqnOBMTwVRl7V3jwJ7hhJ1wbwfXKw_SvvC7UkEzX1wqNwlUwCzRaGwpxoxJccA"
+		},
+		{
+			"id": 27,
+			"name_skin": "spider man de far form home hd",
+			"skin_url": "https://lh3.googleusercontent.com/-DHTMESgBX6m72qd0Soh0y3MOCQ8Lfa2urbuF-7ZGzaTF959UJiYG2YVuwxKjKdPbnsPO8BQQ8eqHnMyNd19ICekUDW2N5qr1g",
+			"view_skin": "https://lh3.googleusercontent.com/uKVtDI2J79cC3vWVVgL77ZMA44F7-ALs52P7G_ZVa_0HwmmBWT4JBSGl1WC6Elq_SjfoBMBfMbK8JlnAwKglpwgIDpctwAenigI"
+		},
+		{
+			"id": 28,
+			"name_skin": "Spider-Man Skin MCPE",
+			"skin_url": "https://lh3.googleusercontent.com/nLFSFzsoR5tqlDgKIPqILS0_hZd2ukIObS5JcUQSX3vX8KFHEdyMeULfrxzxO7mxgup8hUcDdjD2ELbJMg9p",
+			"view_skin": "https://lh3.googleusercontent.com/tKmiArbBSUwrNxsP1Xz-khvrjas80avlj5Wfk2n6C5JRpe5g5WvlsWGxajKDamCJZcJbEEhHmPOtwHC1t-wUjw"
+		},
+		{
+			"id": 29,
+			"name_skin": "Spiderman/Peter Parker |Spider-Man Homecoming| Tom Holland| Superhero| MCU| Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/MCIVih5mHbG14C4rvfHgFI1NATAoVWgW8lskBd08UC2quryLOVpiRFUO_ab8oF6AofL2yS5LbShQqtxT1dFQP39QDciKTnoBkiY",
+			"view_skin": "https://lh3.googleusercontent.com/QzTYQC0ig8uall62Ean9lwmKPvMERd8HRpsdCcvLSWIvFLofx9quMxfY-x1QyhIWXzvUDXJut5o0GV0D-Wxyx-R0xHTv1DOmia-R"
+		},
+		{
+			"id": 30,
+			"name_skin": "Spiderman/Peter Parker (Spider-Man:No Way Home) Tom Holland, hero, integrated suit, mcu, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/uc0gszOUgL9aqbRfukPBnPa4gTLA0t4xAS_3AFVU7ukJtpai6rUn6A7cI7tPXpq-d-03DcEAWIrBb5ZEWnolTbcFBxFV5NI6-A",
+			"view_skin": "https://lh3.googleusercontent.com/KDhVvdPtJTC18jYEwm3igtjle8NEhYxpaFx174tku6X3aXbV3NJKUvuOElwMmIIJJd-kR3Oo7-QUeccQ9IclYxHzk6n-mW4kjCw"
+		},
+		{
+			"id": 31,
+			"name_skin": "Classic Spiderman (Spider-Man Ps4) hero, spidey, boy, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/FHMNcYSRhoM7THS8bAnJcmRMKkWpe3ERATYKSNghGWXbnYgrmBdAmwSYA0-h9pV91529idUNXQzLi10uHWfZQDVSmBbM4EvNoUw",
+			"view_skin": "https://lh3.googleusercontent.com/PkfzfrQ3LLmnsce7FiufYDiJRLnV4Lw7jXo70Nqo_6FXOxnOm0tCG0p3Ji7aOEDZKyHpJiNJ9vRX4gWfVtu1yVqRjeZ5nnnXqos"
+		},
+		{
+			"id": 32,
+			"name_skin": "spider-man far from home",
+			"skin_url": "https://lh3.googleusercontent.com/x-dZKhLYecOF31psQVKaITc9hUUui0J_Pa77VJsPoGaKq_LClXMC2rT6pOHReHXvNSpJrAhLYOPZi218aFK1bw",
+			"view_skin": "https://lh3.googleusercontent.com/GiOllonA5cbPH66OU9hscbNA8DanP9ObDK4o2UeeX02VE31bECxY8LZMDBzsLh8vV8u0vkM2vEgvpFMLRhay"
+		},
+		{
+			"id": 33,
+			"name_skin": "spider man",
+			"skin_url": "https://lh3.googleusercontent.com/2kkZfRAzRB2s4sdC90jEQJcafBDVLcve-tHuR6ZRsJ3kRHsjRDgztxjbYd64CQPXBz1oT1dheuwlgwK98lb8sA",
+			"view_skin": "https://lh3.googleusercontent.com/uDkr4ofqXgI9IR5tqtNmwsHC5dKjFex9yI0RsLUSzojMCWYBOtpIqP13_8gLoVPWh9uQwKHk1XBK7mvI7fuX"
+		},
+		{
+			"id": 34,
+			"name_skin": "spider-man skin para java",
+			"skin_url": "https://lh3.googleusercontent.com/Rf_iklkohC5d-3imoVT7e0_IaZO7A4QE83dlWeMOHF9g_AVOM2TCMQixEf9fluOBw4SoBOVHbByZn1hz5H83nSQZxuRxGaffDQ",
+			"view_skin": "https://lh3.googleusercontent.com/12x41ihmLksa5N9-GJa56yzeYDkJ16YPpE0HBMMn5IJ1Yd16VwH8tVkaibBgHDB1o_4QHVJ69c8s5bQAPiaSlWlg7xN1-hdla_4"
+		},
+		{
+			"id": 35,
+			"name_skin": "Superior Spiderman/Otto Octavius (The Amazing Spider-Man/Spider-Verse) anti-hero, venom, doctor octopus, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/5WRqAxQOK-_GlMN55U-9eKYc9w0bgfLa7OrJJbLb3c9K4SoAA_VcXfDiDuB2tAwTFP-v-Jzz7bBxiDdGBTX_Ao_p9LKB7OspkTw",
+			"view_skin": "https://lh3.googleusercontent.com/6pU-pk_3Iqwbnlf4bGY3KCqBBhuwR3lGa_TjdYGxzrXunpJqdp3uUi7ctxqIsmGSyf21PdU89KCWkrpN9aKKS-B9w_f3Hb4Ni6I"
+		},
+		{
+			"id": 36,
+			"name_skin": "Spiderman/Peter Parker |Tobey Maguire |Spider-Man 3| Raimi Trilogy| Superhero, Black, Symbiote Suit, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/pu8shWE1bcbZLsz5UJM6pZNOngGgZYPONofzRQ34bW7XqvkAFTnv6kEtnSzOpFPW42WKm2-sYhjCDXfUSWm_qDGY0_aY9jHSTw",
+			"view_skin": "https://lh3.googleusercontent.com/SSmOKsBcacB4YxoCvCrvyeW6n9gzEM3CZ4Cg-uC0KHwTC5S42bbYGVMN9HBNnBS1XgXTTtNTAB6j9w-8J3oPWphBTtKXxm9ep2M"
+		},
+		{
+			"id": 37,
+			"name_skin": "Green Goblin/Norman Osborn |Spider-Man 2002| Villain| Green Meanie| Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/H24tSyCKmzdFQKt1tnMUDMdjc2Hl9eROGTO0NxgDPUyQ_aGK7CrF1_HmDdYIvB4yIuBAv65xFLa8VN1s4vIb7AcJCXP-Nup0XO4",
+			"view_skin": "https://lh3.googleusercontent.com/r3vF_ElDSOhQa9VO2IL4kLBIp1bJFXNMTTsLufE5pl6JjkIXtN4f-CJ5j9eJl_LyWIwkY2cmrcEWh8DF9tFpn05r35S8dS50Ymg"
+		},
+		{
+			"id": 38,
+			"name_skin": "Jeffy Marter / Homem Aranha / Spider-Man /",
+			"skin_url": "https://lh3.googleusercontent.com/zm5uA61X2jVSYY_UpPJoKwVqJd_QP209eyGmw4aAY0CBW1KhbpKwwgQ4V_fGUJ3P6nzWGiPjDO5D4ALAeY6RZg",
+			"view_skin": "https://lh3.googleusercontent.com/3yPuYKy_--abNnIOfQczZuYH43m9ZQPQ_t0vgNpt-sGgtoB5_pH2KNJ-WleVnPBARCpeVQ2GR-2afCOXJ2yY"
+		},
+		{
+			"id": 39,
+			"name_skin": "Halloween Ej Spider Man",
+			"skin_url": "https://lh3.googleusercontent.com/K7Z1UKh4IZaW_BIAJxshOrlBcU7Ne8fsveO5_oj6kVYyp1-mDYomSd-Ntu4lHTRFdueo0TWwTKBCH5jr2hXMEw",
+			"view_skin": "https://lh3.googleusercontent.com/zTRKB6EL-lquhV13fL8hKgn3OMudg11rSwSy0Uf8eRw6n2Pdgkyd8Px9SVJQ2UtU2eZMufH03bQzw4qAIdYzc_I"
+		},
+		{
+			"id": 40,
+			"name_skin": "Scarlet Spider/Ben Reilly (Amazing Spider-Man) hero, spiderman, red, boy, hoodie vest, web shooter, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/nW43fknCOE83t7yge8Xq-GQcuRXvEhWo9qv1gJ533yspItsrPuEnpiSUGsQM0OfyXbM0lO0vL3zMbIjMBd5ZQfauE-EHYU_FDaw",
+			"view_skin": "https://lh3.googleusercontent.com/6HHor9Ee3fALNhyh59JY0wc4gD75jditJmdtTv1TL54PVy7CwckaKyICe4TdA4AM9Q2-rdoGnIYFQioTPY_Scz5gItqdWaCHEh8"
+		},
+		{
+			"id": 41,
+			"name_skin": "biometal iron spider man G.I.A",
+			"skin_url": "https://lh3.googleusercontent.com/3hels98sLGVEELmAqHaFElh6vSTmFVay-jk0ZF0fmxy7uVnEbUcGpAF_V6BqEkZixvcfjc63mYQVscviVdvP",
+			"view_skin": "https://lh3.googleusercontent.com/mKBj4SVPGGK1gkvdmdSeRvKg6BoaJhUdDV5z15N4LmFbSIvpgO9TkvJAszg4nB6KOcVhGyi9BQRTx-6dFb3QHrw"
+		},
+		{
+			"id": 42,
+			"name_skin": "Spider-Man suit",
+			"skin_url": "https://lh3.googleusercontent.com/MGmOiSbQrMliRVZWsuhAwSfNEHDVFJGWACZ0bNpbsIqhTFt4mJCUe3TQ3WS2MuUwmcEpDdWSiRdBle1WGlN3",
+			"view_skin": "https://lh3.googleusercontent.com/UDkLMtPscpxEVgMzq-mEtKJfVjtxMyEzrOerr9RhVDHRB3pGkbzJxTwbjfselOsX4QdL_ycjDmtC8cLsdVHs"
+		},
+		{
+			"id": 43,
+			"name_skin": "Spider man",
+			"skin_url": "https://lh3.googleusercontent.com/WFKKuoOIGCZyapqRbgShSye-v6G5JiFqMOO8p891sj1UgD4OjlpT39L_DTQCi_wEgfF14B1l8E2lyJWPyLeOvQ",
+			"view_skin": "https://lh3.googleusercontent.com/pq8jR95EYCcYtineIiILF71Gf6CPkmOpuk47crZT-IgIEnyRggys-59ilhX4BvNYQt3MvEAvzFjhSXsHdrR6"
+		},
+		{
+			"id": 44,
+			"name_skin": "Vulture/Adrian Toomes (Spider-Man Homecoming) villain, big bird, boss, guy with wings, MCU, Marvel Studios",
+			"skin_url": "https://lh3.googleusercontent.com/VHzC3G9hkz8ZI5UGMTo1TJG6kL9fkCuKvvGJS5Wo5YLlvcufBZtkdJN5t24vI3G5HtGxi-Oef8dNzjYrtVCQh1jhBNV9xHGsuQ",
+			"view_skin": "https://lh3.googleusercontent.com/8hsln6sKNXYI7UI17Y1tUlZbPsuMfYvvt0aL_ErNx6qSBhM9H6Aq_EiNNM-OgTqxz2dltho4B1DgdA0DjLIUhkdnckwMUds8YMc"
+		},
+		{
+			"id": 45,
+			"name_skin": "Spider man black and red suit",
+			"skin_url": "https://lh3.googleusercontent.com/Yeq_5sqM3cWCdMsMaGNlYTf98teQBcdtOOZPz1Nbs0jmeV5cLFYYg6KTInM1qbvEwK9zFurNLIINZVFdEFC_VA",
+			"view_skin": "https://lh3.googleusercontent.com/ayh3OQYe8qkJOMBtKi4SLCxRRHUf4vwEGrMOWcnsuCJIo-CwGlvgV6YXG_LVwwvWd9QyyvRq_AqMAlBxoEUN0Is"
+		},
+		{
+			"id": 46,
+			"name_skin": "tsuwa spider man ultimeite",
+			"skin_url": "https://lh3.googleusercontent.com/dIwl2qk0XJ2kzNlXGOBZJD1yhyBPmLxclF3HGcwhVrRY-wCDjUb4WD8xjL5L_yo_GUSq1MB5XlItMA9QuYSnNA",
+			"view_skin": "https://lh3.googleusercontent.com/dUK4Cyq5h8moKu2veTgP8SUP4ZIckI4fZA27jxT-LxjpK3rxk8Veb8p3xwga0EDCS7r2osxOzdPUqq5k-6Uvbg"
+		},
+		{
+			"id": 47,
+			"name_skin": "spider-man spider man spiderman ps4 version",
+			"skin_url": "https://lh3.googleusercontent.com/8XbqqGOYCFPapVuqBs3GJECCpLvGx_rFt93ZUQPTC3vYxK9Y8Z3sQ_tBlTo24RR2Hft9uAEC_rJrnmPNh_YQd-Y",
+			"view_skin": "https://lh3.googleusercontent.com/tR62p5ZMxZR2EXRnm5UngPxifu4WJ8nB_030tag7Zvkw8i6GUVZqjtGOHhNLn98SY4__Kg3-uDNVT02xSqlA"
+		},
+		{
+			"id": 48,
+			"name_skin": "Black Cat/Felicia Hardy (Spider-Man PS4) anti-heroine, villain, white hair, cute, sweet, pretty, girl, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/2yybGkGHDccy2VtnMk7C5ipOyo6fLP6ec0eAAZBTEupv8IqiVQ185xq1fOjFQQ57ICud-c5PPK7P-SvIuMJHFbXjQUXvklsFTc1s",
+			"view_skin": "https://lh3.googleusercontent.com/2r_1pnmE-TzxD4OmFeBj883lhj5NOBy1hvqwpQRi5xodN2yrrJcWX7ElxeQXsQOny1fVPsCMdmbu0kSF1e9JJauisd5mKLrz8ydh"
+		},
+		{
+			"id": 49,
+			"name_skin": "New Goblin/Harry Osborn (Spider-Man 3) Raimi, villain, green, Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/MZaqW7EGVkoTgcp6u_u6eoWDxjJdGtQLgZun-bHBTM_Osp4XPDWNoB98vixd8Wa9iB2EVP-6cy8Hc6cjptLZ3rc8Zd0KiqOZsn8",
+			"view_skin": "https://lh3.googleusercontent.com/OZuNS-djAGjTn-JNg82uXx0fLpKzwQwWaJlKY1iVWSWsOkH3cfKzjUC7lhj3YcSvd7VjxiDeVXiClWSFrxFaPc_TLLLGuQBpZII"
+		},
+		{
+			"id": 50,
+			"name_skin": "SpiderMan 2099 (Spider-Man 2000)",
+			"skin_url": "https://lh3.googleusercontent.com/9iqF_1dLCRGDjoOhlhghVP3PONDFPcP66773kGDiKIOf7xyXvy6XYgxJNWjDtbqpz3acLWRHg0Ish07MWOku7Q",
+			"view_skin": "https://lh3.googleusercontent.com/BVZyJwxT55ITUljuUfMwstOiJSIERml53yvs8qa2YyL7Y-ycRpmEbOztFP6kJ-KndSX2LeBHJEY_winglF4X"
+		},
+		{
+			"id": 51,
+			"name_skin": "Spiderman/Peter Parker| Andrew Garfield| The Amazing Spider Man 2 |Superhero| Movie| Marvel",
+			"skin_url": "https://lh3.googleusercontent.com/8BXM-kpBgE5FDLLt-o86QWPfR98WfARHHbkA9AmaK1QjMxOHUgrpvi84hW5-y8RH2uTqrtH7_OPjry1KcpDSG1PNf1WIcBWFNU8",
+			"view_skin": "https://lh3.googleusercontent.com/Szz7T6Fwf1xvBBDfpky_pEEBK8AOVdYUdrqSC8MgKmxIjfWx87eHgco9DlB3kKHnFr4VZcGOgukEkb7QRenmppbkaA-9w-Qbvnc"
+		}
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
+}
