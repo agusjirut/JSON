@@ -1,0 +1,348 @@
+{
+	"Ads": [{
+		"select_main_ads": "",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"native_for_admob": "",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 5,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"name_skin": "The Incredible Hulk",
+			"skin_url": "https://lh3.googleusercontent.com/pT9WwW7cpV3L__hpK6TWV-bh-JmJy-IPH1r7nez2mElG_tjT_3LrtwXcoikR2djzzEPoSWOM2BOPpnfbV8oYGWo",
+			"view_skin": "https://lh3.googleusercontent.com/emUQXCaaS8EzK-tmqpJVVJhLwi6oxUCB8EVWynIna1qu8Fq8_D6BGHnT6nj9XLVD9m5P8bXw_2BdEmepdUsvS3g"
+		},
+		{
+			"id": 2,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/yay2vGR_YMNMhhK9RURKKm2B3FkeEQuGgrUXXyXty9zgO1069nXrE-rvW--l-AgmhBS5Z3PWjTXLytSbZpt06Q",
+			"view_skin": "https://lh3.googleusercontent.com/bIo11vCTmzNBE_FixQ8abTTi7rTkxKWwD4msaaj0MxAZZoXXIY89mecz020fhrM5ho706t6sRhLGdI6RgkPZmB0"
+		},
+		{
+			"id": 3,
+			"name_skin": "The Hulk",
+			"skin_url": "https://lh3.googleusercontent.com/7yZA9_acJmYeL4XW31c3tL3AK0aoeJHoE3sAgiYBqk7Lca2MoOtMEaFaS9mJCqXzWjiO4t07caVMxYO7KJy9fYY",
+			"view_skin": "https://lh3.googleusercontent.com/CFwMOUpa8fd6e1tDkVHs368tDzTvH6PilfShsZBGTjXj_MC3gWvGv9iS2brAmN6JVmc7S0xxEWDcQR0_emiqsw"
+		},
+		{
+			"id": 4,
+			"name_skin": "IronMan mark85 hulk baster",
+			"skin_url": "https://lh3.googleusercontent.com/9dLgRCVd6EPzJq-q1w1pgwz4TtQeD_3eLZc9zYI9A9w_UtrTTU5Xe8zq60NvrMdjftsUCbnpElF7DPt1fTZW7A",
+			"view_skin": "https://lh3.googleusercontent.com/1EWuMyYpD9ljTWf7BlSVAz8paSMu-sPgmbx591lJcjlAuxWBSOFRI_EUvNtgh8A25KCJoDs1Z809XvMxjJw7"
+		},
+		{
+			"id": 5,
+			"name_skin": "Hulk (Marvel Avengers",
+			"skin_url": "https://lh3.googleusercontent.com/1pEa2dxxB7vTSX2x82P4Me4c_FBNwLdziT_WYtdqKutm44SrIpxCmt3ip9y7ZkxBFr1W0YV9czeF2GxF31Cx",
+			"view_skin": "https://lh3.googleusercontent.com/3yt4Ikd510x0TxP4nJ1PSVxAf3Pp2vcgazpSPGEvdY5i69BVw2HAFMOkOOzpljDP7afNG1sA9ZAyu8y0Ep__ZQ"
+		},
+		{
+			"id": 6,
+			"name_skin": "Red Hulk",
+			"skin_url": "https://lh3.googleusercontent.com/Z-ivnDkquuL136c3y0XFMVtFZc8o1L2e6cpVCHFY1_6kMTnKBwdrtgldC8BmYsRxmdcXkbAFXxDFrIY030ruLyY",
+			"view_skin": "https://lh3.googleusercontent.com/MPFIon_LkPToo3vN8v7oZbjRnKYFPpzmJcfnAZ5EXc1M_QYFcZP035Sw-IYtOZXGNDzFT3Zt7qWHt8yNxmxxcFaWCgHWBe2oMdo"
+		},
+		{
+			"id": 7,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/MNz8F8AgCPfg0hi_32SvNlxI4l-i7D_Ckxs5uMT69ZVLpduI-_TsrJTu7QfywC5tKO6Dn9W7gU9H6TE1zUxIG3cacIBfGEErLQ",
+			"view_skin": "https://lh3.googleusercontent.com/Nj9Rh8h_bgsSWhoraT-KArA529MfoaFFiMSIWeCW7Ec2goGIXWIuULlUJOYKUbnTOF3b1mpMW3U1DBY3s6Rff-PvKUmoUTVELLg"
+		},
+		{
+			"id": 8,
+			"name_skin": "Hulk Avengers",
+			"skin_url": "https://lh3.googleusercontent.com/yBwrNhF8fqH8IRgmgBo61n0ypcl6wvDRSnhyLVlQoNyzA03H4OScAPtvnERgPeF-bCS3IcvjjeGmStbN5twQfQ",
+			"view_skin": "https://lh3.googleusercontent.com/7Ch5XVX9rTfLuwnua6_qIk_xcuCnjkxWVKuZcofhMF9WXI5MLV16IlJnMh0HO6vFYpSON_MDqD6IMDVqlIwsxAo"
+		},
+		{
+			"id": 9,
+			"name_skin": "Hulk Rojo xDDDDD",
+			"skin_url": "https://lh3.googleusercontent.com/Zab6CDm5eQvTXj9ajAGbfDQBiKlIh2wBwha4ZcbbV3xCI9lX6XQXhSh4MS9s7XROrsOz7PVx9vkrbd_ns6tw",
+			"view_skin": "https://lh3.googleusercontent.com/pCK1ymMFFICIp9TSS4-1eVuHeM2pab0dAV-XZh3fmed23Ndf0kpVnxA1VouNEUmv70DK4Po7T0FMkeOr36HdOoE"
+		},
+		{
+			"id": 10,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/RXTFEKG4PsxPtp2yekE516_3qj-msNsfnbdbiJSyndWJ6zzJso1Zjq-xSMacRIVmcLkQMKwxnKY2qgJ8eBhnJQ",
+			"view_skin": "https://lh3.googleusercontent.com/gim8bShtuHCRw3G2LM9u9YuUkGd_zKRvMBTG8XPiVKXEZue2nhuXHXfTBSI7PfgL6C-zFeAvfo2MbAIsO9tx"
+		},
+		{
+			"id": 11,
+			"name_skin": "Hulk",
+			"skin_url": "https://lh3.googleusercontent.com/EeK32NRXGpqShak0KybFXk3aIi0fQ1WdZDhg0Zi6hnP6AADqqbLvDTIR0LHTyzKpRjUSk3wvPFiBE7TepU1pRfA",
+			"view_skin": "https://lh3.googleusercontent.com/g5mrdKf9Iyr7jnkTlELuw56DLGB4cWJYuHifq4XeyJk2HO5vIS37RlYwv5j7WuL8KB3GnWfuwMmaLd5HlG0U5pU"
+		},
+		{
+			"id": 12,
+			"name_skin": "hulk skinpack heroi",
+			"skin_url": "https://lh3.googleusercontent.com/oEmxBBxGqGCcG0Zh3Sn7i53btbW2b_uL_qm6OQ94I9lUsVtV5MleBIvZWDG3rmUb1QuyWSZNWVe-0qSVUKZZibzrhQaJHHMm3rQ",
+			"view_skin": "https://lh3.googleusercontent.com/E0sVqoNDrqV79nZrxg9Gx9vkCEXL8CtcdhobC9diNKNcQKUly9ORYJq6RWDweLWTJITVZ78KkttEdGA6g6SqK5RvnflHAUMJciCr"
+		},
+		{
+			"id": 13,
+			"name_skin": "Hulk",
+			"skin_url": "https://lh3.googleusercontent.com/X-sdMYbMSH77-hD3m1ekuwT9A4f1BTB3tzFVZffgPfQHCtjTpUjVGQW7UMpSvyN16dOB8_GFjdRM5gYO8Xe2OiUHR5yHsaMsng",
+			"view_skin": "https://lh3.googleusercontent.com/A5BXA9K1rYIoWr7aqqNY6BLxVXJPRaHn7SlVXJ37YvwDZYIM6SANxGm1MxxnM8pSWIJ4PFc1NgIJZ_ZxUW-VdwZee1HiopQUAB82"
+		},
+		{
+			"id": 14,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/RWPgmz5UqAtQu8lcU5GwmU6-z-NWyIOzDT7HE-RCsgfusUxbo9-D7JH1PJoVb_U5ab27SOWCuGd2YfcZ9I8iRQ",
+			"view_skin": "https://lh3.googleusercontent.com/0NM-yoQr_5jAK3W9HlAfLzWCeoFVorKl5BLqz3BVa-o0eFyblfNGqu82nLhdA53-N1NeWDslbpfksZWxBzIqGQ"
+		},
+		{
+			"id": 15,
+			"name_skin": "hulk esmaga",
+			"skin_url": "https://lh3.googleusercontent.com/Pc-PmFx-qlUOmpHQi3tbeznM1Xm5PteQo7jRTR5eujL6l2w0BYVTX_oq6C1khFm9rbSymZaQDfMD2yYafRXauQ",
+			"view_skin": "https://lh3.googleusercontent.com/fekMbQo3FPSpSWOJFQ08AXS77Jbd7IwhFOuNNckX6HCE4456DXDdJlKfhLrEjIoTdSPe_SgH12OXH21jQ1y-qg"
+		},
+		{
+			"id": 16,
+			"name_skin": "VINICIUS hulk",
+			"skin_url": "https://lh3.googleusercontent.com/7yZA9_acJmYeL4XW31c3tL3AK0aoeJHoE3sAgiYBqk7Lca2MoOtMEaFaS9mJCqXzWjiO4t07caVMxYO7KJy9fYY",
+			"view_skin": "https://lh3.googleusercontent.com/aHCXZs27XQqAD8JcJxSDpJMlruS2LutObYMh47--ucVagqjTrglB6k_Ve1KVfwCTWnQc91jFPRQcYJEP6aKOcz6KCAYnxxJOX9gj"
+		},
+		{
+			"id": 17,
+			"name_skin": "hulk (guerra infinity vingadores)",
+			"skin_url": "https://lh3.googleusercontent.com/2VpB1AnAjqFT2TovkS9PFh3mW9PTr0kT6Ia_sqpImTmB6t06jwDoiJbMQdg2FDHJup-9jcOtdBTFUjny6XOFjA",
+			"view_skin": "https://lh3.googleusercontent.com/1Bwl-DKGeB7K04Uo8T-er9KpUhAMtnSL3kzIbWbvxpv93RoFYTzONAGkRfB4y0voHBlW3AisUxJrnTmSrujddQ"
+		},
+		{
+			"id": 18,
+			"name_skin": "hulk from the incredible hulk in marvel frist 10 years",
+			"skin_url": "https://lh3.googleusercontent.com/pBwELO1jImbXFZcPWwVT_I2UX1F5DZwKKyWyjx5q-dzODCebDdm5vK1RJUt6xAT3VpIG04-SMzuBsNNkRb-AKw",
+			"view_skin": "https://lh3.googleusercontent.com/zkEkVCgYXxLieG-H_5uzqiEFNz15H7d6kY_J_i6bZ9FC6DyBy-lZSVRmQQKFIq7WsMkHVxfZdECmJEi8FvheheM"
+		},
+		{
+			"id": 19,
+			"name_skin": "Red Hulk",
+			"skin_url": "https://lh3.googleusercontent.com/Z-ivnDkquuL136c3y0XFMVtFZc8o1L2e6cpVCHFY1_6kMTnKBwdrtgldC8BmYsRxmdcXkbAFXxDFrIY030ruLyY",
+			"view_skin": "https://lh3.googleusercontent.com/P4NylyRCatU_nMe3QaJXL3uGL-WvS5k2LcFV93UBuudViO267YIUHWPNb8aPHfbVeRQ3ZDf10hBYEAN85DvhcA"
+		},
+		{
+			"id": 20,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/5Dhn-PSnRTk71sTTPKv0Lv8fCmtOwwY5MtcVD-ylz7x6ZcxE6qDR_tHZ6jfinJ7QZ9VkMUsSgTurUUOeJtbc4hUc9XzQWVOPH5-b",
+			"view_skin": "https://lh3.googleusercontent.com/JHVO9j5__deIBDpvRtXOR2xhcRHEyAv9oMwa6FDOdkXn8Z54PjJJlBkkfkykr-SYQBq9igKQo3iH9ykS2cN4Oo_0nLTVtpB7HDU"
+		},
+		{
+			"id": 21,
+			"name_skin": "Skins Hulk",
+			"skin_url": "https://lh3.googleusercontent.com/VU58-t3b8Ox_gc7ENeHhkT3A3hrSBEi0DlPpTORiq5rUWLTIFH-Lri3euet1xZESZGbPabBqA-Td84xuM_RfGA",
+			"view_skin": "https://lh3.googleusercontent.com/EDSNCz7zE_sodEXCywBCSuxtCj9lnFbAvdCoAWlnbs1repUbY3Ohnr_yePMBVjziafybv2p4o_7Fv5TwZl6oxmUMdr7wWpiEfc8y"
+		},
+		{
+			"id": 22,
+			"name_skin": "Compound Hulk",
+			"skin_url": "https://lh3.googleusercontent.com/DcezhFYkUhkd8IwSIibQbXWU33k6eUI8xzQvP5pRDDh9_7jMVDfad4xjIKde_NCcx3rNSbMzDZt-g1EhZSmjJyGrIOPL-msGU8Q",
+			"view_skin": "https://lh3.googleusercontent.com/C5XI0bhxV1k-JVRkx7efaGhZzTOWj8VnEb_W1MvU7A6HxsUEYVw6TXbD-bvY5Ltu4RM5dDjtvviXlYFZCrCICtcdKw9RMF71vis"
+		},
+		{
+			"id": 23,
+			"name_skin": "zombie hulk mutant",
+			"skin_url": "https://lh5.ggpht.com/VBty5crfuownljegCbEQQu5uKvWDfYa6i2nAPbeqljuubhjf9DNsUiQcfjE-5B3vT_6dYNkOECyIWMSh77jARjU",
+			"view_skin": "https://lh3.googleusercontent.com/RGuzrVLTdCYuXp7pbpxBB1Zl2nboQ7HUMF84uMBfxYPbFZzVT_NW7VUp8U00a2NBpQu2W11qgsaUtN-4nuaEUQ"
+		},
+		{
+			"id": 24,
+			"name_skin": "Skin minecraft hulk.",
+			"skin_url": "https://lh3.googleusercontent.com/7yZA9_acJmYeL4XW31c3tL3AK0aoeJHoE3sAgiYBqk7Lca2MoOtMEaFaS9mJCqXzWjiO4t07caVMxYO7KJy9fYY",
+			"view_skin": "https://lh3.googleusercontent.com/Sc9CYV-VAdI88ZT2rDqk_LoyKwDNk0IVcaT34Y7Ty4VU01sufMxY5I_kKlZybCSvCM-Yl2zW_alAJPHIcfGA7lp7qyct6rXI6js"
+		},
+		{
+			"id": 25,
+			"name_skin": "SHE HULK CALZON CHINO",
+			"skin_url": "https://lh3.googleusercontent.com/D4Fe5HO0NogZASGlN7kqkhmDSAcSJKM64Re43GLYRRfImvR-xiGE8XI-tdLe5nlLo5HF2YwAmSx7KdpQdIvJRny-YhTCosXfzvI",
+			"view_skin": "https://lh3.googleusercontent.com/h9Kt7Mk9l-kJXQsbs8zhBDrVAfkZRBIkIjSUWfmg96XV7gp6H3pXXFn89B18Sr6z7xkNsa-BY7t0jNSwP2LU_wiYkbluUf7DTW8"
+		},
+		{
+			"id": 26,
+			"name_skin": "hulk para o vingadores minecraft",
+			"skin_url": "https://lh3.googleusercontent.com/1EohzR7zM_KOorCIcd6tL_CKE4dGHYEznRNERBxqLhajX53eG37tiwmzPobYEhCvV7y4fRiCoVyCloodcoWRkMo",
+			"view_skin": "https://lh3.googleusercontent.com/EZu8myi6DGuaGDIXNyeFPMfFSClBV8if8NcHarSriGowJAa8rHYLvN0aEADTZnmLntMAra-0eXIEg53w9uZU8A"
+		},
+		{
+			"id": 27,
+			"name_skin": "Red Hulk",
+			"skin_url": "https://lh3.googleusercontent.com/kfRdwJWhk21jRsjNTGAG0BhQWEtGf2zuKWomIImJdqluJ4JDPHOronfuFdrkwmtx35nfivDMuH-YbrqemKfDt2Esl_t1gENPWiQ",
+			"view_skin": "https://lh3.googleusercontent.com/8q20qJTbI98DXSenap6FZ_95fKc3RGlG4yCB8d66oxJ4UntA0JNDonscwJKirhBTnVwQv8FyiyrxlzSNXHBu0LM0DIWBt141s5rR"
+		},
+		{
+			"id": 28,
+			"name_skin": "Hulk Br",
+			"skin_url": "https://lh3.googleusercontent.com/DcCnSpEOuScMrtJcxo1uqQZ-6EOpx3tFzihI_cZl0WKJTbf-qbIc31rLVEK33FQUmASdkZ84tdd-DQkVAK_TVbc",
+			"view_skin": "https://lh3.googleusercontent.com/vYxo39T8Fq9hUGv75c5QYOwrerEhTQV7WfhkFw-KmoV_kGwPJhmUncfR2R7CaXbB_hlEfkawrBywOREjNM926oih07da0Vu3f5I"
+		},
+		{
+			"id": 29,
+			"name_skin": "red hulk",
+			"skin_url": "https://lh3.googleusercontent.com/EDTJFvMsDRPPHUhYmxQgqI370LdinkxBcNXOB7uVyeL9sUR2kFfDt4TOeCVhQ9NnADbP1rDLvbclRUlx2JFS",
+			"view_skin": "https://lh3.googleusercontent.com/k9sq6S_qYULS1FKWcfDqJce2AEi6NYPcOL5B4ltV7H5UddOPQ1G9H3E-472SSX18EDIyiwhTMxg8s-SIK75V"
+		},
+		{
+			"id": 30,
+			"name_skin": "The INMINABLE HULK",
+			"skin_url": "https://lh4.ggpht.com/GdIMMVPXFShCwJtHbPhCxvCfSPFKY8fBqf-0stel6XEvC-R5P0htwe4wtij2XU0VYCju86De7Hj8RGdM5kSC5w",
+			"view_skin": "https://lh3.googleusercontent.com/hojhweYOBazbs61m1bK1x04yies84q2cHWIRJZ565vDAzQ6laxh9kvDDi_1xL39Xc_AjZ6nNZEMQI35kqwErMg"
+		},
+		{
+			"id": 31,
+			"name_skin": "Hulk vermelho",
+			"skin_url": "https://lh3.googleusercontent.com/Z9uduTQhJGkSgv0smgcMWpFlodUNE4p-P9mWFc_iyS56s3v3Ri50852F0JWtogaco6FJC01_K_NyLHF2PMcP",
+			"view_skin": "https://lh3.googleusercontent.com/RkjsKWjM48ZBrRg1HIl63PrBplRTUtyrFAcfQNn4cyqjhjhqHZhRxAUAKTdCYS--M8OdcLAJZZYHT0x7_bA-3CM"
+		},
+		{
+			"id": 32,
+			"name_skin": "hulk (avengers infinity war)",
+			"skin_url": "https://lh3.googleusercontent.com/mpiKj4mkNvw3ce3LzXv4IPQIEc2427QNy-bT6SpmlpXf7__dMvAD4BB_PDxNMzDHGyGsTjJDJqY-rtSAu8Nt5g",
+			"view_skin": "https://lh3.googleusercontent.com/PeFyfOfw-NhZcgP0DFiHri-s27V_jqVAaDG8_QmyouOTnaeD5iN5WUOUgwXTY8umBZM5e91nsNs6Ckf6oargTg"
+		},
+		{
+			"id": 33,
+			"name_skin": "RED HULk",
+			"skin_url": "https://lh3.googleusercontent.com/pI0KvVbGEQ3AzIoFpjEqjYI88ZRxtFPGFhF7iOqYCO-mDSf7YvgxLo61NPSNDL_tuNAF6CnDQVLhf3MceewMAYWPPQDDgLzD-hw",
+			"view_skin": "https://lh3.googleusercontent.com/zrJQXoDtn5QMoqa5K6uVLBYX0heJI8rR6eWNucpX1DzQ1tkJOMWu6iXB4Q79CGODYdUgd0PN8FklJ6Z0X9HUaidSpcB6xqqL4IXx"
+		},
+		{
+			"id": 34,
+			"name_skin": "she hulk",
+			"skin_url": "https://lh3.googleusercontent.com/rt3uq6FITCf6dj2Y8fVlvDBEpP0-f9L08F2Zmm4KSwxTxva90-RLGkXprzOo_bcKDg0M9Rc5s66moWBOP6mbsw",
+			"view_skin": "https://lh3.googleusercontent.com/eE5_id0VXmZpme5SsbqzYE-C0MlVmFvX-bUsBbjonTOYvj1pe8GT7PF9ZaTq48_Qea04aL7AaRljBhGGPfYLqyiNHOZRpb-n-lfR"
+		},
+		{
+			"id": 35,
+			"name_skin": "ano hulk",
+			"skin_url": "https://lh3.googleusercontent.com/amxzQ4Qu3TJmzspnNUbzyaeXmtCMleZ7jx4uIyl3D1qMdf5lqcqpSJNd9Brlld9EDQuApniDgtuVOHV69DV9_yNd8vmZ88E1r_8",
+			"view_skin": "https://lh3.googleusercontent.com/PRcfyLZ35fPdfG3zfne261tN1ulu3U7Si9ebPCPUciAOpJEr0prXfpy7nDp3gtk1llOGvjUvB_OXCxf1Yi5DWyDRWAOsHIlzt-X1"
+		},
+		{
+			"id": 36,
+			"name_skin": "Hulk mod no cap",
+			"skin_url": "https://lh3.googleusercontent.com/JS5UeVrWXV5zdMwWctP749X4QR_9txnBl3IKX4GU22O3DTnpW7r_mNztK-fKmmOWi1FuABqcQk1srk_Ot8m6u5ZaLHH1GXu2bQ",
+			"view_skin": "https://lh3.googleusercontent.com/PY9uHOaU2nTv2IWmANHhM8I4_mbWwnZYXiDcwXgUjz7mUNYRR9CkFTpLl6YnuKawJegxYfqXrMf-xmfGzPyCRBcC-yw4wRyBSLK5"
+		},
+		{
+			"id": 37,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/pXQvD9uScy2qHig3avLjlftLdRrNMApkhLagPWu8j4TIvgoV9czFkBpgeiwROh4IogWk4Pdtx-njqcJXzMGWlH8Z66hLGUc7JWQ",
+			"view_skin": "https://lh3.googleusercontent.com/eFhgiNx0cUSCmyCLQbCF16zs1RO5yxSsgHTw0mTML4v-4eWCF0Yt3Pp0HkkFAMTctEpmnRfqYRH4f3XECAqSp5rU4AODqVn-oWs"
+		},
+		{
+			"id": 38,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/tFkLXwLwPEH2JmA_kZ02sNv9TqkBxfOdkYUmbDClMR_O5lstACH5DgZ9w4nq_GFRksZES4j8HpqVO_tFcLSxHs21Mh-gRMjk6JY",
+			"view_skin": "https://lh3.googleusercontent.com/wvZ3FHxSUya5nlPXHTUtIAIb6QJnRPbrf8euGB2HtCFKZhFxu-tb6P_lSJSmkdVlVeswXaxoibQrrABA28iJb7XqC6thooRn2O5e"
+		},
+		{
+			"id": 39,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/-ft2skILrCSzV-cP4NpFjMIuZ-GCwXipv4WmJsBntQR2S0tF60mH9vqTYGjen2ovo5zU-bpfW8O3zH5scY835ioH5fn0CTUE9Zg",
+			"view_skin": "https://lh3.googleusercontent.com/SWZGrOPdg-CNt-UtNdG5LpcPUAKqA4rm34TGC8-Qf_V8l7oUEC0X5iJVZTzkJhIE60BDZHCkr5IaLqZKKl7-LxcblhbeERXN1Vo"
+		},
+		{
+			"id": 40,
+			"name_skin": "PANPAN1 HULK",
+			"skin_url": "https://lh3.googleusercontent.com/eK8ZzlJSmTLRZEUWqFCU-Sz2iiG6-jxwVJqqfx_E9zg2ED1aoEUEQs99LUd6ZHRKc5Mo8nUiIjOTHVPPO9_LuDj_YKr4TETxCkTt",
+			"view_skin": "https://lh3.googleusercontent.com/Qg5laB5FigxdXCc7WLL6oYFgyM6f7HZ6lBPSwLyQU-VUhrqnCMHYrbzo7SYp8Y60forjWzgGox9P1MwzumMHFGzGKQ9Nrb8cnAg"
+		},
+		{
+			"id": 41,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/Pc-PmFx-qlUOmpHQi3tbeznM1Xm5PteQo7jRTR5eujL6l2w0BYVTX_oq6C1khFm9rbSymZaQDfMD2yYafRXauQ",
+			"view_skin": "https://lh3.googleusercontent.com/39gyeS7vLyZdxBWLpoD27Qps-Vtp1-Mq4M_6yl0-rTL_aB2b1DMGT9WN21rp8bZOEsJuT40OQjamHzXRMhSAeqDVqX9c2u_6s6_6"
+		},
+		{
+			"id": 42,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/8UKtFnts2MWayn1WdKbnLJ3b_2m9HlkxO3dRHuvG53agQ5JZJGlRtmA50VCPSqQc9zqhsvxNcXmIiTWkijUTw1A",
+			"view_skin": "https://lh3.googleusercontent.com/dxS0MlQP533x8smL4Oky0Uati_jUHovogCde6Qm-l-ejclYU3a1k0c8QPifMsH8uDN2ejvnIRu0zFYwpeBw9wYBk1FGIIv2WEK4"
+		},
+		{
+			"id": 43,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/yWNwaIBSEBQRfURvB7KkSjXodBEmMiRYKMtdw4Tq2IibQ-Pu-rWW1Jh9mOWaGnlR21EuTtYf319YXtEPYntM_O0_VVHjRe6qsA_H",
+			"view_skin": "https://lh3.googleusercontent.com/ZxUlgwFUpGJCZ7XerxSKzwmeBM5u4jXS21U_usmYjqSx4Vp4K935EnLTSRuyOja9fAZqcc6200uNjrwwW8oKWE95YkdSEJ0fbc4"
+		},
+		{
+			"id": 44,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/yWNwaIBSEBQRfURvB7KkSjXodBEmMiRYKMtdw4Tq2IibQ-Pu-rWW1Jh9mOWaGnlR21EuTtYf319YXtEPYntM_O0_VVHjRe6qsA_H",
+			"view_skin": "https://lh3.googleusercontent.com/vvZ6q0PbvbyTQTEmlaBgInFAGzbgjRCak5gUpZAAmQ8M9tzRi7zSZAm8SzXjMYcN8univ9oGnTBpjsYr4O_z07vcYpfCZV3T5s0"
+		},
+		{
+			"id": 45,
+			"name_skin": "hulk",
+			"skin_url": "https://lh3.googleusercontent.com/oRsaPPLIcxWi-6ncD4rmFOyC-PasdvUuTJRN8cF3eCYNevO1iWYxNZaeZyjgoWWUaxbdVbEIJsh4nTJYgAZV8TmIi7xBcdqQ5tw",
+			"view_skin": "https://lh3.googleusercontent.com/L6YyS3OOKj0F6mFKUCYeHKBX0TcKIf-lhR0JVhG2ECDbMc8aL9PYOFw-cE0fYfv2H0gkTViH_dW1EymFyMxIEgfAwFeTqPOsVg"
+		},
+		{
+			"id": 46,
+			"name_skin": "PANPAN1 SHE HULK",
+			"skin_url": "https://lh3.googleusercontent.com/9IdspcFAxyC4cRk-EVIDcNpyDVQBDu1hIr-QsvHu-JyXCvLPiwGk_Z35O8srag2hZ6N31_-y2pbHQjzCuyhrftdnRUFxcNJDWg",
+			"view_skin": "https://lh3.googleusercontent.com/XHvc1ajKD5ufAiHPAR1pFZ8PA96GD7knhhGEDnFOb8Nv_iAQutj5YHTzEcokvFUxWSSJxUuhcW2h-8qz_HwzEIbsYvhPwtWfjA"
+		},
+		{
+			"id": 47,
+			"name_skin": "she hulk",
+			"skin_url": "https://lh3.googleusercontent.com/mjuGni8WZ69hTrs8Q7fAlrfwIDtSnx7YBDWFq0HMqAdsDDL8CEnP1RRv9-y7qf5IFEeuuhNlgkWUxkVFeLrhmZOvSFrB6EBJJPZ4",
+			"view_skin": "https://lh3.googleusercontent.com/TGCYCYzpTFwTELT9C79DJmCJkQXM5QVevbape-TZPikyCNJBFpor8eUh6ZoHdEivWSGaKNGGSLtpmbMmrjCIBZUcNakxn450znNW"
+		},
+		{
+			"id": 48,
+			"name_skin": "hulk do vasco",
+			"skin_url": "https://lh3.googleusercontent.com/ITRjp2VpK8refpWjllTqZO2Gao4CLbowdBnJnsPM4ARp5vy2fFsrjF2i4Z9C2PgPbR7D7LpjBRyMzN2YuK1l0KAPegVVrkkj1Ts",
+			"view_skin": "https://lh3.googleusercontent.com/pO3mLb2qEVbVaBSWLPq9Cjhoi7SniRqo_7_QnTm4Sm1PPGiksARxvToa8H4e4ps_GDBJ5azo1FJc0d3izJv0yzCN-ANmpx7d3LBA"
+		},
+		{
+			"id": 49,
+			"name_skin": "Skin do Hulk",
+			"skin_url": "https://lh3.googleusercontent.com/ITRjp2VpK8refpWjllTqZO2Gao4CLbowdBnJnsPM4ARp5vy2fFsrjF2i4Z9C2PgPbR7D7LpjBRyMzN2YuK1l0KAPegVVrkkj1Ts",
+			"view_skin": "https://lh3.googleusercontent.com/jyzSxAy5kpZDfUIJA8OAU9tyr9CicRaDHUu4FaYywQBnH4lGOnx-GiOWPVJJgBqJyLGhq1TvuHRYoexedKre6vBuY_-yxRB_JFc"
+		},
+		{
+			"id": 50,
+			"name_skin": "hulk minecraft skin",
+			"skin_url": "https://lh3.googleusercontent.com/wGTIXxztI6u0r1SGJP2nDRLBlSAwCOxYWqWZ_RwXPR2d-lxgAhtJRWktrF5P-Yk35yolGKcE1NwHmGRQluRnGeEC6hJ_upxWXw",
+			"view_skin": "https://lh3.googleusercontent.com/Y3EAC_XJKY1-id_NC2xCblsaETGyXa-Wm-1bkbKgy4VTcMSFSxJOPwFClOt1keNfTCusZeWEpy48V7rvjhA3AFAqTiwNjCWy9w"
+		},
+		{
+			"id": 51,
+			"name_skin": "Hulk",
+			"skin_url": "https://lh3.googleusercontent.com/wGTIXxztI6u0r1SGJP2nDRLBlSAwCOxYWqWZ_RwXPR2d-lxgAhtJRWktrF5P-Yk35yolGKcE1NwHmGRQluRnGeEC6hJ_upxWXw",
+			"view_skin": "https://lh3.googleusercontent.com/7I9yY6cuhi3uxk6cH_Lb_jfeXOeSA0hVOSIthLO_PEicuiu1YfD1A4PgdqocUNj-Y-p8Ju4h5hF0M7LF1Q4nJWnbhUXY0BMxrA"
+		}
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
+}
