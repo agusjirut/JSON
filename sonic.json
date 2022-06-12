@@ -1,0 +1,348 @@
+{
+	"Ads": [{
+		"select_main_ads": "",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"native_for_admob": "",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 5,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"name_skin": "Sonic Movie",
+			"skin_url": "https://lh3.googleusercontent.com/ar06VgGtTrOziM_xtLRW_Es7L3bzr5jpFOT47lCoH0zZSwu9FiJDxCPsy4bhka51LLoyRIkvSlkTwYQufe7HjA8",
+			"view_skin": "https://lh3.googleusercontent.com/Es4wDztg-JqZJP5KY3HyzMB3-0VbWhTiqJkkzlDln5jCEpyW6hP-7-EEeAN6fl3_Fi14MgeCdYhm79QVti5ptsk"
+		},
+		{
+			"id": 2,
+			"name_skin": "Sonic",
+			"skin_url": "https://lh3.googleusercontent.com/vHn8uAs-NvSAg-24ToUZJTk5Mi5-FXjuYSapJZCCZYVwwADhNHw_3rr2rsfORrgqzGEFAVupj7iGPLSrW_Voiw",
+			"view_skin": "https://lh3.googleusercontent.com/2OvVySHEOLm3hJz4u4_bCV3v3qWayPBLakAwecXz14t9sya0sOTcMqOXCdmYoPnqsw8ksYsx_ssETzHd_AFg5Q"
+		},
+		{
+			"id": 3,
+			"name_skin": "Sonic the hedgehog",
+			"skin_url": "https://lh3.googleusercontent.com/NsWV5lojFAEePMyOGpyPGcrhyL1_c-W3ShVFbNTP1UDQRTUlY8fBP02kGk_MLJndl1EJxAcdIkx6GF7ddP7V",
+			"view_skin": "https://lh3.googleusercontent.com/NaA5sn1nezvi6nnZ1tfmz7zfdxfg63hVbQFHfPcTgAvpf_cZmaiJDz211LPT3_bwNh_zTOoaWOrd7FVKU5o05cA"
+		},
+		{
+			"id": 4,
+			"name_skin": "sonic exe 2.0 triple truble tails fnf",
+			"skin_url": "https://lh3.googleusercontent.com/MUqhymvDXSe8vzNj1NH-tVB-OZBY7g-tRjX6EI_QsXR2tR2Roe1kRwg09gCduHIxrMrlu0M_mETFGZDAL0DuW17hg2buhxrzAQ",
+			"view_skin": "https://lh3.googleusercontent.com/VZy9Uhj6lovNhRkwEvMpRwIb4_vx7VDXu_S2r8rHBCxf_i2BTXX7PDVV43vb4lanM6ApEkPPHxWHGDHJcBtDkWtNaBnHRWESrpg"
+		},
+		{
+			"id": 5,
+			"name_skin": "tails sonic the movie",
+			"skin_url": "https://lh3.googleusercontent.com/_bBVUU7xFME9y1WsJMpADFPe_cM6sYwcIR26QwKcISI6Aqwk9vlrAgE_1cl2VBfl9C7Q0b1nOiZtcy-PWNh13A",
+			"view_skin": "https://lh3.googleusercontent.com/O9nL3XfBNdFBwZ7HFuP5QZNhVJW6106MNTHQQDMdCZwOuYHXKEXYAviDs-BleE1wRF-fCL8Oao3ttm2IcFyN3g"
+		},
+		{
+			"id": 6,
+			"name_skin": "Sonic HD",
+			"skin_url": "https://lh3.googleusercontent.com/56EMfHSVETfs8dBopSnb9C-DO9cnDW2snwffcqP75SfecadmwL3IfQQ6uDKqqIthB2weXvGuggRwFVQPprzmDP-zC8MKA8bZQQ",
+			"view_skin": "https://lh3.googleusercontent.com/PnkgxsoAofU3Id4xYjUK7nE9LggSPMqQ96WAOPPAD_mYa3frtMHAwncvp04oIvx_ynZwBLaVMhVqhuvW7zuE2FQ0zSQ7Bw8kMqAy"
+		},
+		{
+			"id": 7,
+			"name_skin": "Sonic Dashing (SONIC THE HEDGEHOG MOVIE)",
+			"skin_url": "https://lh3.googleusercontent.com/uQuJrKlzrHajD_9bDgibDxCruEKi0qkzj69SuIjonrGp24vh7vulwyhHztEGVulyC53YrGqX-bxEl7PF22qQ",
+			"view_skin": "https://lh3.googleusercontent.com/ve4M07YS_MqStbl9QcEAE6oCOk5UCCC7U1ABfstpHKZZ_-Iyvf8rPAplynMrv5foQfw5ZoZX85dMo9hW-gQIvQ"
+		},
+		{
+			"id": 8,
+			"name_skin": "sonic do minecraft",
+			"skin_url": "https://lh3.googleusercontent.com/HJxWpdMM7l6-5ua83si5kyrxB_aGxzLd9zWfTp_Ci9tqPntlrB0tX_AaN3FkEpmEqzz11WkwlZ2de8eMDGPj",
+			"view_skin": "https://lh3.googleusercontent.com/xjRUBdmmeFedMhX4PS5D2ue_oiGAhA5Xns3qN-gObuSh1FStn6R3gOizR8kUQsWS_0URaT1dU2EpSgT6LgXG35eadzM4F4kwGjnL"
+		},
+		{
+			"id": 9,
+			"name_skin": "sonic the movie batlle eggman scene",
+			"skin_url": "https://lh3.googleusercontent.com/HAmVV9QjnOixI3cHA46CA7u6HJX6-QE1f9nv8YdmZW5QhHsjlRtCipuqLFDYaSVqLqjjBtr9fpjDn2loTvjR5KI",
+			"view_skin": "https://lh3.googleusercontent.com/9yY_DmOU6MBGXEtxuGIml7Fd00QmcL0YkNeRLLx9x1pT2C-W11NhFsXuDjXcEw6HF6kIG99BignB99z0wLS6yQ"
+		},
+		{
+			"id": 10,
+			"name_skin": "sonic exe 2.0 fnf fleetway super sonic",
+			"skin_url": "https://lh3.googleusercontent.com/--MozOUw863VtM5LyF-VXQuhIiQAP5Uc_FKV-NQDy4PanRM5lHaKuRl4cHTfn33NXBaaUjSOPuMeKx0e3pXutzGXvdhfray_j0s",
+			"view_skin": "https://lh3.googleusercontent.com/5I0GEmw-v87eSQDia3ojo2eoPhnYs-2MWAGd1CFb0xi9pS07SPJ5ZsyJwaEfu8kjo0LQmUi2IL66icSsfbGABqkoUaSPwjGLaQ"
+		},
+		{
+			"id": 11,
+			"name_skin": "SONIC",
+			"skin_url": "https://lh3.googleusercontent.com/KXkg2roSzntsmu7LRP3pdWt6Ja-79Bg4hfuI9Gp9HdIxQLZIQf-9_AcCpUe2iMBcHoz_R7GJb34ImfvrJz5pvw",
+			"view_skin": "https://lh3.googleusercontent.com/KWcL00w_mKY-uwXa-Ybt3Vi2ghRYvAnLk4wezzAuhsft-xtFXs87orBY1uiEKcPm0t9Mg3KsfMP_wsPZEiDEog"
+		},
+		{
+			"id": 12,
+			"name_skin": "Sonic 2d skin",
+			"skin_url": "https://lh3.googleusercontent.com/zW4WuHv8-ThzuADotTENskdqqt511cBQxEEImQXvozANxUR3vNlTQR2cdmf4-_VX8agkXeIXdYhssE-6qtDe",
+			"view_skin": "https://lh3.googleusercontent.com/4tlrc2VpwwZ4Q8wu6WbAcj7taimmxhr1tBO-wDrGTFeGQAbSDiT-59XNZkh8SM3tldrhnD4Vl5VK5Sv1jiNPug"
+		},
+		{
+			"id": 13,
+			"name_skin": "Shadow The Hedgehog ( Sonic X )",
+			"skin_url": "https://lh3.googleusercontent.com/Pf-laKHpEUvPspJYRkKTIto3RSK45ALpaWHnnIKFza40gtc6Bbk6UkOk1ZWW7KR4CCGCwOauVEhZbkSQskC4Ow",
+			"view_skin": "https://lh3.googleusercontent.com/NjUVfDD3uHONurqyBwduiqqSpuVj3bN-L0izZN-mnUrqu08CHHxt8_hLeGTA1aSv0it8sluMLQT9Ejn7JUoP"
+		},
+		{
+			"id": 14,
+			"name_skin": "[Sonic.exe pc port] Sonic.exe",
+			"skin_url": "https://lh3.googleusercontent.com/Zl9dQT6X0i0Zr9i93hNEObaoNu5fBAD6fwSRwrA46FUb9hZkK0FliT6Rs88_3ns8iWjRlcpdJbYJs5BaP2RCMz504hX6fekfk-c",
+			"view_skin": "https://lh3.googleusercontent.com/YLrrSOa8tBmHeGyCuPeBXQwrtPMABgw9nsb5Y4-XDNG-9q7YtFOx0Zq29vnfiSJc7DT4qYohKvgC2oU2Go_jSD3TBRZjbWHSntc"
+		},
+		{
+			"id": 15,
+			"name_skin": "Belle the Tinkerer (Sonic)",
+			"skin_url": "https://lh3.googleusercontent.com/nO8BiLIS7v5IVnaMC7Q-IwLEXYr2-B86g0r48KTzqrz6lM1fw1uDEJGPwJwL-Yd34mfz0v4i4HKxfGuZhvfCUamPfwiraHnjXpg",
+			"view_skin": "https://lh3.googleusercontent.com/Xrq5FvvzKlL3PZoaxl2CKUtl3NGSgL4sRW5yVLJ7mOVDthmL7KdvEnAReiKZ3M1Moak6FNQJA5WRbRZkKzJuf6BSzwqgViV7aCxc"
+		},
+		{
+			"id": 16,
+			"name_skin": "skin sonic boy",
+			"skin_url": "https://lh3.googleusercontent.com/RzbFsdo_orhWj3h59c2B5JZfdPEJes68euqEX8HMDhbt6ZMvIs0TvwmHVMkeNenAj8ivw9KbySoYVsaGw06pOA",
+			"view_skin": "https://lh3.googleusercontent.com/yJNqc3aUMcwSgA_NHq0OlbxqD5S_8WUclyH6BDyl2iUOb_Z_egNRbqVRuQk3HiC7bA1fLB9lzCkIOYMdk1y5Iw"
+		},
+		{
+			"id": 17,
+			"name_skin": "DLC Sonic Bedrock Edition",
+			"skin_url": "https://lh3.googleusercontent.com/f3WuTmV2wggcFFhrRp8v82bsBdc7hWyD2y5_oZSuYaqPJtobs4WnhumuuuguXE__OH34rX9j_JQVMjq89_FcuxPyUHm00xQGIqA",
+			"view_skin": "https://lh3.googleusercontent.com/_ICihegH8__e2RJWiyp6909L0LvQoKydikqVPQpYBoU4Bpvi0DodyFonJIcP-iMWLr5kFwWrq4l2L--f49O_W4pz3DyiA5u4xOc"
+		},
+		{
+			"id": 18,
+			"name_skin": "el majin sonic",
+			"skin_url": "https://lh3.googleusercontent.com/zL3xxuCzpNcs0bPYSW-HxcTFaNa7jgZAHq-a-c1IaPibDPF1Wf7JzwWtxmhVo9f-e5xCuiOZ1Vnlu3TWQvM5w5w9TaRIyyCJhzZI",
+			"view_skin": "https://lh3.googleusercontent.com/gArCpPeflhxLvPNFSJLh2z05JkGQOh3GJZJokxf5JrmncJl7Cr3fbPolaAGCvwZs6hVdQpk-PNOn86o3v_sYvInmeT_yS28MEg"
+		},
+		{
+			"id": 19,
+			"name_skin": "sonic pibby",
+			"skin_url": "https://lh3.googleusercontent.com/yReEAl6YejCMcmYPw9KSGV6tkz3zKC6VD3CIOcU-uiIT-D_UUebSox71NvSQR68Fr5Zl1khlXKzb72fGHhuvQdRctA97x1LkkYg",
+			"view_skin": "https://lh3.googleusercontent.com/2cKfHeaz1JYEI9l7OFfQSnYFAGRxDOlFgEnNrA0JTqEgQ9j8WY3r3PTigLCLKhmWOUoMT2ZRwG3wZm2iUvE3xsjTlMCwGFAPxw"
+		},
+		{
+			"id": 20,
+			"name_skin": "Sonic.exe fnf you cant run",
+			"skin_url": "https://lh3.googleusercontent.com/n8VHetpF4hO97Xqhz1_34inrS03ZWZQyEkCVoCau7bNo52rKGK_bpL-QzOW_TBAX88NdQ1aji8iDi52A4fmc1VYhdZcdK8Yrx9Jr",
+			"view_skin": "https://lh3.googleusercontent.com/O--bJV3wlCEpVWDQOKxPNa7EIYisXs-6EIaiHQQaKVAeyz8cKxzPR52fOZp1cb9Q6fe8btMd8gH1iZgspKinI2anBh1TaTq4bA"
+		},
+		{
+			"id": 21,
+			"name_skin": "Sonic The Hedgehog",
+			"skin_url": "https://lh3.googleusercontent.com/giBl2vU5F27oLlCi53F4KeD6FlHDXC4UuWFsXOXNyRU_sHEpZFNk51gcZUQQ36VAfqCE0xKe8B1QD8G5YXh41UM",
+			"view_skin": "https://lh3.googleusercontent.com/3zzTd_HTDq0lKRwplLntTteKQ5rbQUmzbJ11hcTCSkYPsRqsVZRHvQZnmSLxmw49SOSlI2ef-PznsaskgJ1M"
+		},
+		{
+			"id": 22,
+			"name_skin": "sonic the chicken",
+			"skin_url": "https://lh3.googleusercontent.com/_xdcYAXZz5Crj4GXGz8lLazuuU9Ky-_pN-iSNtRDu_E_uj8a-_rVrDNChuwd6jRgGJkXTzWuuOhDbTtG4Nm45MY1VwuD0TE_1ahU",
+			"view_skin": "https://lh3.googleusercontent.com/3Y5V9OO_dLChNuOIIz1RRD39YaBg7C9v7GpdQWNejacsjpU7QHX6uabckByXbicWAfKZ8v5hB-eFN3ExqVM3EM2lgT78Xu8yUJI"
+		},
+		{
+			"id": 23,
+			"name_skin": "Sonic Movie Design",
+			"skin_url": "https://lh3.googleusercontent.com/gDD_hdod_8ZIm6mIEN3UF6axxS6eC-AdH6kt6SjNQT71hncFNMVHt-blev15smrAsbYR1U1NcJL_bGKXBfa4Gw",
+			"view_skin": "https://lh3.googleusercontent.com/WGropPllUK3dtSbIoxD9mCoOmy4mVTIVU9Z1hBG_OD0uj3i_AY_ddDCNLITYDK2tOotOmoiJxHIkLMs1S8XQRBI"
+		},
+		{
+			"id": 24,
+			"name_skin": "Amy Rose ( from Sonic X )",
+			"skin_url": "https://lh3.googleusercontent.com/7S-1G7D1FjczRgbUNSZSYTcW-UjdiXPM2vwFeeKlO0SDPQT2sJ6nkYWhtE1ILckB8ZIX-bnBsF2GYnBjp2kKiA",
+			"view_skin": "https://lh3.googleusercontent.com/Nksckua_5lHIc8S20A2bG1ZG1EGrDNbquF-8jH1RMfodjyR5sNYrCQ_quvSFsFkSTN1_HXnSjx9LYMKFZ_DK1g"
+		},
+		{
+			"id": 25,
+			"name_skin": "Sonic the hedgehog skin in minecraft",
+			"skin_url": "https://lh3.googleusercontent.com/RtNCooAob8k6HmsgjLsWwx-SWJRYhTr82eF0IEbzv480CK139PL9fDd3BVyzZY3GdkXGq_4iZRK0BllZVRlj",
+			"view_skin": "https://lh3.googleusercontent.com/pP23-8Gaplt5uuxrU2R1RoMlbvRmk2Vdi0rjjaMxZtNEjGFy8_mIPGn78-911SHRHvs6voX_JExBnNHw1pieRe8"
+		},
+		{
+			"id": 26,
+			"name_skin": "Sonic Filme",
+			"skin_url": "https://lh3.googleusercontent.com/S4mZnNKn5YQpRxfJ4ak3vl2hJeDsUl_95cXOB1x3jRcDmpozRoUuIijUc56WICc-Q7W4f3J5O-3NGqvCgVvNtw",
+			"view_skin": "https://lh3.googleusercontent.com/opkZoxjp-7IKAXVjLcitGuARdWCJKpQXB2bDxLGONT34YCCwAfwwkD9fnZQv-MQw-T5YWboKlEcslv-ZLw0rAg"
+		},
+		{
+			"id": 27,
+			"name_skin": "Sonic.exe",
+			"skin_url": "https://lh3.googleusercontent.com/l2j4HPGRhNAgkZg2egkpPfUMbrAB_jYZa3rIoRxGAA2E3Sz1GLjzPemIOUXbhdAUS24JmQ2h5fAHGZ1CulJL0jYxySA3kk_yXcw",
+			"view_skin": "https://lh3.googleusercontent.com/gXEv5C7EVSAkQ8Qg10wBn_ldVQYekvLKxNPgCwD3YGQm30u3X3MNgtMtZv-hpiJjSd_Cl4cLmMf1028E5VTqPJnV2mxPXODwm6oP"
+		},
+		{
+			"id": 28,
+			"name_skin": "sonic meme",
+			"skin_url": "https://lh3.googleusercontent.com/aioZQvYOlDfEOwzzliNN7H9jeoi2H2d9umuef8c8wKmYGHrW37WPlXl0TjrHd6v91hhp5_AEXClrfTLhmcq1Jw",
+			"view_skin": "https://lh3.googleusercontent.com/C8Y7EpcY1A0Lvxty10LvbDXUjc-MLRdoGJzV1yL58WlTwvBKFlmplDKaNVBife9JUM-jbAST0HgPXD_2fFbf"
+		},
+		{
+			"id": 29,
+			"name_skin": "SONIC LA PELICULA",
+			"skin_url": "https://lh3.googleusercontent.com/urMAepz_wE8KTfETPjTO9aSs6bL9rH8lJwchmhqjViAar4GGsX5ZB8MyGg7BaDeicDLK-6PNSNkD8xZFvMih",
+			"view_skin": "https://lh3.googleusercontent.com/QfUBjF0U1QVpwKRbNYdBG-tCLs3_7Nk9g_ln6-_OTedy1qlwn26eJOLYojn5i9dvz1L0gjCFeiGwt66u3Ncc"
+		},
+		{
+			"id": 30,
+			"name_skin": "Sonic EXE DO MAL!",
+			"skin_url": "https://lh3.googleusercontent.com/b6LUex5-D9fih3XUUc2RFhxgBKNfi4OqMxOyV2bBn5-LyvMl-inEXSqKJCqagxwXLPCD1wm_wjgLN2wGyiZAdA",
+			"view_skin": "https://lh3.googleusercontent.com/KBrc4DP7q3tH274oR2QAaeC8H2rOox3x5PpI2DVeKzNHZjIUMUxkIV_2BzI8zxhCyFkx_96CuquiT5XCxyAcTA"
+		},
+		{
+			"id": 31,
+			"name_skin": "sonic",
+			"skin_url": "https://lh3.googleusercontent.com/MPicpVthEc6ZwB_1W-zP4z7h1Wqukv6qcHSavNUMey7C2Sm4UtNpcIm2AhEQxiKkDAVMMb_p4rQCjJ1-kp2pTw",
+			"view_skin": "https://lh3.googleusercontent.com/65BbHVSvcMa2BW4skkGdKCT2SyERdI8YR9mZtmItHMBHihkHk_x1YbBBifDFqcpSXuEtson54BF1oxSA3q360tU"
+		},
+		{
+			"id": 32,
+			"name_skin": "Fleetway Sonic",
+			"skin_url": "https://lh3.googleusercontent.com/Q9d-eVRi2Lv7u9aB3GxMbLqsOlU5ggWTO4RQUv5Uos_csbRGjYpvmw0rgKHiXSpXR_vt7KqqRQYbSHVyct8jT9Bm7444ENr68Bj_",
+			"view_skin": "https://lh3.googleusercontent.com/ZMrvKuMOmzliPoV9u9x1ujxFb5JJByPC5mPB9NzTXbPqJu74_JMwzgNVkuNjLJ3URL0kt-4-7Uq6StQ4-Fa05RRruaV6T_A7eFY"
+		},
+		{
+			"id": 33,
+			"name_skin": "sonic grass",
+			"skin_url": "https://lh3.googleusercontent.com/sIqxOLKl_JehzLHXjhiR1OHbIrgDKS4pHjAY9DfBzsBcARbgNJuZdadhPS4ASA0MTtju9jL4YSRCbIwAG9ZyOXfbGdAVg8wUu0AC",
+			"view_skin": "https://lh3.googleusercontent.com/hnzbh-iCuWzBpyIZk1xeSHAjCRXWoRY9nJiyvAap8stLHyy0uC_x6uQ0RgQF2H8MhN58A2Euw-EQ9w6dPV2mcP-LB9OE5ubdh9w"
+		},
+		{
+			"id": 34,
+			"name_skin": "fnf sonic exe youre too slow",
+			"skin_url": "https://lh3.googleusercontent.com/azaqBTw8e27Y8n3jyMog_fAz7g7Y1QsS96j-KpbMKpmsHnWTltkQued4p1eLs3kTt215RMfIRA7Lz1Edu8-bC2byfMguA2WWDPA",
+			"view_skin": "https://lh3.googleusercontent.com/GLASnHiNnp1qeONGI_nhdajW66x8eGK9C8chNCsja3choijMkWxo0aivsZwiHBQ8B5SqPftlDIBSBXc1pU7i1dHB70lun-NP4A"
+		},
+		{
+			"id": 35,
+			"name_skin": "SONIC MANIA CLASSIC TAILS",
+			"skin_url": "https://lh3.googleusercontent.com/CysnacswGSSy_o_idR18z9FIZvsetD-z-YUWwvVd8HvZaIySc0da13fylEisd7WgXB4Nm_Lo8nK9X0yNYvB2m-w",
+			"view_skin": "https://lh3.googleusercontent.com/jybiIooxCtwHJ9loMU1RJDVfrpgsfUpKP34k5x-GoHIu1s57JGqipIEt1FSObSNrvRyxcPryiXIHEhnAe90HJg"
+		},
+		{
+			"id": 36,
+			"name_skin": "DARK sonic",
+			"skin_url": "https://lh3.googleusercontent.com/8gEJUeo7Rzyk6eYmWY-fQfwZwbze3MpCxIX6o-ziqHsQ36XEicltbK24TtC8L28P48CUMxB7Ae-u6wuib6D8",
+			"view_skin": "https://lh3.googleusercontent.com/-rmhpZYK_lPQC3pxX1GauwU6z_xgb8PCZdkiM6YzjH5uFwpxZhlVAurvgKt4vD1vTC6j_0B6MAwf67ih2GWBzw"
+		},
+		{
+			"id": 37,
+			"name_skin": "sonic exe 2.0 faker fnf",
+			"skin_url": "https://lh3.googleusercontent.com/KsyY3NZg7um5W3yizPODhfqminxi9LtI7hT3HB1pddAMnd8jhEdwi8OdP1pwYPqH-Hyv1XInUsUJE7PabMlgf7yFlDtlTlcAQA",
+			"view_skin": "https://lh3.googleusercontent.com/dq_LpOg6D8Ok7M8jt0y5Lfs3Vozo1nyuoJ9NUzf6to7JUmVO_sFJamQyZT6LH8XEc13eObEelBfHqrFN-aMz-v45M6GXFTgVIHg"
+		},
+		{
+			"id": 38,
+			"name_skin": "super sonic.skin",
+			"skin_url": "https://lh3.googleusercontent.com/AFtIzHLc09mgnvabdY035xSJBZBN7lFVH9ILWC-03gYg6hio98ht6o0dW_creIU_qYLZAP2Fn7WNEs1wpyUM8g",
+			"view_skin": "https://lh3.googleusercontent.com/Z5upru5p6tcRLj1tHhh3Rqj2ljfwZTQLb36APCaUl9sB4euxbgAjcjBUe3zrbgi7cjmvUof-GWuTSjInVPUP"
+		},
+		{
+			"id": 39,
+			"name_skin": "sonic exe v1",
+			"skin_url": "https://lh3.googleusercontent.com/M3Zn3iPm1SJ4vdYN4FRzDvW7cNowrH-Lc12xyzc88lt_Bm1pXR_YLUUx_B14b9eCk-r4vvrsQMYbC-5AfPV8",
+			"view_skin": "https://lh3.googleusercontent.com/B2PAlShm7HnLsnWA1Iok6eq1PxoCYz5AEklcHyiwElHnF3DhyQ_6_OpWRFZcYTw2p44n_-HTwKR7pZgKx6SloQ"
+		},
+		{
+			"id": 40,
+			"name_skin": "sonic 2006 super shadow",
+			"skin_url": "https://lh3.googleusercontent.com/qnWiPI5I-PDtnMudGXYfn6gvvSIvXNvRs9A0jlR3TGe4Jom6G0mRNY0gOD1CqT0gZjz1LD3RqslvlITMvsmeudgbz81PRkfTlMc",
+			"view_skin": "https://lh3.googleusercontent.com/a6-LTADSSECdEkX_pGYNZ5NMrNpNZ4DFhd-PQG4xk3W58rUEtdaGqE1CmsaAa4poWclGDBcFkxq7CCQ-wtgxCCLiIi8BIuGCYi24"
+		},
+		{
+			"id": 41,
+			"name_skin": "Sonic.exe Skin",
+			"skin_url": "https://lh3.googleusercontent.com/Zpb6P2P5J5JqDGIrfyhNkCKEnCmBup0JoC-n1NUoLvVO9ZBNJkfxKWegsXJlg6Fr0eSZuZzZTd-xcjX0Ab3Qrw",
+			"view_skin": "https://lh3.googleusercontent.com/tiBd5ZKTq7UTydn5rzTRc_w0C4Ct3NiGYniwn-qXQjB7qB9chpRIc2VpmjNwTNJce5Iw8dGjZJfN0pSOA6sF"
+		},
+		{
+			"id": 42,
+			"name_skin": "Movie Sonic Chest",
+			"skin_url": "https://lh3.googleusercontent.com/ooujmnI5mrLzMvIdey7D70CYfljA-A0yx0HrKeneSTa5U-Ld7qGrmQA5o3h-1kot2-3jhg6pgxXeaBdA-kiNMg",
+			"view_skin": "https://lh3.googleusercontent.com/g5sRUzMEj7cOKt2otw8zOjz4zfQpqcge3hzcGsret4eojpSP6lBl5ZnxkE6poMQBqrstKUVDdezsuSfU5hHhHPM"
+		},
+		{
+			"id": 43,
+			"name_skin": "sonic exe",
+			"skin_url": "https://lh3.googleusercontent.com/7-nNDaj3kJDN7Yg3tJdwsHJe09GPwsYR4_Cq-Bd75zFvsTgwhjwb_--n0yqDqkBqO3melBxp_bid_H83kzwzgg",
+			"view_skin": "https://lh3.googleusercontent.com/3VXE_HWR4EIeKj096EdFkAvvdXT3DgPry_VFZI0L3UmTJwovvLMFaaxHOmuT1Qh1PJFZEUoWCovMoo0seCpiTQ"
+		},
+		{
+			"id": 44,
+			"name_skin": "super sonic",
+			"skin_url": "https://lh3.googleusercontent.com/RjHAW1xT5KPA21Ikm6ZnP-mAsUCf1R3MazJHH0H-pYAsWrOSCkVevjmyjlqjuM9-VX-Vh3xRaZiiffF-llSqqGODi_7TiUtvk4-A",
+			"view_skin": "https://lh3.googleusercontent.com/rK5iU4d6i_bgQPyYaBdCQxN42FDrzTBMonvGCT3n7Uyjcgns90ti9nnwTcLFX1x_PEOSXg4i770bjGO7aH70sTQxbjlNvC19Tnk"
+		},
+		{
+			"id": 45,
+			"name_skin": "sonic",
+			"skin_url": "https://lh3.googleusercontent.com/bL3D7a-iuU7BgQxQ8wkeeNYTqiTNQLySY1aSc5FC0bQjRuAdc62YN0WGr8cS-ZZx6591gwDWrLQXYJNpw8s5",
+			"view_skin": "https://lh3.googleusercontent.com/1FRWiagQGHOFK18Vo3tU4KRKUJjlOKwcQHjiona1Uz9fYQl8sKCTB9l6CdZV8FhtbEbaWE5EdunQJRKFIvm9"
+		},
+		{
+			"id": 46,
+			"name_skin": "Sonic.exe survival v 0.2.3 Tails",
+			"skin_url": "https://lh3.googleusercontent.com/UohzWNG1PmWnbDJxqzaOVDKjBkhn1hvamnEf4CrO71C1Vt0Znkhoi2c8K4pCm6OPA_jYGVXMagJnkAs8KnlQUw",
+			"view_skin": "https://lh3.googleusercontent.com/725FtVPiPXqsIXYdrbxjCC47gmDovTPznaZGEu2RclOH5tFb0I-J25HYJ9HOT7u-0uLRRdCBKGWbw7CjsDrLIA"
+		},
+		{
+			"id": 47,
+			"name_skin": "sonic the edgehog org skin",
+			"skin_url": "https://lh3.googleusercontent.com/MEJXdyG7sqx7ecmh39Nyv0yywVRrT0PHebyN_lwAuIziJyn2RpQZ2ob-_W38fslNFZ8FYY6ydr_sBDTUxxxwSvQ",
+			"view_skin": "https://lh3.googleusercontent.com/BacPyu4VzkMwC3VGt6kolBauSn65oPl02jxSLAwJq2G5ByF-cUEXwKIySek56wjoU-iQHs8_pM7F9nFYTIZFkUM"
+		},
+		{
+			"id": 48,
+			"name_skin": "TAILS ( SONIC )",
+			"skin_url": "https://lh3.googleusercontent.com/dYsvPD8-w2-M2BcPiuQnpNVQAgGqCv9-6JVZq9k33JS-HMW1_jLutXK_spspsOUkU2nTgO53hY5mc_nHeb-G1w",
+			"view_skin": "https://lh3.googleusercontent.com/jsx4MnDBJm3WPCdk1phDnNE_R-IaPFBBxePhoOHV4nNE2VlIwpUgyb_0cQOnEbkmxustsaGw2-FYQwOU4-PMFaCzjIxKikrqmyc"
+		},
+		{
+			"id": 49,
+			"name_skin": "MOVIE SUPER SONIC!!!(V.I.P.)",
+			"skin_url": "https://lh3.googleusercontent.com/l0kC1dmevzMoocCKNeKkg5WYJMo4mtc8hctJXg7o2uTrquw8qKeDSmW2sxpwFi4MSmeEu_E53qM6_njI_Za1_iE",
+			"view_skin": "https://lh3.googleusercontent.com/y_RVA9hbECLtqWiQ0_L8uIArDAJBQFcFhRe1mjVIaRbwALRypYe738W7IwGNdSz81Z-2FsHHkJi8HD_39DLqrw"
+		},
+		{
+			"id": 50,
+			"name_skin": "Ampere the Jerboa (Sonic)",
+			"skin_url": "https://lh3.googleusercontent.com/GAiRHtxefdFqfQiKm4TbEhPpKqbY8F9-fwrIQ5f95UsXviC0itYJ1dNKAiP_DEXT2e84MVC_ExX2yyx5QU6I4QUQ-UJbvFy7_tE",
+			"view_skin": "https://lh3.googleusercontent.com/gHD61P2SMJxOArVRpi3fKf1fpZHTUaxO8UYMkSvu_KaK8-C-WgneyKWyZEU7rO-A4Mo_-76-GSfSPXDQdOdWfWJ561DRIokvEP4"
+		},
+		{
+			"id": 51,
+			"name_skin": "Sonic Boom",
+			"skin_url": "https://lh3.googleusercontent.com/9MQzrvbvsha6kZerWF7ri42ACHqOUzmh3i9n8LKeHkW6FRV8OKWdPteBHxkEjvIlELadi_PqbNH-mxmNQ1M8sg",
+			"view_skin": "https://lh3.googleusercontent.com/hgnOR2diPC0J4LN1v6Gvn8etGV2-Z6kKtdH92a_WPDWcngBqnVquSQW6IqgNbjZhs6jj1dB5OiI4YtUAMKe3Rps"
+		}
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
+}
