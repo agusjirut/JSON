@@ -1,0 +1,258 @@
+{
+	"Ads": [{
+		"select_main_ads": "",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"native_for_admob": "",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 5,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"name_skin": "boruto filho do naruto",
+			"skin_url": "https://lh3.googleusercontent.com/uPTsdOPjBr6vsFg2HgpHh_4HBlDoVhEIDkQpETvuHfbHsrHpuAknMa0Lci8_K1MgY4b0rMTmi2T3OdCjdqgIWQ",
+			"view_skin": "https://lh3.googleusercontent.com/0YRY6KrnT1Waovep_wmI-vhPF_O9lXZrfNyz_u40oYs4W6R_GcEIvzJmS6x8FQB35MB3xIwy-DGpq-IlPZPfxk4"
+		},
+		{
+			"id": 2,
+			"name_skin": "Sasuke de Boruto",
+			"skin_url": "https://lh3.googleusercontent.com/mfj30ixODyfXmVMKvvz01oGEDAPTNO7-0P3a6pjlg3wlVDOLSea53PN9mKZhZKe500GSaet7kbNykpYK-yaBsQ",
+			"view_skin": "https://lh3.googleusercontent.com/O7VJB_z3V8oPhvDZWE7w82WmXjclkHduIDQqxTeZcv4-M_cqhi5xyynjY-71wXnyFQJoBZqVuHFyYEUJcmjR"
+		},
+		{
+			"id": 3,
+			"name_skin": "boruto e naruto",
+			"skin_url": "https://lh3.googleusercontent.com/3veDCeUe15dVLJ4C76V-sD4QSNghiDV0Ea8SlkBz_zuEGEjO_fds27Uk_rglPYVpH8GavqjS9FzPecFH5vwYf_Y",
+			"view_skin": "https://lh3.googleusercontent.com/_8b0hy5x103dPP49UB67UFL1KzY8a2nLGf8grtQa4aKCQEL5AOJg0E0HH1dRNqTcrJo1OlrdSsHQxL0FAB34uQ"
+		},
+		{
+			"id": 4,
+			"name_skin": "Boruto todavia no lo termino :v",
+			"skin_url": "https://lh3.googleusercontent.com/ClO6u9BQJBcFa5udb07Rufvz4ypTOqSMePi2D8IFUKoaLE7F-qolnhcPwT4d-2UZAMuvp94AaiubJaIVAljnUA",
+			"view_skin": "https://lh3.googleusercontent.com/QoAuW77Y3nCIiREYEVzeDTT7s8x3ghs0ZK0HuZVlCNyKP0tL1JIa8rOCit0HWddrKmJUFiXkYw9HwWHfHvwpHw"
+		},
+		{
+			"id": 5,
+			"name_skin": "boruto",
+			"skin_url": "https://lh3.googleusercontent.com/DH0iAvYj2nIcWhQCNjuUBRTG5RvkTacvHyz3l_fgbeGk4ZKqkDt-mll-yPeBBXNBiNIUh6SvoNtrRGF4HyVVrb8",
+			"view_skin": "https://lh3.googleusercontent.com/RHYgIPlV843qAQV1WCZYkZoyzlSZK2TTvl6LPoL_lCIl80cjvCIBUeghhmLrjrEXJ3s39B7qFn_YRBGpsUJq"
+		},
+		{
+			"id": 6,
+			"name_skin": "Boruto - Bryangamer412",
+			"skin_url": "https://lh3.googleusercontent.com/6B9SCL7vn5rkEKux2RJA0bhN7fsHHaakpi484gtrB-k32RKWhbOHWJ9m2wMZMtM8M0v1yu9wd_0fyeh8ggaepg",
+			"view_skin": "https://lh3.googleusercontent.com/HgOqf744ZP6xG2gymjuEvXQ3TxaSFz7yV5key6CyRq6HVn2uDu1YRggn2VpiOyoY3KPPGU1lBTintImMMBjvpLg"
+		},
+		{
+			"id": 7,
+			"name_skin": "boruto",
+			"skin_url": "https://lh3.googleusercontent.com/Hku2-8F0A0x_Os0610ErRETEOIBrUvyaz1LDgiTiT-IUN-7tjaNtcfAFZT36VBl4L3OFfcA0UNgInsI9SWX2",
+			"view_skin": "https://lh3.googleusercontent.com/nT0kGd2gI3ZTM7JM0wd0ra_jZQe7VSeGZYDaEXSTLxy-IfZyjzKYlsMXBjlT7joLc2z4bSvTFc7Z4tVjIiH3oQ"
+		},
+		{
+			"id": 8,
+			"name_skin": "boruto akatsuki",
+			"skin_url": "https://lh3.googleusercontent.com/2wvpSpMx7bUIivZ1tfkSnvXO3Lv56ElDVknzufOgWj10XpyTE-e3HZZE3qMHuEgqiILNCEs8Gy1HJPVnW8p0pCfF0KgDuNrEz0w",
+			"view_skin": "https://lh3.googleusercontent.com/5qBrdNnnFe-3X8YBWJN90xLxbq-4Z2uecZtpPeos6ZWZ4lnqmp_QdivnVi3LdpykIFMel43zl3FJGrApTHGF-kmQMrbJf5tTSlKT"
+		},
+		{
+			"id": 9,
+			"name_skin": "trage de naruto y boruto",
+			"skin_url": "https://lh3.googleusercontent.com/sRtDrFNoToNzfG41fYaoTe0j0dVUOmIINCzY-r1Gu8wVfYlkOJCAuGJXOSl1iFEQQMBKPXm-3EfYC4KyKmJufTc",
+			"view_skin": "https://lh3.googleusercontent.com/8efUqE4LW4cd9qZ-kYtyu9qbo6ipj1wfJrXuNhJ5Yb4_0xwvyb4IXFVFUgcH_EC3cmFJZWA6MxIBsCSyhPTpMg"
+		},
+		{
+			"id": 10,
+			"name_skin": "Boruto: naruto next generations",
+			"skin_url": "https://lh3.googleusercontent.com/bwi4KDT5ROSNJmFEftHb2_Q4tH2W2TD_hrK_n1yCbTUNaCDcPDD9bcf_2Y8SXt8dYhiBvmoRQqLf3S6ry1AvqhI",
+			"view_skin": "https://lh3.googleusercontent.com/LBlj0DXqwPTVQ-uRBsyQKaH6R6ePIlmCbwEb2xqUnrN8qz7Qi9S8fNA3yfXiiIcZifRmJo2Kw3aT6RIb3LNPZ4E"
+		},
+		{
+			"id": 11,
+			"name_skin": "Boruto (Ropa de Naruto)",
+			"skin_url": "https://lh3.googleusercontent.com/mzyZ7Sc1VGxD4ms1GWCHGVUZamDaDBSIAsyjkRllH3rYCJSBsrm1pr6r5pI1sQV3HtxuOPRoFcgB0B3ufBlf4QY",
+			"view_skin": "https://lh3.googleusercontent.com/Ldlkujm9wB6LXottouCO13vOVhr3MswQydrrtexBj5K-3wI2L9Uxb_-Mm8_ZaF5vrSAgWM_Ps4dyP9hMsLZkzQA"
+		},
+		{
+			"id": 12,
+			"name_skin": "Naruto to boruto",
+			"skin_url": "https://lh3.googleusercontent.com/LmSB7BnxHmDhF4lQBK7Uirui9_AZp5wi6hPZtrFlSiroC5VAawRd89Uv9BMjeMpDcZegajeTXyJ9aaDFfniWmuQ",
+			"view_skin": "https://lh3.googleusercontent.com/Td5o074f8hWZVSCnDp24D0t_U3esRgPp74bQPYr10Z8_0fnNVYH-zvOqI0CcwUS2BPbDFilub6Z4BDppD2qj"
+		},
+		{
+			"id": 13,
+			"name_skin": "boruto naruto next generations ju",
+			"skin_url": "https://lh3.googleusercontent.com/eEAwlDhJq0jqs5cNpi7xkMJDHDgpcUgyKypoEjZ6bebiNjCTwzJ5nEIbPobgDSA2HzKvVYkOHhUWYlRImEGtMWY",
+			"view_skin": "https://lh3.googleusercontent.com/ewjSJb6oiKCPcRFdlXjd4e23nShrtW5oqaNdv98dhjikKQ5lxHgdAyTegHBjC9zDcfpq1v3YKlZarLTzfWH8Lg"
+		},
+		{
+			"id": 14,
+			"name_skin": "boruto uzumaki",
+			"skin_url": "https://lh3.googleusercontent.com/luUCenQ5wcyonOHQBRNww4bim2GnDuv0EwD-SmKiEE6Ss8y9dxbo_K5tOUNTyMaPL3glUZewHQLdGKPIo2gt0IM",
+			"view_skin": "https://lh3.googleusercontent.com/IFvZrNhn08d40kE2VVk8AmDeTbyn5_7aJNdCo7I2gRUtIQP_TFpfL5tGIhLl1WoK1BKfnYRNPncHrfZh9TqFcg"
+		},
+		{
+			"id": 15,
+			"name_skin": "boruto skin",
+			"skin_url": "https://lh3.googleusercontent.com/f3-KlzFXAiFmnKpS7E9nksKRz0ExK7KsVnHKAVUglJbLFZYYqKPQVTAqyIBEhsXe83zFbmrZW9nzh_izZvexA-g",
+			"view_skin": "https://lh3.googleusercontent.com/fNoFcL4FonmSWgXENVVF1CxNbbB85ar0fR4rqqeTEEM-U_-pn8dkHcBb6S2lxxeZOBEHHghkLiYI_yCQVnVL"
+		},
+		{
+			"id": 16,
+			"name_skin": "Boruto",
+			"skin_url": "https://lh3.googleusercontent.com/R4e3S9Bf6GK1Npqzji-m7UFwdOavg7o2onmIJZyKy2jzZoPfqAiStcOMUMS_4rZgygK2hEF7swy2b9A4y3bo9BY",
+			"view_skin": "https://lh3.googleusercontent.com/h7xvlLTY1oxBMEhSMShX4DwW2ZouEuRIryVw-dDLuopzdsq7JFIeKF2krgNUYVMOkjXgNxFnldrKiuviK4AH"
+		},
+		{
+			"id": 17,
+			"name_skin": "boruto con ropa de naruto xD",
+			"skin_url": "https://lh3.googleusercontent.com/ikJF1_9WiR1rz4KliEf3TgUkIpNE9iYhTUUjKvPpM0ADOpevhiFqezz1DgUZHSVc7eqmr55XSnmPNm8qhZW3nw",
+			"view_skin": "https://lh3.googleusercontent.com/Ft5l8xz7So-42xcUzQYffvm4r5VQOf2MhfMgnpi7uDVn0S-GB1qhFJtytSILOsErXVwYYG5OW3oSoAJN19vx8kY"
+		},
+		{
+			"id": 18,
+			"name_skin": "boruto uzumaki",
+			"skin_url": "https://lh3.googleusercontent.com/cj5dcXW168jw2QwtwlX2C3awdsNILsoq_adYp1hpuUD_T02BEw1d0na1KzPuCDShhD4jES6G0zBiuyYKeNb9",
+			"view_skin": "https://lh3.googleusercontent.com/n-3aORj-GbBNbPfIvX0AeBgwR1llhdlCi4CgLqfydsDQbFgUOEeBF8RenGvXxjSB1DlXxxmsl9qIHOqxfpsIJg"
+		},
+		{
+			"id": 19,
+			"name_skin": "Kurama Boruto",
+			"skin_url": "https://lh3.googleusercontent.com/H3NnKp1tTLEwpz6kxcx6HGzQKD8e2ODYF4XnV5feSKzM8xSdN2lyWMUjsA8EP1oXxaukN9d6Ug4EDFYcFP855A",
+			"view_skin": "https://lh3.googleusercontent.com/Vqt30OvNlEK83nV9DtW40WGde1FbwOKvx7N8ZScyPM6W1lORqHAjZqtN-jkaqiJtu4y22XfCRPoL6qxQZBRg"
+		},
+		{
+			"id": 20,
+			"name_skin": "boruto Uzumaki",
+			"skin_url": "https://lh3.googleusercontent.com/dob22g9qGHt71ULwLCNivJz7OEuYPBUV-mZklwXHNxq-OfT0JB_aP-n21wqEV-KjPJIUpgebslKhxWa6Esy0",
+			"view_skin": "https://lh3.googleusercontent.com/u8d2Z2aipmZbp9Fn7Tjt290R3dMmzpRWduna8SQrI7iUoBHkebi7BB0sssB_BkHzVbqzX2nLp7uYO12QElENUjDQLJJN0NdrNI4"
+		},
+		{
+			"id": 21,
+			"name_skin": "boruto uzumaki",
+			"skin_url": "https://lh3.googleusercontent.com/Z8E141hfSVrUPoon9EMUP4rMgD1gPNenbWgQ1dTOutRY6UlAUKE6jQWMWRRkF196rolb848Sb1FFzpy6SYyNRw",
+			"view_skin": "https://lh3.googleusercontent.com/uzNfb4QGjY3MAQ-0ITr3URylVUguDFxR4PoyQ-DRe9h8yMZuf4YeteOwIjUatPPGF4D0Jysp1Pmxz7I1z629"
+		},
+		{
+			"id": 22,
+			"name_skin": "kakashi boruto",
+			"skin_url": "https://lh3.googleusercontent.com/VjaOeguW7QSsjGz1jHWgPEk1XPLhthgkNiK6uZpDmZOVs6BtyjhTddONyll30r6I0bFrnYsSB6gErto4nfZhI5nUIyz-8LgeEso",
+			"view_skin": "https://lh3.googleusercontent.com/Xun6EM2fBZKW7LqfATjusn3rYkssCdgbFvWcCGBy2YCv199jFRP2L5soTlmRCQeNLi0cRfVTUCsLcA0Yr2BuDwIn-gCFYMrSaCBn"
+		},
+		{
+			"id": 23,
+			"name_skin": "Boruto(Karma)",
+			"skin_url": "https://lh3.googleusercontent.com/JJxoDgPmVngCmVXHPa38J-ds3UUsIy0hS62EWHW790-Em1Bn2W-U_7juyCTlwHKNDP3mHpMKa1xp5AyUgl7F1zI",
+			"view_skin": "https://lh3.googleusercontent.com/AnXO9qIZP_U4ZW4cL_SZwgnhCEXstS2umcp25IiV26OS40_NesIIQwMxA1EFtCkitUjy7_Usz4wo8y__pvA02A"
+		},
+		{
+			"id": 24,
+			"name_skin": "Skin do boruto com a roupa do naruto",
+			"skin_url": "https://lh3.googleusercontent.com/jg0T0DGL4niCib6cyyWFUeVR2tvJ7r41jRvhxKXt_cod8aA3sfehp3VEOvcdd0pX5ewvwY5bIa3XPdqQMzVD",
+			"view_skin": "https://lh3.googleusercontent.com/Rr8DPVSi8urEUp1Oich5peMbATALJso91irQLncNczcZLKBLtMylI--V3vzYaXA9OfT47V8Iz-TUkztDc1zY7g"
+		},
+		{
+			"id": 25,
+			"name_skin": "boruto",
+			"skin_url": "https://lh3.googleusercontent.com/Pj6tUzLWQcncHwV-Fd4x0p0tB6Ig2aOybAuO71VMARwY5c4zv1D5YiQ9O3P1D_GYBxvDrdX--xPafT8oswvH",
+			"view_skin": "https://lh3.googleusercontent.com/f_QVU93nNfWlc-tcXqoggusgMNZKY7rgGFhmOvrnsnrbnPci6Vp24aiStNGlObPpKmBO41NNCSaEjV4vBklWTg"
+		},
+		{
+			"id": 26,
+			"name_skin": "Skin Boruto YouTuber Gamer",
+			"skin_url": "https://lh3.googleusercontent.com/NmkLQXSbvjR08X6qDntpMSykkrwl_1uBlj6bKShHeclYuVf2BqFOqUlQhc8l91lwkZVvoWnRjun-4BU1Qrka",
+			"view_skin": "https://lh3.googleusercontent.com/mCMH3P0280jGVzYm6KmMr_YD9Y9O93NZa6DXl2xfswrS9ldbUk1xyoTOtw1bIgEPgDjJg7lk0qULpqINVFSUAQ"
+		},
+		{
+			"id": 27,
+			"name_skin": "Boruto (Karma )",
+			"skin_url": "https://lh3.googleusercontent.com/BW_f8khSDFeIOdwwnlTa38_oPF4GAQIo-OFHnSz7uq5_RQ5Epcvll2MSqV4dOdNB55chq2iQz8Gt-TCRAYWoNg",
+			"view_skin": "https://lh3.googleusercontent.com/HNOI62psIP6rVqJR6BSR58Yh5NCRAsEYcaowRrupthmYoqXnwQMaHG1PQ0mohKC18mQzlZsUOB5ZoZFviit-lwrkTzpJDGiTok0"
+		},
+		{
+			"id": 28,
+			"name_skin": "naruto de boruto",
+			"skin_url": "https://lh3.googleusercontent.com/DQgRDboe8DAYkWlK7UXLzOl2C4wWTbR9dpn7KMiE9pL7DZihJRSUPbzo9kVSRyHpcwoHGEpMozw3Ibl6RKbJk1I",
+			"view_skin": "https://lh3.googleusercontent.com/U61PfjuOkQqxnIkbTZASm-ap2F4fEe0MWe4Z1yNZkYY0kP3h0YS8iQiydS7hD3Qqpomj3CQEIBYs5-iaI5MS"
+		},
+		{
+			"id": 29,
+			"name_skin": "naruto e boruto",
+			"skin_url": "https://lh3.googleusercontent.com/f3-KlzFXAiFmnKpS7E9nksKRz0ExK7KsVnHKAVUglJbLFZYYqKPQVTAqyIBEhsXe83zFbmrZW9nzh_izZvexA-g",
+			"view_skin": "https://lh3.googleusercontent.com/rtEzGx8b-S6rLAISDP-mFUY0zx3Pit1mkRrfqIE7BNGUaiAVc5geZwuL6SANTmGwR77Tg2ap7KwgWnEYQWdMEEYiSnReU3QtLQ"
+		},
+		{
+			"id": 30,
+			"name_skin": "Boruto Uzumaki 2019",
+			"skin_url": "https://lh3.googleusercontent.com/-7mlQ-WmlhcGyT0O__ZeJ4n5MBp7jCIZw3kRU3riSBo4IIbM8J4M3H9uniJMcwUJVOVwmFCJLPEZcAzhfwrEHcA",
+			"view_skin": "https://lh3.googleusercontent.com/4HOszb8t5lokzDVNY6gvWrwCwjjKXCYnv22oc1uUtwGRsviDuv47v2dI8fn-FqvuI5n0vChOws_3EZK9JZpC"
+		},
+		{
+			"id": 31,
+			"name_skin": "boruto pack",
+			"skin_url": "https://lh3.googleusercontent.com/gptj6dzGLljsIeMbzjDnCgM8uhT2FIszVzhEA-HdJN_HclodrYVUNaXdJybHS0KOqRqDCmTI7Cafg13dT9u6",
+			"view_skin": "https://lh3.googleusercontent.com/zKrQGx7af8tAq3LSQWTlQtV4a02Wg2FM9Z9j37YtmAKnsOEt4FLcfMRX96Vi3HrdayXZ0Jh-HSneIfmLfPk4Fw"
+		},
+		{
+			"id": 32,
+			"name_skin": "Boruto Jougan",
+			"skin_url": "https://lh3.googleusercontent.com/bIuWKyACx4nLf0UlrjneM0IQphBzuQrzb4WTj98hl6ziOMRvBkfNl09i99_4Ys140edCsmZKS4ANqHoUKmEcIg",
+			"view_skin": "https://lh3.googleusercontent.com/NN6--8YVhFdOZu5MHGQTu3NXLW2EOq2ufG-36lcJ4V3SCVNaI9X4oRHUVMi_cW6yAw3yN_sUMvcZtz_W-VGQXg"
+		},
+		{
+			"id": 33,
+			"name_skin": "Sasuke (Boruto) SLIM",
+			"skin_url": "https://lh3.googleusercontent.com/YizNIZNBFKva7vr18fFqVgiOqpSY14lXO3XpRrC_tBPX3z49MKuMA5UUFV8FNJxmx7vkB57VmdOFC-hp2pgIqw",
+			"view_skin": "https://lh3.googleusercontent.com/QRfrT-lJO4EjRgIMxnF0eEnnwbX4ReeelAJAOAhvKF1WeZASA5QqxMINsi2Y-OwrFAP2KBE_LyBkbPQv2ZKF"
+		},
+		{
+			"id": 34,
+			"name_skin": "Sasuke boruto",
+			"skin_url": "https://lh3.googleusercontent.com/KWFV1H0XLMaYcIROr8uRrWXIxgtbW9qiakb39uwzHz8NEp2iIIANOPglVtvAJzQAp-cCNWKtIN2bIWtpkaf9iA",
+			"view_skin": "https://lh3.googleusercontent.com/2fCPB86FsXrgdWyQ35FARgzWMFZa5Whx_SRwFyvr9AOmF0Eb8_wMyl3Jtu63o1wYncDCKxbAdjm4TOS_ALuDfQ"
+		},
+		{
+			"id": 35,
+			"name_skin": "Naruto Hokage Boruto",
+			"skin_url": "https://lh3.googleusercontent.com/cZTSDBANLxoFv4q0TWfcyeT2UvjFKaUiZlBReSeaPDX3vq8ZORQNFEXo-ZHaeRPOFOX7qz9YRP4Vvo9_A-wk",
+			"view_skin": "https://lh3.googleusercontent.com/Ia77KjWf5ls35_rxJNGdfWHPQ9bjypvMnidkUYycMxlYBR2e84Jd1O7232pLL_3JfDdJ94HlNbyY7tev57L5IKf_9iJFrdMfdQ"
+		},
+		{
+			"id": 36,
+			"name_skin": "Boruto",
+			"skin_url": "https://lh3.googleusercontent.com/Rt4TQEn-Lyn79nzP6Jnb2PMdLtHIQERq3wcD50WaDpntiBnZ86hiDXzMYGAbh919FdIFPEzIA5EABu2IZ1jIC-UnSYqBHLgSTuc",
+			"view_skin": "https://lh3.googleusercontent.com/z1om5uhojesnzuvpNUc1OX5viBnfO1PpVfVqpO2xAv98M4-Foz6Aqj69py8PP7DKRQUMOLld5ZX_sqBlTLJni6SGWBr1Dy8CQpIV"
+		}
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
+}
