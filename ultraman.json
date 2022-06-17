@@ -1,0 +1,258 @@
+{
+	"Ads": [{
+		"select_main_ads": "",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"native_for_admob": "",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"interval_intertitial": 5,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"name_skin": "florentino ultraman",
+			"skin_url": "https://lh3.googleusercontent.com/GSI1DktNjrJJaDwgzm7tIrF3_q6h_jVJeLGpFl7YWnJDoznI9x7d0v6nY8OEqKHF4wOeBaS6LGCKJZbp_kQkGwOF_W4mNvjHSJk",
+			"view_skin": "https://lh3.googleusercontent.com/5LDVMVAPsluDHltJTptG4y3hl_Na5cKyI_iOcxGYP-WGA6vDv2GGkFLEt4zVygQUCTpl9twfLByM7V5hGU_c8SFxKr1bXWxOGeT3"
+		},
+		{
+			"id": 2,
+			"name_skin": "ultraman zero 2",
+			"skin_url": "https://lh3.googleusercontent.com/rkA6XqOdMbnbb6coBBQ2Zfw780n_iX4WUrBF9Tg-VKhwjkB8wF-MuC8VSNwO6aeQY_wMtUyIbK7s12zlskfUPA",
+			"view_skin": "https://lh3.googleusercontent.com/MoAFRGZnZ4x4aclxih8AG3cKi8oRBIgNuIPG1vHLTy0AKUog4UrCH0_rU1wzTRxzYkuquM7ucIKDKGRWn4nu"
+		},
+		{
+			"id": 3,
+			"name_skin": "Ultraman Ginga",
+			"skin_url": "https://lh3.googleusercontent.com/nLsFlSy2mDnTBXBTdNpJl-qpUDRPMEzDY4CoZShnf68APy7PDpboT4_G4ZL_Gq8K2nviD15BOFzSbT-WMmA4",
+			"view_skin": "https://lh3.googleusercontent.com/-VIQ6CMjOh7dUcIHCqooHSM7C_-rJkQ5XLGa2e3z9BZS2S9c78WtAm8MKSn7lROvA5hCQ0qlSCd4qChoy4W7"
+		},
+		{
+			"id": 4,
+			"name_skin": "Ultraman Geed: Primitive",
+			"skin_url": "https://lh3.googleusercontent.com/CEh3U_73OS6-EGLEzhyRmC6tcHGppYwCjLcIU7VBNL4Rcv-Gf0qiBByQb3m1KPp897pxFdVyhf-FkGGy7vUd_0w",
+			"view_skin": "https://lh3.googleusercontent.com/bFimT2yYETIDecNAvovlqRQIWydMGfOYF2MaiewIkqr3dfuEWmWtbQGrHOD7X4yrieazOqI9omg0hqRkyqohxQ"
+		},
+		{
+			"id": 5,
+			"name_skin": "Ultraman X -cyber x-",
+			"skin_url": "https://lh3.googleusercontent.com/bcClCl0A3poFzS2SFMJV9UGUZB3wrIncznmo3BjDrJi2IasycRmqy5bTpdjH2smm2DPRPHTneoPq3pz3EAlNHA",
+			"view_skin": "https://lh3.googleusercontent.com/Y6I30wVUmR1QeRfFXlJTmnzF1jfhBW5FJ88j6bcKiJbZmCl4SefYGw5x3vKTHU1Y4IXvjvsFBxbwXhJnPDJFS00"
+		},
+		{
+			"id": 6,
+			"name_skin": "ultraman Z",
+			"skin_url": "https://lh3.googleusercontent.com/mr1drVo3YQjmIsJ-It9XuktGHWGrD1AAepMb_mZL8MiCdQC7MdziGPFrJKua8TFFvefuKRbS5ckNoNZLLLOx9Bo",
+			"view_skin": "https://lh3.googleusercontent.com/4L7KlEpMFZAvFA2DlQ5BiBdfPCo28RoF7Zek8q4ZPuJqFhyc7pxTEC5xVRFXWpZ10tw1kTf9Zt33tWvc9YlJww"
+		},
+		{
+			"id": 7,
+			"name_skin": "ULTRAMAN ORB",
+			"skin_url": "https://lh3.googleusercontent.com/pShYcQGt60KS3rppN18TkjhnPTS60h1_LinzR1ESytN8Ij9YTlGvEZIr2obhyrht0PsjfMqNvXuWq2Ids1IG",
+			"view_skin": "https://lh3.googleusercontent.com/l8Jc6ODiY3JKByEib4T-CLtWEfdmST__7SlqpJNiaIugli5rULOE7Tt4BJ8tBjKu-uQAP4xPE33OPi-nOcktAQ"
+		},
+		{
+			"id": 8,
+			"name_skin": "Ultraman Ginga V2",
+			"skin_url": "https://lh3.googleusercontent.com/aXtXTdr3q8NtsCaAvOEKzqOImBrSZhE8OKEu-RpE4QN_CneltDeu0BEs5jSyPzIrzqUk51hrqdbvL08qei0uZg",
+			"view_skin": "https://lh3.googleusercontent.com/32Ds3cv8TeB6kvp-WUkeI_qTXe6bCtOA3CHeCnH-t_wF1NrXdvSPmfYHcRHvtff1TpsvKxL8cxHPWeg68K-8hg"
+		},
+		{
+			"id": 9,
+			"name_skin": "ultraman zero beyond",
+			"skin_url": "https://lh3.googleusercontent.com/0EXPARTIRGjvaKi9vfi2VESmJ-r9CkNTPYcikClDC0sdxmAhE38RKqogcIwgUjskb1VTRCNnfrrAAfWCai3S",
+			"view_skin": "https://lh3.googleusercontent.com/lL9Pe7Pl00ah4k7ERm2lWNUw4gPS2RPqXJUfPHAKvtWNvwTz3EB4yY8XlmSwlqr1poa5IX1SrHDruLA0kRLoQg"
+		},
+		{
+			"id": 10,
+			"name_skin": "ultraman geed royal mega master",
+			"skin_url": "https://lh3.googleusercontent.com/dHMyVmRSP06KYb6Ck3fAvWOf0sNzz_v3iPGqKIzjZpx22C8zOQ3MPm6HIs6a53VGmSgXyWnQ5gKU6fdtCzOBeFs",
+			"view_skin": "https://lh3.googleusercontent.com/pQD2cI5f_z-Y5wOBzJr8XnRHxkP7fUmhVIoVDxbunX1IPTNTz53DKabeum3BsaF5EBrwgOa7QejnL-cC_KEfkFI"
+		},
+		{
+			"id": 11,
+			"name_skin": "ultraman x",
+			"skin_url": "https://lh3.googleusercontent.com/bcClCl0A3poFzS2SFMJV9UGUZB3wrIncznmo3BjDrJi2IasycRmqy5bTpdjH2smm2DPRPHTneoPq3pz3EAlNHA",
+			"view_skin": "https://lh3.googleusercontent.com/44y4nRn9mBgpwX1Jm2iW66phE4XV5YCnxFSEenMWSWxXoyAQVj4eLfSFy2VJYqYjmwC6CgBIq9joPy2rnq3arX8"
+		},
+		{
+			"id": 12,
+			"name_skin": "ultraman victory",
+			"skin_url": "https://lh3.googleusercontent.com/ApHChxt9Mnl0MubrVRR28xRGdqhx7U2ppYRCFEVI6uqQJKwSh5hX8o_QkUDeNcQx3mCysjPwK7fIfTEV7wSmgA",
+			"view_skin": "https://lh3.googleusercontent.com/5_U9NB-JEdjTCPoHnE5airQoAz5izlNL4cIEIEBJ0_3tJ_B9foH8UAJUE2nJRJkZP2kmZB6myLRAiBjUOmgagw"
+		},
+		{
+			"id": 13,
+			"name_skin": "Ultraman Mebius -infinity",
+			"skin_url": "https://lh3.googleusercontent.com/Hy8h82bZJ_eOXv6TjzS5pxWxfvhK98jktSC1hoLPFo7c0JMz211ed6vfvosaquNNdXd2pQTAMuLZjrAJBM0vvg",
+			"view_skin": "https://lh3.googleusercontent.com/2XYJND_DhQqmrwMVBA_SJ4jvLMLypWqYNkSYr4-jwWD3o-_F0p34qwi9O4H9QQFFhrTRo_yrucT4rIF2Q2RtMg"
+		},
+		{
+			"id": 14,
+			"name_skin": "ultraman belial",
+			"skin_url": "https://lh3.googleusercontent.com/tviFHjDoGPieR_KWIm8aM2Y82iIxIzSQ8399CF6nj51BFH348kIUDYb0N57q7m01oLXXPvQD-fS-qaOV9iK4Q_1u6r8A3IgIeYA",
+			"view_skin": "https://lh3.googleusercontent.com/vLDH4jJLkzjadda77haiUjHqp9fEd9nnSVE1kk_-nW_K4SBEGGP2gQz7Oo8dJHhsI6Zmj-Wad9e2FJVl5RzU-akTIOOhnxJrAnY"
+		},
+		{
+			"id": 15,
+			"name_skin": "ultraman x LV.2 fixed",
+			"skin_url": "https://lh3.googleusercontent.com/GLEmnggjLR13p_vrZr-B2zGCy-mjinR1lhb4fhZ5yW0S8X1JvKRjzvxiTdkNvCaf_rWhLKCp8VWNue-zWUGRl0uktHNHbAAqORdv",
+			"view_skin": "https://lh3.googleusercontent.com/HDeuUiwd6JDudbHBf3cpKXsW0RkptmZTHxdIAitEKq1j9NVqhwX40snH79dQHr6lQsMOKUjW52hLFFl8kdAhNj-rV3jKa6e7wCLK"
+		},
+		{
+			"id": 16,
+			"name_skin": "ultraman tiga",
+			"skin_url": "https://lh3.googleusercontent.com/m27udR169YjyIwiExp6T-mb-gy05uTdIzSOJ1H5sNCOZeCyK-zOdVihOh1iK4m90TrPaWVbB7Zz_3BIn_EhUX95-V_dQAqm7xzI",
+			"view_skin": "https://lh3.googleusercontent.com/bPZpQIUtJ0vwTPRBdueXGtq_cK9dXjJiU-LSgiZ9kqp-NIBRrS3ACkiGU_OLRH6PXff6IX0SpXrgJxAz8LxHc22IRJb3FtO6AZs"
+		},
+		{
+			"id": 17,
+			"name_skin": "ultraman rainbow darknest beyond",
+			"skin_url": "https://lh3.googleusercontent.com/fpq2zEynYjwOuA0T1fEIoBBLxYdtcfZzmxYA57dKdQ9nHCvPG1PVPGSoRxFup_6YD2csxqf8q0PpoZ76odh6JxmkCB-sVr4atg",
+			"view_skin": "https://lh3.googleusercontent.com/_2yyddKU-7ZYlz7SICRME1JEADUvu71z_Ygdfb-Tb5-_DxIgRqw7gGNiFWorF1U6qVt7IPqyOon8IAheIQKT3sU9jqr1gjtLFvqI"
+		},
+		{
+			"id": 18,
+			"name_skin": "ultraman X",
+			"skin_url": "https://lh3.googleusercontent.com/qRQ7WUVIa3Q_H3KBYEihUJqFHo1ZKZXBM0uY3AZvkamGN1--NdN9_tackbimZpQUkuTVJrwTbMyDeXw4xIRxC_M9OD12-nIlzehk",
+			"view_skin": "https://lh3.googleusercontent.com/PeWc_ihaR5He0IfWeKfL1HRDwQ3DpDKElnOAZxmXO4RTtUSL6FoqCBu3lO3ai-WS0IsG4eKGEPV865PTbuDG2a3Ba-FMRF3xRf0"
+		},
+		{
+			"id": 19,
+			"name_skin": "Ultraman Orb Hurricane Slash",
+			"skin_url": "https://lh3.googleusercontent.com/LcNaoi5YAZf6NXbrNHSKPhIvmBD6StkTV485EVIW9gCEmb3W1pbCQVlscKG_Mi_lf1fHkpIKKlKttUWMfa8MLQ",
+			"view_skin": "https://lh3.googleusercontent.com/T-OO6-sfLeNShNLqFGEXv-zOor1Ek_HvYLfJyECHs7clvSWX-ydkzfR4VenAah2j3hbuTcJF368e4j1hErI1wA"
+		},
+		{
+			"id": 20,
+			"name_skin": "ultraman orb",
+			"skin_url": "https://lh3.googleusercontent.com/FlE2oDR0MOTLyklZUh7gOIihklrCEpveP-Bp9UPVQ6ffaz_gS8wiUKV66SBlzsOBcY6ywRkh4I282G8qEd5StII",
+			"view_skin": "https://lh3.googleusercontent.com/eoHduss57bNL1M_zFyHaqgoMpZq3irq7z0SvT1fURUqRMh5bq2s_ICCkJ5Znk_QZcPLxSpC8c5bv2Tw8ZnYo"
+		},
+		{
+			"id": 21,
+			"name_skin": "Ultraman Trigger Multi type",
+			"skin_url": "https://lh3.googleusercontent.com/fRJJ6ZNH9e8B_YF68txMkUgiQpZaSSsWhF-h8-IqcHzy15ChRGtisSyIa1AQufZtyFgAFoNmIyCC_uTVb0t2AEJuHGpUB5gk7JFV",
+			"view_skin": "https://lh3.googleusercontent.com/UVBFnJ1JrrNIh8TOeVwCptiamaJYXSTujof04nNjlFtHcBNhC9bOAvUJU1rulqZvb3eXMDOirJsmjnUZ6PMfMvkdHTE5TFzzBt6e"
+		},
+		{
+			"id": 22,
+			"name_skin": "ultraman seven aov netflix by sonsr",
+			"skin_url": "https://lh3.googleusercontent.com/wxzFOrEgo8RH5lVHBT8zQ95gtvOCYlLKUD-Pr5S6zB0lsAS-J4g3_n_u_i2PR1J8C4-KRmOfjq0IF43TeCJ6NJkVP_UFF2vjbg",
+			"view_skin": "https://lh3.googleusercontent.com/UBR6dc9FThgr8qzh6VkHv2Aqn29X6IXVLwlBonWHvL4iQzztm0uPzwZKs35lCM3bseYHkjQHUtmyiCjCqPh1MtKMSHkyzT2zrg"
+		},
+		{
+			"id": 23,
+			"name_skin": "ultraman zero beyond",
+			"skin_url": "https://lh3.googleusercontent.com/IGA0Zot0YtOwBTobRA0s4dc4X8gaz1u_CVrmVw52sk2Ei772qi_0HsqDnXWLMoMWlYMXn4_perv1NHgszGmW2g",
+			"view_skin": "https://lh3.googleusercontent.com/Hd9wgTL3m-oCK2oR92pUXPIUGn1FWYjutn_cvvFItQ63yWcg3b8ZMV9cMkedI3JOVItZ_dDP9ij-V_9rk4le"
+		},
+		{
+			"id": 24,
+			"name_skin": "Ultraman victory knight",
+			"skin_url": "https://lh3.googleusercontent.com/tDlMCVhljUTKCZRaxgAzXI8_mQL0auTWs9v-HVZwBgpVVdcqI6sh79T4_WfPYUMz4CK7edSggryOD1VsKT_2vA",
+			"view_skin": "https://lh3.googleusercontent.com/N9IvyhykODmbsXeLlyk2f7YXt3mtE7J4kHUp75kdS8FXj2pW1AjE6a3_kJuyC3-LI3d0Y46A2kZrkjMMwW4bww"
+		},
+		{
+			"id": 25,
+			"name_skin": "Ultraman Ginga",
+			"skin_url": "https://lh3.googleusercontent.com/m2GNAxzuSYv5n2Z4N3gNDXzLFuggK7hUyquEHJug8B2pa5BilPXJzrC7Fvx9dRPFyLnpbEpqfBsfiTOc1Qz2",
+			"view_skin": "https://lh3.googleusercontent.com/FGypiAvuoxiOF3iFStHrLMQxt1ynIYlJ0f8J4tfB6dXIX1loTmXuQ_jpF5KOSxAjUtSIzSpzMJ7U4RJzRKUkmaA"
+		},
+		{
+			"id": 26,
+			"name_skin": "ultraman tiga negro",
+			"skin_url": "https://lh3.googleusercontent.com/Tk5yKWdBmMd06E4JIJKyebssWgr8mq737E-Imo5kKr0-EGMrBiOv8OsSIrKsVvYmUBqeoUcyJzY3KqCcyL6XQ7c41ZlHrDLLAw",
+			"view_skin": "https://lh3.googleusercontent.com/J0XUPp0de5nXLYkGVuBRSllkYCrZD1kIZRNWbVCfAVYYqhMX54i2ywj7kMkog7kCKDyLA5r-iTmCnRFrV92LM773bTh8AwKKOg"
+		},
+		{
+			"id": 27,
+			"name_skin": "ultraman zero slash",
+			"skin_url": "https://lh3.googleusercontent.com/B1R9Fm8NOhEhD_lJpQrmgSbz3Do6k0XDza4OG7Y2JEQes7pVwFS4lQLn9Zy5nj-4X9VpT9rKxw88s30odD9Xpg",
+			"view_skin": "https://lh3.googleusercontent.com/eXdCKaWKW3IR2384k5pXbIRz_ns1N3Ghzq1luCDYUzGDLFL2d2mgQ2OJfi5cXUW5vCSl9FfJMw03oDUgw8ehphaSKaacDJPXGgTE"
+		},
+		{
+			"id": 28,
+			"name_skin": "ultraman orb origin",
+			"skin_url": "https://lh3.googleusercontent.com/pXmmwG6PIgiWME8oQeJGAftqzNsijelrv0QJNcXCc4od_kI7xIaJ6wumF0UD8y1twe2N0l0On_d-cFZ_LT2eQfGARQ20ZToxiQ",
+			"view_skin": "https://lh3.googleusercontent.com/gMe2hA8s73QPomh0ir9rq7bjG76ZG10aPM0qmLLz1takm_hE_vpRFJmuz0fmhFBUoLUPe8_qLLp2QJY41HuMd7X2dGF9Yw1lz7M"
+		},
+		{
+			"id": 29,
+			"name_skin": "ultraman zero badai",
+			"skin_url": "https://lh3.googleusercontent.com/rkA6XqOdMbnbb6coBBQ2Zfw780n_iX4WUrBF9Tg-VKhwjkB8wF-MuC8VSNwO6aeQY_wMtUyIbK7s12zlskfUPA",
+			"view_skin": "https://lh3.googleusercontent.com/KElId7nHQjBIbqNM3Em12aEguFrcmlRY7TQaFgpt3eN7CiEYvVP5644ys1j4a0HxDJN9XYz3jbJIfpyml3KV"
+		},
+		{
+			"id": 30,
+			"name_skin": "ULTRAMAN TIGA(ウルトラマンティガ)by『M・K",
+			"skin_url": "https://lh3.googleusercontent.com/nr9phWVaRO8pghBr7gO8I3fukS5MNCPAjKir9BA5Q3LJtyjFnKgmKHenZJUB8Vg8HWrdkDDsKQqK9PKb5HahICPWdOKPGaeADw",
+			"view_skin": "https://lh3.googleusercontent.com/x2-zx9C8SQ_o4snrkL-VOBUyCLIHefj96TdolLanMiInVAxsYzr4-hrllhV-bFwI3712aZo3bLMjnmIX_T_5a6gz6Wdx9XqhNSo"
+		},
+		{
+			"id": 31,
+			"name_skin": "ultraman zero api",
+			"skin_url": "https://lh3.googleusercontent.com/zKX65WFPniREgSfJtyWrhcoSTSdErvIXKavwFWx2sXtQWt2sHIzywCVrJF3WgRPvNKNOnZNskhw7PMmg6YKLaO4",
+			"view_skin": "https://lh3.googleusercontent.com/6zWLtzxalqgOAMR-nAUs8CA5wgUz3zzIUBJQT7WatrHG7O2Pqx_TTQssD4ln4_PfeT2zoB4jEsVqDAky6ES7"
+		},
+		{
+			"id": 32,
+			"name_skin": "ultraman geed",
+			"skin_url": "https://lh3.googleusercontent.com/Ww1VFCHx2xLIsnU4_FTnpVA99JtbAX_BPDaoHpMs5pL3GXzkXL4gNk3vKS_1v7drNfdcXXQPpr0bqhBXaWQ8",
+			"view_skin": "https://lh3.googleusercontent.com/6XyZiN1RTvy-uqaSD8waCsz7DhyiqaYeYw6CqkbkuRmqCXKqohKQ_SQ9WosfQgZNcFVf9G60aNDCzfPQ5W9Csw"
+		},
+		{
+			"id": 33,
+			"name_skin": "ultraman x",
+			"skin_url": "https://lh3.googleusercontent.com/lCrHgYyEMVB1R5Gsx4tr94fD-jwc9Kg_Yi12h-5JUMELJlrt0HlPQPadz0gtc1ZOpaBZ81unPKxDfFZNJ_pBNEg",
+			"view_skin": "https://lh3.googleusercontent.com/viNeM2bS39r1CH2hNkVoalcU8E-TXPpjtMgypI2taf8mqknciF8qWNoXNB5vWfRtAm8EG5XcXFVLEOTqn7u9Hw"
+		},
+		{
+			"id": 34,
+			"name_skin": "Ultraman Agul V2",
+			"skin_url": "https://lh3.googleusercontent.com/9bMO74azfK8w8A4hx_diHWoNHymVFLIXy8631NqzTVe5aFl_RdG46DauvP4VIc_A_1k5izIapgT-zfTf9lDy24k",
+			"view_skin": "https://lh3.googleusercontent.com/SfyydcZ7FAhoWk0fpZbg4gEe9o7k1hp-PM5loTOB1UT8AEDnZWHf_7Tb2cFf6pkwd1WXgn0klxRQrn5y03AAlQ"
+		},
+		{
+			"id": 35,
+			"name_skin": "ultraman tiga negro",
+			"skin_url": "https://lh3.googleusercontent.com/Tk5yKWdBmMd06E4JIJKyebssWgr8mq737E-Imo5kKr0-EGMrBiOv8OsSIrKsVvYmUBqeoUcyJzY3KqCcyL6XQ7c41ZlHrDLLAw",
+			"view_skin": "https://lh3.googleusercontent.com/wBKLR1q7Wek0B801ASO4B50eNy-LOd7o6ALtKch90hzTYPtvp81zEUEF4EE-6s3JkV5KCDINSN68wovzFsXFempbsRzAl6yN4_Ft"
+		},
+		{
+			"id": 36,
+			"name_skin": "Ultraman V2",
+			"skin_url": "https://lh3.googleusercontent.com/VTKfSKFRc9x0msg7XHDbKeL42EKW6PnmPX7vFUWU7VfeSMpgBCZIo8JuWKXQW8_xMgL_b7PvD8KmQ3CjfCKpiw",
+			"view_skin": "https://lh3.googleusercontent.com/uWS07jul1tJwqMMgsJ2BEcHjWScwhaOmbV2yfFWxzjTIo6nqGD8iT4_2WYoiyhaIv6cjQEEwmgoNIvMEUOtc"
+		}
+	],
+	"Addons": [{
+		"id": 1,
+		"name_add": "Cat Plush",
+		"add_url": "https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+		"addB_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+		"addR_url": "https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+		"view_add": "https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+		"des_add": "https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+	}],
+	"Maps": [{
+		"id": 1,
+		"name_map": "Hello Neighbor2",
+		"map_url": "https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+		"view_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+		"des_map": "https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+	}]
+}
